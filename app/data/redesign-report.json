@@ -1,0 +1,3018 @@
+[
+  {
+    "lecture": "Anatomy of the lower limbs.pptx",
+    "file": "/lectures/redesigned/lecture-1.pptx",
+    "slides": 30,
+    "verifiedTextIdentical": true,
+    "verifiedNonSlidePartsIdentical": true,
+    "layouts": [
+      {
+        "slide": 1,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 2,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 3,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 4,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 5,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 6,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 7,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 8,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 20.5
+      },
+      {
+        "slide": 9,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 10,
+        "bodyTextBoxes": 1,
+        "images": 2,
+        "tables": 0,
+        "smallestFont": 21.0
+      },
+      {
+        "slide": 11,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 12,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 17.5
+      },
+      {
+        "slide": 13,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 14,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 15,
+        "bodyTextBoxes": 2,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 16.0
+      },
+      {
+        "slide": 16,
+        "bodyTextBoxes": 2,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 14.5
+      },
+      {
+        "slide": 17,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 18,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19.5
+      },
+      {
+        "slide": 19,
+        "bodyTextBoxes": 0,
+        "images": 2,
+        "tables": 0,
+        "smallestFont": 32
+      },
+      {
+        "slide": 20,
+        "bodyTextBoxes": 2,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 19.5
+      },
+      {
+        "slide": 21,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 21.5
+      },
+      {
+        "slide": 22,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 21.5
+      },
+      {
+        "slide": 23,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 24,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 25,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 20.5
+      },
+      {
+        "slide": 26,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19.5
+      },
+      {
+        "slide": 27,
+        "bodyTextBoxes": 0,
+        "images": 2,
+        "tables": 0,
+        "smallestFont": 32
+      },
+      {
+        "slide": 28,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 29,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 21.0
+      },
+      {
+        "slide": 30,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 22
+      }
+    ]
+  },
+  {
+    "lecture": "RRBN MXT 102-MEDICAL IMAGE PROCESSING.pptx",
+    "file": "/lectures/redesigned/lecture-2.pptx",
+    "slides": 45,
+    "verifiedTextIdentical": true,
+    "verifiedNonSlidePartsIdentical": true,
+    "layouts": [
+      {
+        "slide": 1,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 2,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 3,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 4,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 5,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 6,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": null
+      },
+      {
+        "slide": 7,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 32
+      },
+      {
+        "slide": 8,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 9,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 10,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 11,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 12,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 21.5
+      },
+      {
+        "slide": 13,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 14,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 15,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 16,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 17,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 18,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 19,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 20,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 21,
+        "bodyTextBoxes": 0,
+        "images": 2,
+        "tables": 0,
+        "smallestFont": 32
+      },
+      {
+        "slide": 22,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 17
+      },
+      {
+        "slide": 23,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 24,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 25,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 26,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 27,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 28,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 29,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 17
+      },
+      {
+        "slide": 30,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 31,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 17
+      },
+      {
+        "slide": 32,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 33,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 34,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 35,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 36,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 37,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 17
+      },
+      {
+        "slide": 38,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 39,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 40,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 41,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 42,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 43,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 44,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 45,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 32
+      }
+    ]
+  },
+  {
+    "lecture": "BASIC COMPUTER APPRECIATION.pptx",
+    "file": "/lectures/redesigned/lecture-3.pptx",
+    "slides": 49,
+    "verifiedTextIdentical": true,
+    "verifiedNonSlidePartsIdentical": true,
+    "layouts": [
+      {
+        "slide": 16,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 36,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 35,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 34,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 16.0
+      },
+      {
+        "slide": 33,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 32,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 37,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19.0
+      },
+      {
+        "slide": 38,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 18.0
+      },
+      {
+        "slide": 39,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 44,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19.5
+      },
+      {
+        "slide": 43,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22.0
+      },
+      {
+        "slide": 42,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 17
+      },
+      {
+        "slide": 41,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 21.0
+      },
+      {
+        "slide": 40,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 21.5
+      },
+      {
+        "slide": 31,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 17
+      },
+      {
+        "slide": 30,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 29,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 21,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 20,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 17
+      },
+      {
+        "slide": 19,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 18,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 17,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 17
+      },
+      {
+        "slide": 22,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19.0
+      },
+      {
+        "slide": 23,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 16.5
+      },
+      {
+        "slide": 24,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19.5
+      },
+      {
+        "slide": 28,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 17.5
+      },
+      {
+        "slide": 27,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 17
+      },
+      {
+        "slide": 26,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 16.0
+      },
+      {
+        "slide": 25,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 15,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 16.0
+      },
+      {
+        "slide": 45,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 17
+      },
+      {
+        "slide": 47,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 7,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 16.0
+      },
+      {
+        "slide": 6,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": null
+      },
+      {
+        "slide": 5,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 4,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 46,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 2,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 21.5
+      },
+      {
+        "slide": 1,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": null
+      },
+      {
+        "slide": 8,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19.0
+      },
+      {
+        "slide": 3,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 10,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 48,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 32
+      },
+      {
+        "slide": 49,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 14,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 9,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 12,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 13,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19.5
+      },
+      {
+        "slide": 11,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      }
+    ]
+  },
+  {
+    "lecture": "LECTURES ON INTRODUCTION TO DAYLIGHT AND DIGITAL IMAGING PROCESSING.pptx",
+    "file": "/lectures/redesigned/lecture-4.pptx",
+    "slides": 46,
+    "verifiedTextIdentical": true,
+    "verifiedNonSlidePartsIdentical": true,
+    "layouts": [
+      {
+        "slide": 25,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 44,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 18.5
+      },
+      {
+        "slide": 43,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19.5
+      },
+      {
+        "slide": 42,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 41,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 40,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 45,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 18.5
+      },
+      {
+        "slide": 46,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 21.5
+      },
+      {
+        "slide": 23,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 16.0
+      },
+      {
+        "slide": 19,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 18.0
+      },
+      {
+        "slide": 20,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 21,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 22,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19.0
+      },
+      {
+        "slide": 39,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 17
+      },
+      {
+        "slide": 38,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 18.0
+      },
+      {
+        "slide": 37,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 29,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 21.5
+      },
+      {
+        "slide": 28,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 27,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 26,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 30,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 18.0
+      },
+      {
+        "slide": 31,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 18.0
+      },
+      {
+        "slide": 32,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 36,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 35,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 32
+      },
+      {
+        "slide": 34,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 16.0
+      },
+      {
+        "slide": 33,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 18.0
+      },
+      {
+        "slide": 24,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 18,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 18.0
+      },
+      {
+        "slide": 16,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 32
+      },
+      {
+        "slide": 6,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 17.5
+      },
+      {
+        "slide": 5,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 4,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 18.0
+      },
+      {
+        "slide": 17,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 18.0
+      },
+      {
+        "slide": 2,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 21.5
+      },
+      {
+        "slide": 1,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": null
+      },
+      {
+        "slide": 7,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 3,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 21.0
+      },
+      {
+        "slide": 9,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 18.0
+      },
+      {
+        "slide": 15,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 14,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 13,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 8,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 32
+      },
+      {
+        "slide": 11,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 12,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 10,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 17
+      }
+    ]
+  },
+  {
+    "lecture": "INTRODUCTION TO BASIC RADIOGRAPHIC EQUIPMENT.pptx",
+    "file": "/lectures/redesigned/lecture-5.pptx",
+    "slides": 29,
+    "verifiedTextIdentical": true,
+    "verifiedNonSlidePartsIdentical": true,
+    "layouts": [
+      {
+        "slide": 14,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 17
+      },
+      {
+        "slide": 25,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 26,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 17.5
+      },
+      {
+        "slide": 27,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 18.5
+      },
+      {
+        "slide": 28,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 29,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 12,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 21.5
+      },
+      {
+        "slide": 11,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 16.5
+      },
+      {
+        "slide": 24,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 23,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 22,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19.5
+      },
+      {
+        "slide": 15,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 15.5
+      },
+      {
+        "slide": 16,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 17,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 18,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 19,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 20,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 21,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 10,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 32
+      },
+      {
+        "slide": 9,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 28.0
+      },
+      {
+        "slide": 8,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 1,
+        "bodyTextBoxes": 0,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": null
+      },
+      {
+        "slide": 2,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 3,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 18.0
+      },
+      {
+        "slide": 13,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 5,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 16.5
+      },
+      {
+        "slide": 7,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 17.0
+      },
+      {
+        "slide": 4,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 6,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      }
+    ]
+  },
+  {
+    "lecture": "INTRODUCTION TO AUTOMATIC FILM PROCESSING.pptx",
+    "file": "/lectures/redesigned/lecture-6.pptx",
+    "slides": 24,
+    "verifiedTextIdentical": true,
+    "verifiedNonSlidePartsIdentical": true,
+    "layouts": [
+      {
+        "slide": 10,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 20,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 21,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 13.5
+      },
+      {
+        "slide": 22,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 23,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 24,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 32
+      },
+      {
+        "slide": 8,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 19,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 18,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 13.5
+      },
+      {
+        "slide": 17,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 11,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 12,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 13,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 14,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 15,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 16,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 9,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 7,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 5,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 1,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 21.5
+      },
+      {
+        "slide": 2,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 6,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 4,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 3,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      }
+    ]
+  },
+  {
+    "lecture": "RRBN MXT 202.pptx",
+    "file": "/lectures/redesigned/lecture-7.pptx",
+    "slides": 60,
+    "verifiedTextIdentical": true,
+    "verifiedNonSlidePartsIdentical": true,
+    "layouts": [
+      {
+        "slide": 1,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 2,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 3,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 4,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 5,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 6,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 7,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 8,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 9,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 10,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 11,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 12,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 13,
+        "bodyTextBoxes": 0,
+        "images": 2,
+        "tables": 0,
+        "smallestFont": 32
+      },
+      {
+        "slide": 14,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 15,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 16,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 17,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 18,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 19,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 20,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 21,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 22,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 23,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 24,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 25,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 26,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 27,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 28,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 29,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 30,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 31,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 32,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 33,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 34,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 35,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 36,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 37,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 38,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 39,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 40,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 41,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 42,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 43,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 44,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 45,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 46,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 47,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 48,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 49,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 50,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 51,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 52,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 53,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 54,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 55,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 56,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 57,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 58,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 59,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19.5
+      },
+      {
+        "slide": 60,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 32
+      }
+    ]
+  },
+  {
+    "lecture": "Dr. Collins Lecture 2026-2027 First semester.pptx",
+    "file": "/lectures/redesigned/lecture-8.pptx",
+    "slides": 53,
+    "verifiedTextIdentical": true,
+    "verifiedNonSlidePartsIdentical": true,
+    "layouts": [
+      {
+        "slide": 17,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 49,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 48,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 47,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 46,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 45,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 44,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 43,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 42,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 41,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 50,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 51,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 52,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 8,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 9,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": null
+      },
+      {
+        "slide": 10,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19
+      },
+      {
+        "slide": 11,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": null
+      },
+      {
+        "slide": 12,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 13,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19
+      },
+      {
+        "slide": 14,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 15,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 53,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 40,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 39,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 38,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 26,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 25,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 24,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 23,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 22,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 21,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 20,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 19,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 18,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 27,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 28,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 29,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 37,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 17
+      },
+      {
+        "slide": 36,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 35,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 34,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 33,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 32,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 31,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 30,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 16,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 7,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19
+      },
+      {
+        "slide": 5,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 1,
+        "smallestFont": 17
+      },
+      {
+        "slide": 1,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 2,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 6,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": null
+      },
+      {
+        "slide": 4,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 3,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      }
+    ]
+  },
+  {
+    "lecture": "Anatomy of the Upper Limbs.pptx",
+    "file": "/lectures/redesigned/lecture-9.pptx",
+    "slides": 34,
+    "verifiedTextIdentical": true,
+    "verifiedNonSlidePartsIdentical": true,
+    "layouts": [
+      {
+        "slide": 1,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 2,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 3,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 4,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 5,
+        "bodyTextBoxes": 2,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 16.5
+      },
+      {
+        "slide": 6,
+        "bodyTextBoxes": 2,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 15.5
+      },
+      {
+        "slide": 7,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 19.5
+      },
+      {
+        "slide": 8,
+        "bodyTextBoxes": 2,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 21.5
+      },
+      {
+        "slide": 9,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 10,
+        "bodyTextBoxes": 0,
+        "images": 3,
+        "tables": 0,
+        "smallestFont": 32
+      },
+      {
+        "slide": 11,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 12,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 18.0
+      },
+      {
+        "slide": 13,
+        "bodyTextBoxes": 1,
+        "images": 2,
+        "tables": 0,
+        "smallestFont": 21.0
+      },
+      {
+        "slide": 14,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 15,
+        "bodyTextBoxes": 0,
+        "images": 2,
+        "tables": 0,
+        "smallestFont": 32
+      },
+      {
+        "slide": 16,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 17,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 18,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19.5
+      },
+      {
+        "slide": 19,
+        "bodyTextBoxes": 0,
+        "images": 2,
+        "tables": 0,
+        "smallestFont": 32
+      },
+      {
+        "slide": 20,
+        "bodyTextBoxes": 1,
+        "images": 3,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 21,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 22,
+        "bodyTextBoxes": 1,
+        "images": 1,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 23,
+        "bodyTextBoxes": 1,
+        "images": 2,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 24,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20.0
+      },
+      {
+        "slide": 25,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 17.5
+      },
+      {
+        "slide": 26,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19.0
+      },
+      {
+        "slide": 27,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20.0
+      },
+      {
+        "slide": 28,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20.5
+      },
+      {
+        "slide": 29,
+        "bodyTextBoxes": 0,
+        "images": 2,
+        "tables": 0,
+        "smallestFont": 32
+      },
+      {
+        "slide": 30,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 21.5
+      },
+      {
+        "slide": 31,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 32,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 33,
+        "bodyTextBoxes": 2,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 34,
+        "bodyTextBoxes": 1,
+        "images": 2,
+        "tables": 0,
+        "smallestFont": 22
+      }
+    ]
+  },
+  {
+    "lecture": "RRBN MXT 208.pptx",
+    "file": "/lectures/redesigned/lecture-10.pptx",
+    "slides": 48,
+    "verifiedTextIdentical": true,
+    "verifiedNonSlidePartsIdentical": true,
+    "layouts": [
+      {
+        "slide": 1,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 2,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 3,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 4,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 5,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 21.5
+      },
+      {
+        "slide": 6,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 7,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 8,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 9,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 10,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 11,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 12,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 13,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 14,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 15,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 16,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 17,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 18,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 19,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 20,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 21,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 22,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 23,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 24,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 25,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 26,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 27,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 28,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 29,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 30,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 31,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 32,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 33,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 34,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 35,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 36,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 37,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 38,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 39,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 40,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 41,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 42,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 43,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 44,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 45,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 46,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 47,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 48,
+        "bodyTextBoxes": 0,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 32
+      }
+    ]
+  }
+]

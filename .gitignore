@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Browser test output
+/test-results/
+/playwright-report/
+
+# Local SQLite study progress
+/.data/

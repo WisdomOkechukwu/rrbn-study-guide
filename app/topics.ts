@@ -1,0 +1,19 @@
+import lectures from './data/lectures.json';
+import questions from './data/questions.json';
+export type Topic = { id: string; lecture: number; title: string; start: number; end: number };
+const ranges: [string,number,number][][] = [
+  [['Bones of the lower limb',3,5],['Venous drainage',6,7],['Blood supply',8,8],['The gluteal region',9,12],['The hip joint',13,16],['The knee',17,17],['The ankle',18,21],['Thigh and femoral triangle',22,24],['Leg and popliteal fossa',25,27],['Foot and arches',28,30]],
+  [['Film structure and image formation',4,15],['Film types and sizes',16,22],['Film processing chemistry',23,25],['Film handling storage and artefacts',26,29],['Roll film and photographic materials',30,32],['Spectral sensitivity and safelights',33,37],['Specialised imaging films',38,42]],
+  [['Computer hardware and applications',5,11],['Software PACS RIS and DICOM',12,17],['Data and information',18,24],['Word processing',25,31],['File management and backup',32,36],['Digital communication and security',37,42],['Internet research',43,49]],
+  [['Daylight film processing',5,11],['Principles of digital imaging',12,15],['Computed radiography',16,26],['DR detectors and conversion',27,38],['CR versus DR',39,41],['Image processing and digital workflow',42,45]],
+  [['X-ray tube components',4,6],['Generators transformers and timers',7,17],['Beam limitation and alignment',18,18],['Electrical safety accessories',19,20],['X-ray production',21,22],['Scatter and anti-scatter grids',23,26],['Types of X-ray equipment',27,28]],
+  [['Processor components and workflow',2,7],['Automatic processing principles',8,11],['Feed trays and transport rollers',12,15],['Replenishment and chemistry',16,18],['Operating routines',19,20],['Troubleshooting and quality assurance',21,23]],
+  [['Single-bath processing',4,10],['Conventional manual processing',11,20],['Integrated processing systems',21,25],['Darkroom design and storage',26,32],['Care and maintenance',33,35],['Chemistry and replenishment',36,39],['Processing artefacts',40,44],['Processing stages and technique',45,52],['Silver recovery and disposal',53,56]],
+  [['Measurement radiation units and dose',4,11],['Force work energy and heat',12,15],['Atomic structure and isotopes',16,22],['Ionization and excitation',23,24],['Electrical quantities and induction',25,29],['Ohm’s law and resistor circuits',30,34],['Energy power and heating',35,40],['Energy sources EMF and potential difference',41,47],['X-ray properties and production',48,53]],
+  [['Introduction bones and brachial plexus',3,8],['Shoulder muscles and joint',9,15],['Pectoral region and axilla',16,20],['Arm and cubital fossa',21,22],['Forearm muscles and nerves',23,27],['Upper-limb blood supply',28,29],['Hand compartments and spaces',30,34]],
+  [['Health care team and patient care',6,10],['Ethics professionalism and communication',11,17],['Rights consent and confidentiality',18,21],['Assessment history and vital signs',22,25],['Infection control and precautions',26,28],['Transfer and special patient groups',29,33],['Radiation protection',34,38],['Contrast media and emergencies',39,41],['Department management and quality',42,46]],
+];
+export const topics: Topic[] = ranges.flatMap((entries,lecture)=>entries.map(([title,start,end],i)=>({ id:`${lecture}-${i}`,lecture,title,start,end })));
+export function topicForSlide(lecture: number,page: number) { return topics.find(t=>t.lecture===lecture&&page>=t.start&&page<=t.end); }
+export function topicQuestions(topic: Topic) { return questions.filter(q=>q.lecture===topic.lecture&&q.page>=topic.start&&q.page<=topic.end); }
+export function focusLabel(topicId: string | null, lectureId: number) { return topicId ? topics.find(t=>t.id===topicId)?.title || 'All subjects' : lectureId>=0 ? lectures[lectureId].title : 'All subjects'; }

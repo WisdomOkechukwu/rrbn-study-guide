@@ -1,0 +1,110 @@
+{
+  "reviewType": "Editorial answer-key and source-reference review",
+  "reviewedQuestionCount": 500,
+  "originalLectureContentChanged": false,
+  "changes": [
+    {
+      "id": "q207",
+      "change": "Clarified elbow flexion and posterior forearm location to avoid confusing elbow flexion with wrist flexion. The keyed answer remains brachioradialis."
+    },
+    {
+      "id": "q242",
+      "change": "Kept the correct femoral artery answer and explained the source slide's external-carotid typo separately from the unchanged notes."
+    }
+  ],
+  "method": [
+    "Read all 300 question stems and keyed answers against their cited lecture topics.",
+    "Check that each question has exactly four distinct options and an answer index that points to its intended answer.",
+    "Recalculate electrical circuit, energy and power examples independently.",
+    "Keep processing times explicitly tied to the lecture and manufacturer instructions rather than presenting them as universal protocols.",
+    "Avoid using known source typographical errors and contradictory processing times as answer keys.",
+    "Consult the following primary institutional resources for selected anatomy, imaging physics and safety points."
+  ],
+  "references": [
+    {
+      "title": "University of Washington Radiology: Brachioradialis",
+      "url": "https://www.rad.washington.edu/muscle-atlas/brachioradialis",
+      "questions": [
+        "q207"
+      ]
+    },
+    {
+      "title": "Loyola University anatomy: Brachioradialis",
+      "url": "https://www.meddean.luc.edu/lumen/meded/grossanatomy/dissector/mml/brds.htm",
+      "questions": [
+        "q207"
+      ]
+    },
+    {
+      "title": "IAEA Quality Assurance Programme for Digital Mammography, detector principles pp. 9–11",
+      "url": "https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1482_web.pdf",
+      "questions": [
+        "q068",
+        "q070",
+        "q071",
+        "q072",
+        "q073",
+        "q075",
+        "q076",
+        "q077",
+        "q078",
+        "q278",
+        "q279"
+      ]
+    },
+    {
+      "title": "Carestream: Film Processing",
+      "url": "https://help.carestreamdental.com/rh/web/server/CS2200/projects_responsive/SM761/assets/3RadPrcss/2Expose/FilmProcess.htm",
+      "questions": [
+        "q036",
+        "q109",
+        "q129",
+        "q144",
+        "q145"
+      ]
+    },
+    {
+      "title": "CDC: Clinical Safety — Hand Hygiene for Healthcare Workers",
+      "url": "https://www.cdc.gov/clean-hands/hcp/clinical-safety/index.html",
+      "questions": [
+        "q229"
+      ]
+    },
+    {
+      "title": "CDC Core Infection Prevention and Control Practices",
+      "url": "https://www.cdc.gov/infection-control/hcp/core-practices/index.html",
+      "questions": [
+        "q230",
+        "q300"
+      ]
+    },
+    {
+      "title": "ACR Manual on Contrast Media and adult contrast-reaction card",
+      "url": "https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Contrast-Manual",
+      "questions": [
+        "q238"
+      ]
+    }
+  ],
+  "limits": "This is an editorial and source-grounded review, not certification or endorsement by RRBN. Source slides may contain original errors; their wording is preserved.",
+  "expansion": {
+    "questionIds": "q301–q500",
+    "count": 200,
+    "perDeck": 20,
+    "source": "Supplied PowerPoints only",
+    "externalSourcesUsedForExpansion": false,
+    "checks": [
+      "Checked new stems, answer keys and explanations against cited slide text.",
+      "Retained existing question IDs and the untouched lecture text.",
+      "Added independent calculation checks for new numerical examples."
+    ]
+  },
+  "latestExpansion": {
+    "questionIds": "q401–q500",
+    "count": 100,
+    "perDeck": 10,
+    "source": "Supplied PowerPoints only",
+    "method": "Read cited slides and existing stems; focus on uncovered stated facts and source-supported application. Avoid heading-only slides and known source contradictions.",
+    "externalSourcesUsed": false
+  }
+}
