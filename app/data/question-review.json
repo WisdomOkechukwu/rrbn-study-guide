@@ -1,6 +1,6 @@
 {
   "reviewType": "Editorial answer-key and source-reference review",
-  "reviewedQuestionCount": 500,
+  "reviewedQuestionCount": 530,
   "originalLectureContentChanged": false,
   "changes": [
     {
@@ -100,11 +100,11 @@
     ]
   },
   "latestExpansion": {
-    "questionIds": "q401–q500",
-    "count": 100,
-    "perDeck": 10,
+    "questionIds": "q501–q530",
+    "count": 30,
+    "perDeck": 3,
     "source": "Supplied PowerPoints only",
-    "method": "Read cited slides and existing stems; focus on uncovered stated facts and source-supported application. Avoid heading-only slides and known source contradictions.",
+    "method": "Each new keyed answer and explanation is supported by a verbatim excerpt from its cited slide. No external material used.",
     "externalSourcesUsed": false
   }
 }

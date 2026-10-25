@@ -1,0 +1,362 @@
+[
+  {
+    "lecture": 0,
+    "page": 9,
+    "stem": "What separates the two buttocks in the supplied notes?",
+    "options": [
+      "The intergluteal cleft",
+      "The gluteal fold",
+      "The iliac crest",
+      "The greater trochanter"
+    ],
+    "quote": "The intergluteal cleft separates the buttocks from each other"
+  },
+  {
+    "lecture": 0,
+    "page": 9,
+    "stem": "Which landmark marks the upper boundary of the thigh?",
+    "options": [
+      "The gluteal fold",
+      "The intergluteal cleft",
+      "The femoral head",
+      "The patella"
+    ],
+    "quote": "The gluteal fold also demarcates the superior boundary of the thigh"
+  },
+  {
+    "lecture": 0,
+    "page": 8,
+    "stem": "Where does the femoral artery give off the profunda femoris in the notes?",
+    "options": [
+      "In the femoral triangle",
+      "In the popliteal fossa",
+      "At the ankle mortise",
+      "In the intergluteal cleft"
+    ],
+    "quote": "It gives off the large profunda femoris (deep femoral) artery in the femoral triangle, which supplies the deep and posterior/medial muscles of the thigh"
+  },
+  {
+    "lecture": 1,
+    "page": 9,
+    "stem": "Which material preceded polyester as the film base in the notes?",
+    "options": [
+      "Cellulose triacetate",
+      "Silver bromide",
+      "Gelatin",
+      "Lead"
+    ],
+    "quote": "Usually made of polyester (polyethylene terephthalate, about 0.18 mm thick) in modern radiographic film, before it was cellulose triacetate"
+  },
+  {
+    "lecture": 1,
+    "page": 9,
+    "stem": "What thickness does the lecture give for a modern polyester film base?",
+    "options": [
+      "About 0.18 mm",
+      "About 1.8 mm",
+      "About 18 mm",
+      "About 180 mm"
+    ],
+    "quote": "Usually made of polyester (polyethylene terephthalate, about 0.18 mm thick) in modern radiographic film, before it was cellulose triacetate"
+  },
+  {
+    "lecture": 1,
+    "page": 8,
+    "stem": "Which sequence follows the film layers from protective surface to base as listed?",
+    "options": [
+      "Supercoat, emulsion, adhesive, base",
+      "Base, supercoat, adhesive, emulsion",
+      "Adhesive, base, supercoat, emulsion",
+      "Emulsion, base, supercoat, adhesive"
+    ],
+    "quote": "Protective supercoat\nPhotosensitive emulsion layer\nAdhesive/subbing layer\nTransparent film base"
+  },
+  {
+    "lecture": 2,
+    "page": 7,
+    "stem": "Which computer task includes adjusting brightness, contrast, sharpness and magnification?",
+    "options": [
+      "Image processing",
+      "Image storage and retrieval",
+      "Patient and examination management",
+      "Image acquisition"
+    ],
+    "quote": "They help adjust image brightness, contrast, sharpness, and magnification to improve image presentation"
+  },
+  {
+    "lecture": 2,
+    "page": 8,
+    "stem": "What enables image and patient-information transfer between hospital computers?",
+    "options": [
+      "Network devices",
+      "Output printers",
+      "A keyboard alone",
+      "RAM alone"
+    ],
+    "quote": "Network devices: Enable the transfer of images and patient information between computers and hospital systems."
+  },
+  {
+    "lecture": 2,
+    "page": 9,
+    "stem": "Which computer system processes signals from the body to produce detailed images?",
+    "options": [
+      "MRI computer systems",
+      "RIS",
+      "PACS",
+      "CR plate readers"
+    ],
+    "quote": "MRI computer systems: Process signals from the body to produce detailed images."
+  },
+  {
+    "lecture": 3,
+    "page": 7,
+    "stem": "Which daylight processor component receives the completed radiograph?",
+    "options": [
+      "Film collection tray",
+      "Film loading compartment",
+      "Cassette opening mechanism",
+      "Film extraction mechanism"
+    ],
+    "quote": "Film collection tray — receives the finished radiograph."
+  },
+  {
+    "lecture": 3,
+    "page": 7,
+    "stem": "Which daylight processor component moves film through the processor?",
+    "options": [
+      "Film transport system",
+      "Film collection tray",
+      "Cassette opening mechanism",
+      "Light-tight chamber"
+    ],
+    "quote": "Film transport system — moves the film through the processor."
+  },
+  {
+    "lecture": 3,
+    "page": 9,
+    "stem": "A daylight processor has a mechanical fault. Which stated disadvantage does this illustrate?",
+    "options": [
+      "Film processing may be interrupted",
+      "Processing chemicals never need replacement",
+      "Digital detectors need chemical processing",
+      "A darkroom is always required for loading"
+    ],
+    "quote": "Mechanical faults may interrupt film processing."
+  },
+  {
+    "lecture": 4,
+    "page": 7,
+    "stem": "Which component aids both patient positioning and detector placement?",
+    "options": [
+      "X-ray table and wall stand",
+      "Rectifiers",
+      "Capacitors",
+      "Filament transformer"
+    ],
+    "quote": "X RAY TABLE  AND WALL STAND : This aids positioning of patients and imaging detector placement."
+  },
+  {
+    "lecture": 4,
+    "page": 7,
+    "stem": "Which transformer supplies the cathode filament with low voltage and high current?",
+    "options": [
+      "Stepdown transformer",
+      "Step-up transformer",
+      "Exposure button",
+      "Wall stand"
+    ],
+    "quote": "There is also a  stepdown transformer that supply the cathode filament with a low voltage and high current (5-15V and 3-7 A)"
+  },
+  {
+    "lecture": 4,
+    "page": 8,
+    "stem": "Which set of exposure factors is controlled by the X-ray generator in the notes?",
+    "options": [
+      "kVp, mA and exposure time",
+      "Film base thickness, tint and width",
+      "Fixer purity, washing and drying",
+      "RAM, storage and network speed"
+    ],
+    "quote": "It also controls the exposure factors, including kVp, mA, and exposure time."
+  },
+  {
+    "lecture": 5,
+    "page": 7,
+    "stem": "Cleaning crossover rollers helps prevent which marks listed in the notes?",
+    "options": [
+      "Guide-shoe marks",
+      "Static branching marks",
+      "Patient motion blur",
+      "Incorrect anatomical markers"
+    ],
+    "quote": "guide – shoe marks"
+  },
+  {
+    "lecture": 5,
+    "page": 8,
+    "stem": "What three variables are standardized in automatic processing?",
+    "options": [
+      "Time, temperature and chemical activity",
+      "kVp, mA and exposure time",
+      "Brightness, contrast and magnification",
+      "Film width, base tint and thickness"
+    ],
+    "quote": "The core principle of automatic processing is standardization of time , temperature , and chemical activity."
+  },
+  {
+    "lecture": 5,
+    "page": 9,
+    "stem": "How does the automatic processor transport system move film through the tanks?",
+    "options": [
+      "Along a serpentine path at a fixed speed",
+      "By leaving it stationary in one tank",
+      "By manually lifting a hanger between tanks",
+      "By passing it through a CR laser reader"
+    ],
+    "quote": "pull the film along a serpentine path through the liquid tanks and the drying chamber at a fixed speed."
+  },
+  {
+    "lecture": 6,
+    "page": 7,
+    "stem": "In the monobath sequence, what happens immediately after fixing?",
+    "options": [
+      "Washing removes residual chemicals",
+      "The film is exposed again",
+      "The film returns to development",
+      "The film is archived without washing"
+    ],
+    "quote": "4. Wash: Residual chemicals removed"
+  },
+  {
+    "lecture": 6,
+    "page": 8,
+    "stem": "Which pair of image characteristics is poorly controlled in a single-bath system?",
+    "options": [
+      "Contrast and speed",
+      "Patient identity and positioning",
+      "Tube voltage and current",
+      "Image storage and retrieval"
+    ],
+    "quote": "Poor control of contrast and speed"
+  },
+  {
+    "lecture": 6,
+    "page": 9,
+    "stem": "Which workload is listed as a possible use for single-bath processing?",
+    "options": [
+      "Very small workloads that do not justify several tanks",
+      "All routine diagnostic workloads",
+      "Only high-volume departmental work",
+      "Only digital detector readout"
+    ],
+    "quote": "Very small workloads that do not justify several tanks"
+  },
+  {
+    "lecture": 7,
+    "page": 7,
+    "stem": "An activity of one becquerel means how many decays per second?",
+    "options": [
+      "One",
+      "Ten",
+      "One hundred",
+      "One thousand"
+    ],
+    "quote": "defined as 1 decay per second (dps)."
+  },
+  {
+    "lecture": 7,
+    "page": 9,
+    "stem": "Which dose category accounts for specific tissue sensitivity in the lecture table?",
+    "options": [
+      "Effective dose",
+      "Exposure",
+      "Absorbed dose",
+      "Equivalent dose"
+    ],
+    "quote": "Biological risk taking into account specific tissue sensitivity."
+  },
+  {
+    "lecture": 7,
+    "page": 9,
+    "stem": "Which measurement describes ionization produced by X-rays or gamma rays in air?",
+    "options": [
+      "Exposure",
+      "Absorbed dose",
+      "Effective dose",
+      "Equivalent dose"
+    ],
+    "quote": "Ionization produced by X-rays /gamma rays in air"
+  },
+  {
+    "lecture": 8,
+    "page": 7,
+    "stem": "Which distal humeral structure articulates with the head of the radius?",
+    "options": [
+      "Capitulum",
+      "Trochlea",
+      "Greater tubercle",
+      "Surgical neck"
+    ],
+    "quote": "capitulum laterally for articulation with head of radius"
+  },
+  {
+    "lecture": 8,
+    "page": 8,
+    "stem": "Which sequence gives the distal carpal row from lateral to medial in the notes?",
+    "options": [
+      "Trapezium, trapezoid, capitate, hamate",
+      "Scaphoid, lunate, triquetrium, pisiform",
+      "Hamate, capitate, trapezoid, trapezium",
+      "Pisiform, triquetrium, lunate, scaphoid"
+    ],
+    "quote": "Distal row: L2M: Trapezium→Trapezoid→Capitate→Hamate (TTCH)"
+  },
+  {
+    "lecture": 8,
+    "page": 9,
+    "stem": "Which pair forms the superficial extrinsic shoulder group in the notes?",
+    "options": [
+      "Trapezius and latissimus dorsi",
+      "Levator scapulae and rhomboids",
+      "Deltoid and teres major",
+      "Subscapularis and infraspinatus"
+    ],
+    "quote": "Extrinsic superficial: trapezius and latissimus dorsi"
+  },
+  {
+    "lecture": 9,
+    "page": 7,
+    "stem": "Which facilities represent secondary health care in the lecture?",
+    "options": [
+      "General hospitals",
+      "Clinics and health centres",
+      "Teaching hospitals",
+      "Specialist hospitals"
+    ],
+    "quote": "Secondary: general hospitals"
+  },
+  {
+    "lecture": 9,
+    "page": 7,
+    "stem": "At which levels of health care do radiographers and technicians serve in these notes?",
+    "options": [
+      "Primary, secondary and tertiary",
+      "Primary only",
+      "Secondary only",
+      "Tertiary only"
+    ],
+    "quote": "Radiographers and Technicians serves all the above three levels"
+  },
+  {
+    "lecture": 9,
+    "page": 8,
+    "stem": "According to the health-care-team slide, what does teamwork protect?",
+    "options": [
+      "The patient",
+      "Only the equipment",
+      "Only the departmental budget",
+      "Only the appointment schedule"
+    ],
+    "quote": "Teamwork protects the patient"
+  }
+]

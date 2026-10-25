@@ -201,3 +201,26 @@ test('Poppins reader preserves equations and tables and provides both PowerPoint
  await page.screenshot({path:'/tmp/radia-reader-poppins-mobile.png'});
  expect(await page.evaluate(()=>document.documentElement.scrollWidth)).toBeLessThanOrEqual(390);
 });
+
+test('lecture navigation starts each slide at the top', async ({page}) => {
+  await page.setViewportSize({width:390,height:700});
+  await page.goto('/');
+  await page.getByRole('button',{name:'Open navigation'}).click();
+  await page.getByRole('button',{name:'Lecture library',exact:true}).click();
+  await page.getByRole('button',{name:'Read Lower Limb Anatomy',exact:true}).first().click();
+  await page.getByRole('spinbutton',{name:'Go to slide number'}).fill('3');
+  const scroll=page.locator('.slide-scroll');
+  const moveDown=async()=>{
+    await scroll.evaluate(el=>{el.scrollTop=el.scrollHeight;});
+    expect(await scroll.evaluate(el=>el.scrollTop)).toBeGreaterThan(0);
+  };
+  await moveDown();
+  await page.getByRole('button',{name:'Next',exact:true}).click();
+  await expect.poll(()=>scroll.evaluate(el=>el.scrollTop)).toBe(0);
+  await moveDown();
+  await page.keyboard.press('ArrowLeft');
+  await expect.poll(()=>scroll.evaluate(el=>el.scrollTop)).toBe(0);
+  await moveDown();
+  await page.getByRole('spinbutton',{name:'Go to slide number'}).fill('5');
+  await expect.poll(()=>scroll.evaluate(el=>el.scrollTop)).toBe(0);
+});

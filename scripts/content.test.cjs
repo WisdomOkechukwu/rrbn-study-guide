@@ -60,7 +60,7 @@ test('reviewed arithmetic answers are independently recalculated',()=>{
 });
 
  test('expanded bank uses original supporting slides across all ten decks',()=>{
- const added=questions.slice(300);assert.equal(added.length,200);
+ const added=questions.slice(300,500);assert.equal(added.length,200);
  for(let i=0;i<10;i++)assert.equal(added.filter(q=>q.lecture===i).length,20);
  for(const q of added){assert.equal(q.sourceOrigin,'provided-powerpoint');assert.equal(q.sourceEvidence,lectures[q.lecture].slides[q.page-1].text);}
  assert.equal(new Set(questions.map(q=>q.stem.toLowerCase().replace(/[^a-z0-9]/g,''))).size,questions.length);
@@ -68,4 +68,14 @@ test('reviewed arithmetic answers are independently recalculated',()=>{
  assert.equal(answer('q372'),`${5*3} J`);assert.equal(answer('q378'),`${240/4} W`);
  assert.equal(answer('q447'),`${200*.1} mAs`);
  assert.equal(answer('q476'),'Doubles the total heat');
+ });
+
+ test('new comprehension checks have exact slide excerpts and balanced deck coverage',()=>{
+ const added=questions.slice(500);assert.equal(added.length,30);
+ for(let i=0;i<10;i++)assert.equal(added.filter(q=>q.lecture===i).length,3);
+ for(const q of added){
+   const source=lectures[q.lecture].slides[q.page-1].text;
+   assert.equal(q.sourceOrigin,'provided-powerpoint');assert.equal(q.sourceEvidence,source);
+   assert.ok(source.includes(q.sourceExcerpt),q.id);assert.ok(q.explanation.includes(q.sourceExcerpt),q.id);
+ }
  });

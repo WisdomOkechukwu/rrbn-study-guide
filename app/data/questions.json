@@ -7898,5 +7898,545 @@
     "difficulty": "Recall",
     "sourceOrigin": "provided-powerpoint",
     "sourceEvidence": "Collaboration and teamwork\nRadiologist, radiographers, technicians, nurses,e.t.c\nEach team member have their specific duties\nEvery team member deserves respect\nContinuous professional development"
+  },
+  {
+    "id": "q501",
+    "lecture": 0,
+    "page": 9,
+    "stem": "What separates the two buttocks in the supplied notes?",
+    "options": [
+      "The iliac crest",
+      "The gluteal fold",
+      "The intergluteal cleft",
+      "The greater trochanter"
+    ],
+    "answer": 2,
+    "explanation": "The supplied PowerPoint states: “The intergluteal cleft separates the buttocks from each other” This supports the answer: The intergluteal cleft. Revisit slide 9 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "The intergluteal cleft separates the buttocks from each other",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "The gluteal region\nThe gluteal region (hip and buttocks) is the prominent area posterior to the pelvis\nIt is bounded superiorly by the iliac crest, greater trochanter, and ASIS and inferiorly by the gluteal fold\nThe gluteal fold also demarcates the superior boundary of the thigh\nThe intergluteal cleft separates the buttocks from each other\n18/10/2026 08:08\n9"
+  },
+  {
+    "id": "q502",
+    "lecture": 0,
+    "page": 9,
+    "stem": "Which landmark marks the upper boundary of the thigh?",
+    "options": [
+      "The femoral head",
+      "The intergluteal cleft",
+      "The patella",
+      "The gluteal fold"
+    ],
+    "answer": 3,
+    "explanation": "The supplied PowerPoint states: “The gluteal fold also demarcates the superior boundary of the thigh” This supports the answer: The gluteal fold. Revisit slide 9 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "The gluteal fold also demarcates the superior boundary of the thigh",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "The gluteal region\nThe gluteal region (hip and buttocks) is the prominent area posterior to the pelvis\nIt is bounded superiorly by the iliac crest, greater trochanter, and ASIS and inferiorly by the gluteal fold\nThe gluteal fold also demarcates the superior boundary of the thigh\nThe intergluteal cleft separates the buttocks from each other\n18/10/2026 08:08\n9"
+  },
+  {
+    "id": "q503",
+    "lecture": 0,
+    "page": 8,
+    "stem": "Where does the femoral artery give off the profunda femoris in the notes?",
+    "options": [
+      "At the ankle mortise",
+      "In the popliteal fossa",
+      "In the intergluteal cleft",
+      "In the femoral triangle"
+    ],
+    "answer": 3,
+    "explanation": "The supplied PowerPoint states: “It gives off the large profunda femoris (deep femoral) artery in the femoral triangle, which supplies the deep and posterior/medial muscles of the thigh” This supports the answer: In the femoral triangle. Revisit slide 8 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "It gives off the large profunda femoris (deep femoral) artery in the femoral triangle, which supplies the deep and posterior/medial muscles of the thigh",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Blood supply to the lower limbs\nThe abdominal aorta at the level of the L4 bifurcates into right and left common iliac arteries\nThe external carotid artery (branch of common iliac artery) enters the pelvis running behind the inguinal ligament to become the femoral artery\nThe femoral artery is the main supply to the lower limbs\nIt gives off the large profunda femoris (deep femoral) artery in the femoral triangle, which supplies the deep and posterior/medial muscles of the thigh\n18/10/2026 08:08\n8"
+  },
+  {
+    "id": "q504",
+    "lecture": 1,
+    "page": 9,
+    "stem": "Which material preceded polyester as the film base in the notes?",
+    "options": [
+      "Gelatin",
+      "Silver bromide",
+      "Lead",
+      "Cellulose triacetate"
+    ],
+    "answer": 3,
+    "explanation": "The supplied PowerPoint states: “Usually made of polyester (polyethylene terephthalate, about 0.18 mm thick) in modern radiographic film, before it was cellulose triacetate” This supports the answer: Cellulose triacetate. Revisit slide 9 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Usually made of polyester (polyethylene terephthalate, about 0.18 mm thick) in modern radiographic film, before it was cellulose triacetate",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Film base\nSupports the emulsion layer and gives strength.\nUsually made of polyester (polyethylene terephthalate, about 0.18 mm thick) in modern radiographic film, before it was cellulose triacetate\nPolyester is usually tinted blue to reduce eye strain when viewing\nGives the film its rigidity so it can be handled and illuminated on a viewbox\nN/B The base is only a support; it carries no image."
+  },
+  {
+    "id": "q505",
+    "lecture": 1,
+    "page": 9,
+    "stem": "What thickness does the lecture give for a modern polyester film base?",
+    "options": [
+      "About 0.18 mm",
+      "About 1.8 mm",
+      "About 180 mm",
+      "About 18 mm"
+    ],
+    "answer": 0,
+    "explanation": "The supplied PowerPoint states: “Usually made of polyester (polyethylene terephthalate, about 0.18 mm thick) in modern radiographic film, before it was cellulose triacetate” This supports the answer: About 0.18 mm. Revisit slide 9 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Usually made of polyester (polyethylene terephthalate, about 0.18 mm thick) in modern radiographic film, before it was cellulose triacetate",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Film base\nSupports the emulsion layer and gives strength.\nUsually made of polyester (polyethylene terephthalate, about 0.18 mm thick) in modern radiographic film, before it was cellulose triacetate\nPolyester is usually tinted blue to reduce eye strain when viewing\nGives the film its rigidity so it can be handled and illuminated on a viewbox\nN/B The base is only a support; it carries no image."
+  },
+  {
+    "id": "q506",
+    "lecture": 1,
+    "page": 8,
+    "stem": "Which sequence follows the film layers from protective surface to base as listed?",
+    "options": [
+      "Adhesive, base, supercoat, emulsion",
+      "Emulsion, base, supercoat, adhesive",
+      "Supercoat, emulsion, adhesive, base",
+      "Base, supercoat, adhesive, emulsion"
+    ],
+    "answer": 2,
+    "explanation": "The supplied PowerPoint states: “Protective supercoat\nPhotosensitive emulsion layer\nAdhesive/subbing layer\nTransparent film base” This supports the answer: Supercoat, emulsion, adhesive, base. Revisit slide 8 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Protective supercoat\nPhotosensitive emulsion layer\nAdhesive/subbing layer\nTransparent film base",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Film structure at a glance\nProtective supercoat\nPhotosensitive emulsion layer\nAdhesive/subbing layer\nTransparent film base\nN/B Some films have emulsion on both sides."
+  },
+  {
+    "id": "q507",
+    "lecture": 2,
+    "page": 7,
+    "stem": "Which computer task includes adjusting brightness, contrast, sharpness and magnification?",
+    "options": [
+      "Patient and examination management",
+      "Image acquisition",
+      "Image storage and retrieval",
+      "Image processing"
+    ],
+    "answer": 3,
+    "explanation": "The supplied PowerPoint states: “They help adjust image brightness, contrast, sharpness, and magnification to improve image presentation” This supports the answer: Image processing. Revisit slide 7 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "They help adjust image brightness, contrast, sharpness, and magnification to improve image presentation",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Applications of Computers in Radiography\nIMAGE ACQUISITION\nComputers receive digital image data from X-ray detectors and other imaging equipment.\nIMAGE PROCESSING\nThey help adjust image brightness, contrast, sharpness, and magnification to improve image presentation\nIMAGE STORAGE AND RETRIEVAL\nComputers store images in systems such as PACS (Picture Archiving and Communication System) and allow them to be retrieved when needed.\nPATIENT AND EXAMINATION MANAGEMENT\nComputers manage patient records, examination requests, appointments, and radiology reports.\nIMAGE DIAGNOSIS AND INTERPRETATION\nThey enable radiologists to examine images, perform measurements, and use specialized software to support diagnosis."
+  },
+  {
+    "id": "q508",
+    "lecture": 2,
+    "page": 8,
+    "stem": "What enables image and patient-information transfer between hospital computers?",
+    "options": [
+      "RAM alone",
+      "A keyboard alone",
+      "Network devices",
+      "Output printers"
+    ],
+    "answer": 2,
+    "explanation": "The supplied PowerPoint states: “Network devices: Enable the transfer of images and patient information between computers and hospital systems.” This supports the answer: Network devices. Revisit slide 8 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Network devices: Enable the transfer of images and patient information between computers and hospital systems.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Basic Components of a Computer Hardware Used in Radiography\nInput devices: Keyboard, mouse, barcode scanner, and digital imaging detectors.\nCentral Processing Unit (CPU): Processes data and controls computer operations.\nMemory (RAM): Temporarily holds data and programs being used.\nStorage devices: Hard disk drives (HDDs) and solid-state drives (SSDs) store images and information.\nOutput devices: Monitors display radiographic images, while printers produce hard copies when required.\nSoftware: Programs used for image acquisition, processing, reporting, and storage.\nNetwork devices: Enable the transfer of images and patient information between computers and hospital systems."
+  },
+  {
+    "id": "q509",
+    "lecture": 2,
+    "page": 9,
+    "stem": "Which computer system processes signals from the body to produce detailed images?",
+    "options": [
+      "PACS",
+      "MRI computer systems",
+      "RIS",
+      "CR plate readers"
+    ],
+    "answer": 1,
+    "explanation": "The supplied PowerPoint states: “MRI computer systems: Process signals from the body to produce detailed images.” This supports the answer: MRI computer systems. Revisit slide 9 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "MRI computer systems: Process signals from the body to produce detailed images.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "TYPES OF COMPUTER SYSTEMS USED IN RADIOGRAPHY\nComputed Radiography (CR) systems: Use imaging plates that are read by a reader to produce digital images.\nDigital Radiography (DR) systems: Use digital detectors to capture X-ray images directly.\nCT computer systems: Process data collected from multiple X-ray projections to reconstruct cross-sectional images.\nMRI computer systems: Process signals from the body to produce detailed images.\nPACS: Stores, retrieves, distributes, and displays medical images.\nRIS (Radiology Information System): Manages radiology workflow, examinations, patient information, and reporting."
+  },
+  {
+    "id": "q510",
+    "lecture": 3,
+    "page": 7,
+    "stem": "Which daylight processor component receives the completed radiograph?",
+    "options": [
+      "Film extraction mechanism",
+      "Film loading compartment",
+      "Cassette opening mechanism",
+      "Film collection tray"
+    ],
+    "answer": 3,
+    "explanation": "The supplied PowerPoint states: “Film collection tray — receives the finished radiograph.” This supports the answer: Film collection tray. Revisit slide 7 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Film collection tray — receives the finished radiograph.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "The main components may include:\nFilm loading compartment — receives the exposed cassette.\nCassette opening mechanism — opens the cassette safely within the protected chamber.\nFilm extraction mechanism — removes the film from the cassette.\nLight-tight chamber — prevents unwanted light from reaching the film.\nFilm transport system — moves the film through the processor.\nProcessing unit — carries out developing, fixing, washing, and drying.\nFilm collection tray — receives the finished radiograph.\nComponents of a daylight film processor"
+  },
+  {
+    "id": "q511",
+    "lecture": 3,
+    "page": 7,
+    "stem": "Which daylight processor component moves film through the processor?",
+    "options": [
+      "Light-tight chamber",
+      "Film transport system",
+      "Cassette opening mechanism",
+      "Film collection tray"
+    ],
+    "answer": 1,
+    "explanation": "The supplied PowerPoint states: “Film transport system — moves the film through the processor.” This supports the answer: Film transport system. Revisit slide 7 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Film transport system — moves the film through the processor.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "The main components may include:\nFilm loading compartment — receives the exposed cassette.\nCassette opening mechanism — opens the cassette safely within the protected chamber.\nFilm extraction mechanism — removes the film from the cassette.\nLight-tight chamber — prevents unwanted light from reaching the film.\nFilm transport system — moves the film through the processor.\nProcessing unit — carries out developing, fixing, washing, and drying.\nFilm collection tray — receives the finished radiograph.\nComponents of a daylight film processor"
+  },
+  {
+    "id": "q512",
+    "lecture": 3,
+    "page": 9,
+    "stem": "A daylight processor has a mechanical fault. Which stated disadvantage does this illustrate?",
+    "options": [
+      "Processing chemicals never need replacement",
+      "A darkroom is always required for loading",
+      "Film processing may be interrupted",
+      "Digital detectors need chemical processing"
+    ],
+    "answer": 2,
+    "explanation": "The supplied PowerPoint states: “Mechanical faults may interrupt film processing.” This supports the answer: Film processing may be interrupted. Revisit slide 9 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Mechanical faults may interrupt film processing.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Advantages\nEliminates the need for a conventional darkroom for routine film handling.\nReduces the risk of accidental film fogging.\nSpeeds up the film-handling workflow.\nImproves convenience and cleanliness.\nAllows films to be loaded and unloaded in normal room lighting.\nDisadvantages\nEquipment can be expensive to purchase and maintain.\nMechanical faults may interrupt film processing.\nProcessing chemicals require regular maintenance and replacement.\nIt is mainly used with conventional screen-film radiography, not as the normal processing method for digital radiography.\nADVANTAGES AND DISADVANTAGES OF DAYLIGHT PROCESSING"
+  },
+  {
+    "id": "q513",
+    "lecture": 4,
+    "page": 7,
+    "stem": "Which component aids both patient positioning and detector placement?",
+    "options": [
+      "X-ray table and wall stand",
+      "Filament transformer",
+      "Capacitors",
+      "Rectifiers"
+    ],
+    "answer": 0,
+    "explanation": "The supplied PowerPoint states: “X RAY TABLE  AND WALL STAND : This aids positioning of patients and imaging detector placement.” This supports the answer: X-ray table and wall stand. Revisit slide 7 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "X RAY TABLE  AND WALL STAND : This aids positioning of patients and imaging detector placement.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "X RAY TABLE  AND WALL STAND : This aids positioning of patients and imaging detector placement.\nCONTROL CONSOLE : This comprises of the knobs and keys that allows one to select the exposure factors and other parameters that will necessitate good image quality. It has the exposure button, voltage compensator, AEC, anatomical body selection, filters etc.\nX RAY GENERATORS : This is a system design to provide the needed high voltage that drives the electron across the x ray tube from the filament to the target. It also houses the Rectifiers, contactors, capacitors, autotimers and the filament  low voltage transformers. The generator convert the sinusoidal  alternating electrical voltage into a constant potential that enable steady supply of potential difference across the tube. This process is call rectification of alternating current.  There is also a  stepdown transformer that supply the cathode filament with a low voltage and high current (5-15V and 3-7 A) needed to cause thermionic emission (boiling off of electrons )\nINTRODUCTION CONTD."
+  },
+  {
+    "id": "q514",
+    "lecture": 4,
+    "page": 7,
+    "stem": "Which transformer supplies the cathode filament with low voltage and high current?",
+    "options": [
+      "Wall stand",
+      "Stepdown transformer",
+      "Exposure button",
+      "Step-up transformer"
+    ],
+    "answer": 1,
+    "explanation": "The supplied PowerPoint states: “There is also a  stepdown transformer that supply the cathode filament with a low voltage and high current (5-15V and 3-7 A)” This supports the answer: Stepdown transformer. Revisit slide 7 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "There is also a  stepdown transformer that supply the cathode filament with a low voltage and high current (5-15V and 3-7 A)",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "X RAY TABLE  AND WALL STAND : This aids positioning of patients and imaging detector placement.\nCONTROL CONSOLE : This comprises of the knobs and keys that allows one to select the exposure factors and other parameters that will necessitate good image quality. It has the exposure button, voltage compensator, AEC, anatomical body selection, filters etc.\nX RAY GENERATORS : This is a system design to provide the needed high voltage that drives the electron across the x ray tube from the filament to the target. It also houses the Rectifiers, contactors, capacitors, autotimers and the filament  low voltage transformers. The generator convert the sinusoidal  alternating electrical voltage into a constant potential that enable steady supply of potential difference across the tube. This process is call rectification of alternating current.  There is also a  stepdown transformer that supply the cathode filament with a low voltage and high current (5-15V and 3-7 A) needed to cause thermionic emission (boiling off of electrons )\nINTRODUCTION CONTD."
+  },
+  {
+    "id": "q515",
+    "lecture": 4,
+    "page": 8,
+    "stem": "Which set of exposure factors is controlled by the X-ray generator in the notes?",
+    "options": [
+      "Fixer purity, washing and drying",
+      "Film base thickness, tint and width",
+      "kVp, mA and exposure time",
+      "RAM, storage and network speed"
+    ],
+    "answer": 2,
+    "explanation": "The supplied PowerPoint states: “It also controls the exposure factors, including kVp, mA, and exposure time.” This supports the answer: kVp, mA and exposure time. Revisit slide 8 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "It also controls the exposure factors, including kVp, mA, and exposure time.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "An X-ray generator is the part of an X-ray machine that supplies and controls the electrical power required to produce X-rays in the X-ray tube.\nIt converts the incoming electrical supply into the appropriate voltage and current needed for X-ray production. It also controls the exposure factors, including kVp, mA, and exposure time.\nIn simple terms, the X-ray generator provides the electrical energy that makes X-ray production possible.\nX- RAY GENERATOR"
+  },
+  {
+    "id": "q516",
+    "lecture": 5,
+    "page": 7,
+    "stem": "Cleaning crossover rollers helps prevent which marks listed in the notes?",
+    "options": [
+      "Static branching marks",
+      "Guide-shoe marks",
+      "Patient motion blur",
+      "Incorrect anatomical markers"
+    ],
+    "answer": 1,
+    "explanation": "The supplied PowerPoint states: “guide – shoe marks” This supports the answer: Guide-shoe marks. Revisit slide 7 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "guide – shoe marks",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "DAILY AND MONTHLY MAINTENANCE\nThis requires routine cleaning of crossover rollers to prevent “” pi lines “ or guide – shoe marks, alongside periodic tank draining , rack scrubbing, and sensitometric testing\nMEDICAL X-RAY AUTOMATIC PROCESSING\nA medical x-ray automatic processor is an electrochemical device designed to automate and standardize the chemical processing of radiographic films. It converts a latent ( invisible ) image on an exposed x-ray film into a permanent , manifest ( visible ) radiograph in a matter of seconds."
+  },
+  {
+    "id": "q517",
+    "lecture": 5,
+    "page": 8,
+    "stem": "What three variables are standardized in automatic processing?",
+    "options": [
+      "Time, temperature and chemical activity",
+      "Brightness, contrast and magnification",
+      "Film width, base tint and thickness",
+      "kVp, mA and exposure time"
+    ],
+    "answer": 0,
+    "explanation": "The supplied PowerPoint states: “The core principle of automatic processing is standardization of time , temperature , and chemical activity.” This supports the answer: Time, temperature and chemical activity. Revisit slide 8 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "The core principle of automatic processing is standardization of time , temperature , and chemical activity.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "1. PRINCIPLES OF AUTOMATIC PROCESSING:\nThe core principle of automatic processing is standardization of time , temperature , and chemical activity. It operates on the same chemical sequence as manual processing – developing, fixing , washing, and drying – but compresses the entire timeline ( typically down to 90 seconds ) by utilizing:\nHigh chemical concentration:  Formulated specifically to handle aggressive development speed.\nElevated temperature:  Processing solution are heated to maximize chemical activity."
+  },
+  {
+    "id": "q518",
+    "lecture": 5,
+    "page": 9,
+    "stem": "How does the automatic processor transport system move film through the tanks?",
+    "options": [
+      "By passing it through a CR laser reader",
+      "Along a serpentine path at a fixed speed",
+      "By manually lifting a hanger between tanks",
+      "By leaving it stationary in one tank"
+    ],
+    "answer": 1,
+    "explanation": "The supplied PowerPoint states: “pull the film along a serpentine path through the liquid tanks and the drying chamber at a fixed speed.” This supports the answer: Along a serpentine path at a fixed speed. Revisit slide 9 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "pull the film along a serpentine path through the liquid tanks and the drying chamber at a fixed speed.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Continuous mechanical agitation:  Constant contact between the rollers and the film emulsion forces fresh chemicals into the film surface while squeezing out exhausted solutions.\n2. CONSTRUCTION AND DESIGN MECHANISM:\nThe processor consists of several independent but integrated sub-system:\nTransport system:  A network of gears, chains, a drive motor, and precision roller racks designed to pull the film along a serpentine path through the liquid tanks and the drying chamber at a fixed speed."
+  },
+  {
+    "id": "q519",
+    "lecture": 6,
+    "page": 7,
+    "stem": "In the monobath sequence, what happens immediately after fixing?",
+    "options": [
+      "The film is exposed again",
+      "The film returns to development",
+      "Washing removes residual chemicals",
+      "The film is archived without washing"
+    ],
+    "answer": 2,
+    "explanation": "The supplied PowerPoint states: “4. Wash: Residual chemicals removed” This supports the answer: Washing removes residual chemicals. Revisit slide 7 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "4. Wash: Residual chemicals removed",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "How a monobath works\n1. Immerse: Film enters the single solution\n2. Develop: Exposed crystals reduce to silver\n3. Fix: Unexposed halide dissolves\n4. Wash: Residual chemicals removed\n5. Dry: Film hung to dry"
+  },
+  {
+    "id": "q520",
+    "lecture": 6,
+    "page": 8,
+    "stem": "Which pair of image characteristics is poorly controlled in a single-bath system?",
+    "options": [
+      "Image storage and retrieval",
+      "Contrast and speed",
+      "Patient identity and positioning",
+      "Tube voltage and current"
+    ],
+    "answer": 1,
+    "explanation": "The supplied PowerPoint states: “Poor control of contrast and speed” This supports the answer: Contrast and speed. Revisit slide 8 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Poor control of contrast and speed",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Advantages and limitations\nAdvantages\nSimple and quick to use\nOne tank saves space\nFewer steps to teach or remember\nFewer solutions to mix and change\nLimitations\nPoor control of contrast and speed\nLower density and image quality\nBath exhausts rapidly\nNot suited for routine diagnostic work"
+  },
+  {
+    "id": "q521",
+    "lecture": 6,
+    "page": 9,
+    "stem": "Which workload is listed as a possible use for single-bath processing?",
+    "options": [
+      "All routine diagnostic workloads",
+      "Only digital detector readout",
+      "Very small workloads that do not justify several tanks",
+      "Only high-volume departmental work"
+    ],
+    "answer": 2,
+    "explanation": "The supplied PowerPoint states: “Very small workloads that do not justify several tanks” This supports the answer: Very small workloads that do not justify several tanks. Revisit slide 9 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Very small workloads that do not justify several tanks",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Where single-bath is used\nTeaching demonstrations of the principle of processing\nEmergency or improvised work where tanks are not available\nVery small workloads that do not justify several tanks\nNot recommended for routine diagnostic radiography"
+  },
+  {
+    "id": "q522",
+    "lecture": 7,
+    "page": 7,
+    "stem": "An activity of one becquerel means how many decays per second?",
+    "options": [
+      "One thousand",
+      "Ten",
+      "One",
+      "One hundred"
+    ],
+    "answer": 2,
+    "explanation": "The supplied PowerPoint states: “defined as 1 decay per second (dps).” This supports the answer: One. Revisit slide 7 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "defined as 1 decay per second (dps).",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "2. RADIOACTIVE DECAY AND ACTIVITY\nThese units quantify the rate at which radioactive nuclei transform or decay over time\nActivity (A): the rate of nuclear decays per unit time (A=  (𝑑𝑁)/(𝐼) ).\nSI Unit: becquerel (Bq) – defined as 1 decay per second (dps).\nTraditional unit:  curie (ci) Originally based on 1 gram of radium – 226\n1Ci =3.7 x 10^(10) Bq = 37GBq\nHalf-life (T ½  ) : The time required for half of the radioactive atoms in a sample to decay.  Measured in seconds (s), minutes, hours, or years.\nDecay constant (ʎ):  the probability of decay per unit time (ʎ= (𝐼𝑛2)/(T ½  )). Measured in seconds in 𝑆^(−1)"
+  },
+  {
+    "id": "q523",
+    "lecture": 7,
+    "page": 9,
+    "stem": "Which dose category accounts for specific tissue sensitivity in the lecture table?",
+    "options": [
+      "Equivalent dose",
+      "Exposure",
+      "Effective dose",
+      "Absorbed dose"
+    ],
+    "answer": 2,
+    "explanation": "The supplied PowerPoint states: “Biological risk taking into account specific tissue sensitivity.” This supports the answer: Effective dose. Revisit slide 9 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Biological risk taking into account specific tissue sensitivity.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "DOSE CATEGORY\nWHAT IT MEASURES\nSI UNIT\nTRADITIONAL/NON-SI UNIT\nCONVERSION\nExposure (X)\nIonization produced by X-rays /gamma rays in air\nCoulomb per kilogram (C/kg)\nRoentgen (R)\n1 R =2.58x10^(−4) c/kg\nAbsorbed Dose (D)\nRadiation Energy deposited per unit mass of material\nGray (Gy), (1Gy= 1J/kg)\nRad (rad)\n1Gy = 100 rad\nEquivalent Dose (H)\nAbsorbed dose adjusted for radiation type (H=𝐷^(𝑥𝑤)𝑅\nSievert (Sv) (1 Sv = 1J/kg)\nRem (rem)\n1 Sv = 100 rem\nEffective Dose (E)\nBiological risk taking into account specific tissue sensitivity.\nSievert (Sv)\nRem (rem)\n1Sv = 100 rem"
+  },
+  {
+    "id": "q524",
+    "lecture": 7,
+    "page": 9,
+    "stem": "Which measurement describes ionization produced by X-rays or gamma rays in air?",
+    "options": [
+      "Absorbed dose",
+      "Effective dose",
+      "Exposure",
+      "Equivalent dose"
+    ],
+    "answer": 2,
+    "explanation": "The supplied PowerPoint states: “Ionization produced by X-rays /gamma rays in air” This supports the answer: Exposure. Revisit slide 9 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Ionization produced by X-rays /gamma rays in air",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "DOSE CATEGORY\nWHAT IT MEASURES\nSI UNIT\nTRADITIONAL/NON-SI UNIT\nCONVERSION\nExposure (X)\nIonization produced by X-rays /gamma rays in air\nCoulomb per kilogram (C/kg)\nRoentgen (R)\n1 R =2.58x10^(−4) c/kg\nAbsorbed Dose (D)\nRadiation Energy deposited per unit mass of material\nGray (Gy), (1Gy= 1J/kg)\nRad (rad)\n1Gy = 100 rad\nEquivalent Dose (H)\nAbsorbed dose adjusted for radiation type (H=𝐷^(𝑥𝑤)𝑅\nSievert (Sv) (1 Sv = 1J/kg)\nRem (rem)\n1 Sv = 100 rem\nEffective Dose (E)\nBiological risk taking into account specific tissue sensitivity.\nSievert (Sv)\nRem (rem)\n1Sv = 100 rem"
+  },
+  {
+    "id": "q525",
+    "lecture": 8,
+    "page": 7,
+    "stem": "Which distal humeral structure articulates with the head of the radius?",
+    "options": [
+      "Greater tubercle",
+      "Surgical neck",
+      "Capitulum",
+      "Trochlea"
+    ],
+    "answer": 2,
+    "explanation": "The supplied PowerPoint states: “capitulum laterally for articulation with head of radius” This supports the answer: Capitulum. Revisit slide 7 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "capitulum laterally for articulation with head of radius",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Osteology -Humerus\nLargest long bone of the upper limbs\nForms the shoulder joint with the scapula at the glenoid cavity\nHas a head, an anatomical and surgical neck and shaft, and distal and proximal ends\nPossesses two elevations at the neck region: greater and lesser tubercles separated by the bicipital groove\nDistal ends has capitulum laterally for articulation with head of radius, and trochlea(pulley-like) medially for articulation with ulna\nDistal ends terminate in two projections; lateral and medial epicondyles\n18/10/2026 08:13\n7"
+  },
+  {
+    "id": "q526",
+    "lecture": 8,
+    "page": 8,
+    "stem": "Which sequence gives the distal carpal row from lateral to medial in the notes?",
+    "options": [
+      "Pisiform, triquetrium, lunate, scaphoid",
+      "Scaphoid, lunate, triquetrium, pisiform",
+      "Trapezium, trapezoid, capitate, hamate",
+      "Hamate, capitate, trapezoid, trapezium"
+    ],
+    "answer": 2,
+    "explanation": "The supplied PowerPoint states: “Distal row: L2M: Trapezium→Trapezoid→Capitate→Hamate (TTCH)” This supports the answer: Trapezium, trapezoid, capitate, hamate. Revisit slide 8 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Distal row: L2M: Trapezium→Trapezoid→Capitate→Hamate (TTCH)",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Osteology - The carpal bones\nSmall bones of the hands occupying the wrist region\nHas 2 rows of bones attached to each other by interosseous ligament\nProximal row: L2M: Scaphoid→Lunate→Triquetrium→Pisiform (SLTP)\nDistal row: L2M: Trapezium→Trapezoid→Capitate→Hamate (TTCH)\n5 Metacarpals (head and base) and 14 phalanges(distal, middle and proximal ends)\n18/10/2026 08:13\n8"
+  },
+  {
+    "id": "q527",
+    "lecture": 8,
+    "page": 9,
+    "stem": "Which pair forms the superficial extrinsic shoulder group in the notes?",
+    "options": [
+      "Subscapularis and infraspinatus",
+      "Trapezius and latissimus dorsi",
+      "Deltoid and teres major",
+      "Levator scapulae and rhomboids"
+    ],
+    "answer": 1,
+    "explanation": "The supplied PowerPoint states: “Extrinsic superficial: trapezius and latissimus dorsi” This supports the answer: Trapezius and latissimus dorsi. Revisit slide 9 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Extrinsic superficial: trapezius and latissimus dorsi",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "The shoulder region\nThe shoulder muscles are divided into major 2 groups:\nExtrinsic muscles\nIntrinsic muscles\nThe Extrinsic muscles are divided into 2 groups:\nSuperficial posterior thoracoappendicular\nDeep posterior thoracoappendcular\nExamples:\nExtrinsic superficial: trapezius and latissimus dorsi\nExtrinsic deep: levator scapulae and rhomboids\nIntrinsic: deltoid, teres major and rotator cuff muscles\n18/10/2026 08:13\n9"
+  },
+  {
+    "id": "q528",
+    "lecture": 9,
+    "page": 7,
+    "stem": "Which facilities represent secondary health care in the lecture?",
+    "options": [
+      "Specialist hospitals",
+      "Teaching hospitals",
+      "Clinics and health centres",
+      "General hospitals"
+    ],
+    "answer": 3,
+    "explanation": "The supplied PowerPoint states: “Secondary: general hospitals” This supports the answer: General hospitals. Revisit slide 7 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Secondary: general hospitals",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Levels of Health Care\nPrimary: clinics and health centres\nSecondary: general hospitals\nTertiary: teaching and specialist hospitals\nNOTE Radiographers and Technicians serves all the above three levels"
+  },
+  {
+    "id": "q529",
+    "lecture": 9,
+    "page": 7,
+    "stem": "At which levels of health care do radiographers and technicians serve in these notes?",
+    "options": [
+      "Secondary only",
+      "Primary only",
+      "Tertiary only",
+      "Primary, secondary and tertiary"
+    ],
+    "answer": 3,
+    "explanation": "The supplied PowerPoint states: “Radiographers and Technicians serves all the above three levels” This supports the answer: Primary, secondary and tertiary. Revisit slide 7 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Radiographers and Technicians serves all the above three levels",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Levels of Health Care\nPrimary: clinics and health centres\nSecondary: general hospitals\nTertiary: teaching and specialist hospitals\nNOTE Radiographers and Technicians serves all the above three levels"
+  },
+  {
+    "id": "q530",
+    "lecture": 9,
+    "page": 8,
+    "stem": "According to the health-care-team slide, what does teamwork protect?",
+    "options": [
+      "Only the equipment",
+      "Only the departmental budget",
+      "Only the appointment schedule",
+      "The patient"
+    ],
+    "answer": 3,
+    "explanation": "The supplied PowerPoint states: “Teamwork protects the patient” This supports the answer: The patient. Revisit slide 8 to check the surrounding notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Teamwork protects the patient",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "The Health Care Team\nDoctors, nurses, pharmacists, laboratory scientists\nRadiologists, radiographers, X-ray technicians\nEach member has defined duties and limits\nTeamwork protects the patient"
   }
 ]
