@@ -36,7 +36,7 @@ def main():
      counts['unchangedParts']+=1
      if item.startswith('ppt/media/'):counts['mediaParts']+=1
   counts['decks']+=1
- assert counts['decks']==10 and counts['slides']==418
+ assert counts['decks']==len(decks) and counts['slides']==sum(len(d['slides']) for d in decks)
  assert (BASE/'public/lectures/radia-redesigned-lectures.zip').exists()
  print(json.dumps(counts))
 if __name__=='__main__':main()

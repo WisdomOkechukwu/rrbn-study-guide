@@ -11,6 +11,8 @@ const covers: Record<number, { src: string; alt: string; position?: string }> = 
   7: { src: '/images/equipment.jpg', alt: 'Medical X-ray imaging equipment', position: 'center' },
   8: { src: '/images/anatomy.jpg', alt: 'Radiologist reviewing a chest radiograph', position: 'right center' },
   9: { src: '/images/patient-care.jpg', alt: 'Medical professional with a stethoscope' },
+  10: { src: '/images/equipment.jpg', alt: 'Radiographic equipment for positioning examinations' },
+  11: { src: '/images/anatomy.jpg', alt: 'Radiologist reviewing a radiograph', position: 'right center' },
 };
 
 export default function CourseCover({ lecture, code, eager = false }: { lecture: number; code: string; eager?: boolean }) {

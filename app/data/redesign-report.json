@@ -3014,5 +3014,226 @@
         "smallestFont": 32
       }
     ]
+  },
+  {
+    "lecture": "MXT209 RADIOGRAPHIC TECHNIQUE 2026.pptx",
+    "file": "/lectures/redesigned/lecture-11.pptx",
+    "slides": 18,
+    "verifiedTextIdentical": true,
+    "verifiedNonSlidePartsIdentical": true,
+    "layouts": [
+      {
+        "slide": 1,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 11,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 18.0
+      },
+      {
+        "slide": 13,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 13.0
+      },
+      {
+        "slide": 14,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 15.0
+      },
+      {
+        "slide": 15,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 20
+      },
+      {
+        "slide": 16,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 16.5
+      },
+      {
+        "slide": 17,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 15.0
+      },
+      {
+        "slide": 18,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 12.5
+      },
+      {
+        "slide": 10,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19.0
+      },
+      {
+        "slide": 12,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 13.5
+      },
+      {
+        "slide": 8,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 15.0
+      },
+      {
+        "slide": 2,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 15.0
+      },
+      {
+        "slide": 9,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 14.0
+      },
+      {
+        "slide": 4,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19.0
+      },
+      {
+        "slide": 3,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 17.5
+      },
+      {
+        "slide": 6,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 14.0
+      },
+      {
+        "slide": 5,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 17.5
+      },
+      {
+        "slide": 7,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 14.5
+      }
+    ]
+  },
+  {
+    "lecture": "MXT301 Technique II 2026.pptx",
+    "file": "/lectures/redesigned/lecture-12.pptx",
+    "slides": 11,
+    "verifiedTextIdentical": true,
+    "verifiedNonSlidePartsIdentical": true,
+    "layouts": [
+      {
+        "slide": 1,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 22
+      },
+      {
+        "slide": 11,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 14.0
+      },
+      {
+        "slide": 9,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 13.5
+      },
+      {
+        "slide": 8,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 19.0
+      },
+      {
+        "slide": 7,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 13.5
+      },
+      {
+        "slide": 10,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 15.0
+      },
+      {
+        "slide": 5,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 16.0
+      },
+      {
+        "slide": 2,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 15.0
+      },
+      {
+        "slide": 6,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 15.5
+      },
+      {
+        "slide": 4,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 17.0
+      },
+      {
+        "slide": 3,
+        "bodyTextBoxes": 1,
+        "images": 0,
+        "tables": 0,
+        "smallestFont": 15.5
+      }
+    ]
   }
 ]

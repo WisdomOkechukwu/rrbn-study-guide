@@ -301,7 +301,7 @@ button, a, input, select { -webkit-tap-highlight-color: transparent; }
 .understanding-status.strong { color: var(--ink-8ba565, #8ba565); background: var(--surface-f2f8e9, #f2f8e9); border-color: var(--line-e0ebce, #e0ebce); }
 
 /* Flashcards */
-.flash-toolbar { display: flex; align-items: center; justify-content: space-between; gap: 20px; margin: 30px 0; }
+.flash-toolbar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px; margin: 30px 0; }
 .select-wrap { display: inline-flex; align-items: center; position: relative; border: 1px solid var(--line-d7e4f6, #d7e4f6); border-radius: 4px; background: var(--surface-fff, #fff); }
 .select-wrap select { appearance: none; padding: 11px 36px 11px 13px; border: 0; background: none; color: var(--ink-5c7da7, #5c7da7); font-size: 12px; max-width: 280px; }
 .select-wrap svg { position: absolute; right: 12px; pointer-events: none; color: var(--ink-8ba5c5, #8ba5c5); }

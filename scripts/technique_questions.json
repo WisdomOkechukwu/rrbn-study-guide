@@ -1,0 +1,842 @@
+[
+  {
+    "lecture": 10,
+    "page": 2,
+    "stem": "Before positioning a patient for a finger radiograph, which action is listed in the preparation notes?",
+    "options": [
+      "Confirm the patient's identity",
+      "Select exposure factors without speaking to the patient",
+      "Leave all materials around the fingers",
+      "Begin exposure before explaining the procedure"
+    ],
+    "quote": "Proper identification",
+    "explanation": "The preparation list begins with proper identification. The same slide also requires explanation, reassurance and removal of materials around the fingers and hand.",
+    "difficulty": "Application"
+  },
+  {
+    "lecture": 10,
+    "page": 2,
+    "stem": "For the dorsipalmar finger projection, which surface should contact the film?",
+    "options": [
+      "Palmar aspect of the fingers",
+      "Dorsal aspect of the fingers",
+      "Lateral aspect of the thumb only",
+      "Posterior aspect of the elbow"
+    ],
+    "quote": "Place palmar aspect of the fingers under examination on film",
+    "explanation": "The palmar aspect of the examined fingers is placed on the film. The fingers are separated slightly and the hand and wrist immobilized as described on this slide.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 2,
+    "stem": "A student is positioning fingers for the PA projection. Which adjustment follows the lecture?",
+    "options": [
+      "Separate the fingers slightly",
+      "Clench the fingers tightly together",
+      "Cross the fingers over one another",
+      "Flex every finger into the palm"
+    ],
+    "quote": "Separate fingers slightly",
+    "explanation": "The PA positioning instructions specify slight finger separation. This question tests the arrangement stated in the supplied lecture.",
+    "difficulty": "Application"
+  },
+  {
+    "lecture": 10,
+    "page": 3,
+    "stem": "Where is the central ray centred for the PA finger projection in the lecture?",
+    "options": [
+      "Proximal interphalangeal joint of the examined finger",
+      "Distal radioulnar joint",
+      "Head of the third metacarpal",
+      "Lateral epicondyle of the humerus"
+    ],
+    "quote": "CP: At the level of the proximal interphalangeal joint of the fingers or finger under examination.",
+    "explanation": "The stated centring point is the proximal interphalangeal joint of the finger under examination. Use this slide to distinguish finger centring from hand and elbow centring.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 3,
+    "stem": "For a lateral projection of the ring and little fingers, which border of the hand is placed on the film?",
+    "options": [
+      "Medial border",
+      "Lateral border",
+      "Dorsal surface only",
+      "Thenar eminence only"
+    ],
+    "quote": "From the PA position, the medial border of the hand is place on the film",
+    "explanation": "The lateral ring-and-little-finger instructions place the medial border of the hand on the film. The same section calls for extension and separation of those fingers.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 3,
+    "stem": "Which support is specified for the ring finger during its lateral projection?",
+    "options": [
+      "Foam pad",
+      "Lead marker",
+      "Cassette hinge",
+      "Compression paddle"
+    ],
+    "quote": "Support ring finger with foam pad",
+    "explanation": "The lecture specifies a foam pad to support the ring finger. It separately instructs flexion of the other fingers.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 4,
+    "stem": "A lateral finger image omits the fingertip. Which coverage requirement in the lecture has been missed?",
+    "options": [
+      "Include the fingertip and distal third of the metacarpal",
+      "Include only the proximal phalanx",
+      "Include the entire humerus",
+      "Include only the wrist joint"
+    ],
+    "quote": "NOTE: The image should include the tip of the finger and distal 3rd of the metacarpal",
+    "explanation": "The lecture explicitly requires the fingertip and distal third of the metacarpal. An image missing the fingertip does not meet that stated coverage requirement.",
+    "difficulty": "Application"
+  },
+  {
+    "lecture": 10,
+    "page": 5,
+    "stem": "Where is the PA thumb projection centred in the supplied lecture?",
+    "options": [
+      "Metacarpophalangeal joint of the thumb",
+      "Proximal interphalangeal joint of the little finger",
+      "Midpoint between the wrist styloids",
+      "Head of the fifth metacarpal"
+    ],
+    "quote": "CP: Metacarpophalangeal joint of the thumb",
+    "explanation": "The PA thumb section identifies the thumb metacarpophalangeal joint as its centring point. This differs from the proximal interphalangeal centring described for fingers.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 5,
+    "stem": "Which part of the hand should be protected from exerted pressure during the PA thumb positioning described?",
+    "options": [
+      "Thenar eminence",
+      "Olecranon process",
+      "Lateral epicondyle",
+      "Radial head"
+    ],
+    "quote": "Avoid exerting pressure on thenar eminence",
+    "explanation": "The thumb positioning instructions explicitly say to avoid exerting pressure on the thenar eminence. This is a stated positioning precaution in the source.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 5,
+    "stem": "In the PA thumb notes, what adjustment compensates for a large object-to-film distance?",
+    "options": [
+      "Increase the film focal distance",
+      "Decrease the film focal distance",
+      "Remove the anatomical marker",
+      "Omit immobilization"
+    ],
+    "quote": "NOTE: Increase the FFD to compensate for the large OFD",
+    "explanation": "The lecture instructs increasing FFD to compensate for the large OFD. The question asks for the adjustment given in these notes.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 6,
+    "stem": "For the mediolateral thumb projection, which aspect of the thumb contacts the cassette?",
+    "options": [
+      "Lateral aspect",
+      "Palmar aspect of all fingers",
+      "Dorsal aspect of the wrist",
+      "Anterior aspect of the elbow"
+    ],
+    "quote": "The lateral aspect of the thumb is in contact with the cassette",
+    "explanation": "The mediolateral thumb instructions specify lateral thumb contact with the cassette. The fingers are partially flexed and supported on a foam pad in this positioning description.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 6,
+    "stem": "During PA hand positioning, how should the radial and ulnar styloid processes relate to the cassette?",
+    "options": [
+      "They should be equidistant from it",
+      "They should be superimposed",
+      "Only the ulnar styloid should touch it",
+      "Both should be outside the field"
+    ],
+    "quote": "The wrist is adjusted so that the ulnar and radius styloid processes are equidistant from the cassette",
+    "explanation": "The PA hand description requires the styloid processes to be equidistant from the cassette. Superimposition is described for a different, lateral position in this deck.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 7,
+    "stem": "A student centres a PA hand radiograph. Which landmark is specified in the lecture?",
+    "options": [
+      "Head of the third metacarpal",
+      "Radial styloid process",
+      "Lateral epicondyle",
+      "Head of the first metatarsal"
+    ],
+    "quote": "CP: Over the head of the THIRD metacarpal",
+    "explanation": "The PA hand centring point is over the head of the third metacarpal. Read the PA section of this slide, before its separate oblique-position instructions.",
+    "difficulty": "Application"
+  },
+  {
+    "lecture": 10,
+    "page": 7,
+    "stem": "How much external rotation is specified when moving from a PA hand to a PA oblique hand?",
+    "options": [
+      "45 degrees",
+      "15 degrees",
+      "30 degrees",
+      "90 degrees"
+    ],
+    "quote": "From the PA position, the hand is externally rotated 45 degrees with fingers extended",
+    "explanation": "The lecture specifies 45 degrees of external rotation with the fingers extended. It also describes a 45-degree foam pad to support the position.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 8,
+    "stem": "Which relationship of the styloid processes is required for the lateral hand position?",
+    "options": [
+      "Superimposed radial and ulnar styloids",
+      "Styloids equidistant with the palm flat",
+      "Radial styloid excluded from the image",
+      "Ulnar styloid excluded from the image"
+    ],
+    "quote": "The radial and ulnar styloid processes are superimposed",
+    "explanation": "The lateral hand instructions require superimposition of the radial and ulnar styloid processes. This provides a source-based check of the stated positioning.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 8,
+    "stem": "What purpose does the lecture specifically associate with the lateral hand projection?",
+    "options": [
+      "Identifying foreign bodies",
+      "Demonstrating the carpal tunnel axially",
+      "Imaging the surgical neck alone",
+      "Demonstrating the elbow in flexion"
+    ],
+    "quote": "Note: This projection is commonly done to identify the foreign bodies.",
+    "explanation": "The note under lateral hand positioning identifies foreign-body detection as a common purpose. No additional indication is needed to answer this question.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 8,
+    "stem": "For the ball-catcher position, how are both hands rotated from the initial supinated position?",
+    "options": [
+      "Medially by 45 degrees",
+      "Laterally by 90 degrees",
+      "Medially by 15 degrees",
+      "Laterally by 30 degrees"
+    ],
+    "quote": "From this position, both hands are rotated medially 45 degree into a Ball-catching position",
+    "explanation": "The ball-catcher description specifies medial rotation of both hands by 45 degrees. This is distinct from the externally rotated single-hand oblique position.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 9,
+    "stem": "For the PA wrist projection, what centring point is given?",
+    "options": [
+      "Midway between radial and ulnar styloid processes",
+      "Head of the second metacarpal",
+      "Olecranon process",
+      "Head of the humerus"
+    ],
+    "quote": "CP: Midway between the ulnar and radial styloid processes",
+    "explanation": "The PA wrist instructions centre midway between the radial and ulnar styloid processes. The slide places the palm, wrist and lower forearm in a straight line.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 9,
+    "stem": "Why is a small pad placed under the metacarpophalangeal joints for the PA wrist in these notes?",
+    "options": [
+      "To maintain close wrist contact with the film",
+      "To raise the wrist away from the film",
+      "To rotate the elbow through 90 degrees",
+      "To obscure the carpal region"
+    ],
+    "quote": "Place small pad under metacarpophalangeal joints of hand to maintain wrist in close contact with film",
+    "explanation": "The stated purpose of the pad is close wrist contact with the film. The question directly tests the purpose supplied in the positioning instructions.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 10,
+    "stem": "A student is checking a lateral wrist position. Which alignment is required by the notes?",
+    "options": [
+      "Superimposed ulnar and radial styloid processes",
+      "Widely separated styloid processes",
+      "Palm flat with no forearm rotation",
+      "Elbow raised above the shoulder"
+    ],
+    "quote": "Ensure ulnar and radial styloid processes are superimposed",
+    "explanation": "The lateral wrist instructions require superimposed styloid processes. This is the alignment check stated on the source slide.",
+    "difficulty": "Application"
+  },
+  {
+    "lecture": 10,
+    "page": 10,
+    "stem": "Which centring landmark is stated for the lateral wrist projection?",
+    "options": [
+      "Radial styloid process",
+      "Head of the third metacarpal",
+      "Midshaft of the humerus",
+      "Medial epicondyle"
+    ],
+    "quote": "CP:  Radial styloid processes",
+    "explanation": "The lateral wrist section identifies the radial styloid as the centring landmark. The PA wrist section on the preceding slide uses the midpoint between the styloids.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 11,
+    "stem": "Which hand movement is specified in the PA scaphoid projection?",
+    "options": [
+      "Ulnar deviation",
+      "Radial deviation",
+      "Full finger flexion",
+      "Thumb opposition only"
+    ],
+    "quote": "Rest palm, wrist and lower forearm on the film with ulnar deviation of hand",
+    "explanation": "The scaphoid projection described in the lecture uses ulnar deviation of the hand. This question concerns positioning rather than the separate follow-up timing note.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 12,
+    "stem": "Where is the superoinferior axial carpal-tunnel projection centred in the lecture?",
+    "options": [
+      "Midcarpal region",
+      "Head of the third metacarpal",
+      "Radial head",
+      "Midshaft of the forearm"
+    ],
+    "quote": "CP: Midcarpal region",
+    "explanation": "The carpal-tunnel section gives the midcarpal region as its centring point. It also asks that the carpal region be placed in profile.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 12,
+    "stem": "For an AP forearm projection, what forearm and elbow positions are described?",
+    "options": [
+      "Fully supinated forearm with elbow extended",
+      "Pronated forearm with elbow fully flexed",
+      "True lateral forearm with elbow at 90 degrees",
+      "Forearm behind the patient's back"
+    ],
+    "quote": "Place forearm fully supinated with elbow extended",
+    "explanation": "The AP forearm instructions specify full supination and elbow extension. The lateral forearm instructions on the next slide describe a different elbow position.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 12,
+    "stem": "Which two joints should be included if possible on the AP forearm image?",
+    "options": [
+      "Wrist and elbow",
+      "Shoulder and hip",
+      "Elbow and knee",
+      "Wrist and ankle"
+    ],
+    "quote": "Include wrist and elbow if possible using long cassette size",
+    "explanation": "The AP forearm notes ask for inclusion of both wrist and elbow where possible, using a long cassette. This is the source's stated image-coverage check.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 13,
+    "stem": "For the lateral forearm projection, what elbow flexion is described?",
+    "options": [
+      "90 degrees",
+      "15 degrees",
+      "30 degrees",
+      "Full extension"
+    ],
+    "quote": "Flex elbow at 90 degrees",
+    "explanation": "The lateral forearm instructions specify 90 degrees of elbow flexion. This contrasts with the extended elbow described for the AP forearm.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 13,
+    "stem": "Where is the lateral forearm projection centred?",
+    "options": [
+      "Lateral forearm midway between wrist and elbow",
+      "Head of the third metacarpal",
+      "Midpoint between wrist styloids only",
+      "Head of the humerus"
+    ],
+    "quote": "CP: Lateral aspect of the forearm, midway between wrist and elbow joints",
+    "explanation": "The stated lateral forearm centring point is halfway between the wrist and elbow on the lateral aspect. Both joints are also to be included if possible.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 14,
+    "stem": "Where is the AP elbow projection centred according to the lecture?",
+    "options": [
+      "In the midline 2.5 cm distal to the epicondylar line",
+      "At the head of the third metacarpal",
+      "At the radial styloid process",
+      "In the midline 5 cm proximal to the shoulder"
+    ],
+    "quote": "CP: In the midline 2.5cm distal to a line joining the lateral and medial epicondyles of the humerus",
+    "explanation": "The AP elbow centring point is 2.5 cm distal to the line joining the humeral epicondyles. The distance and reference line are both explicitly stated.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 14,
+    "stem": "Which forearm position is described for the AP elbow projection?",
+    "options": [
+      "Fully supinated with the elbow extended",
+      "Fully pronated with elbow at 90 degrees",
+      "Lateral with the elbow fully flexed",
+      "Hand resting on the opposite shoulder"
+    ],
+    "quote": "Place forearm fully supinated with elbow extended on a film",
+    "explanation": "The AP elbow instructions require full forearm supination with the elbow extended. This identifies the position described on the AP elbow slide.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 15,
+    "stem": "When setting up the lateral elbow, which structures should be at the same level?",
+    "options": [
+      "Shoulder, elbow and hand",
+      "Shoulder, knee and ankle",
+      "Wrist, hip and foot",
+      "Head, pelvis and heel"
+    ],
+    "quote": "Seat the patient alongside the X-ray couch with shoulder, elbow and hand at the same level.",
+    "explanation": "The lateral elbow description places shoulder, elbow and hand at one level. The next instruction specifies 90-degree elbow flexion and a true lateral forearm.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 15,
+    "stem": "Which centring point is given for the lateral elbow projection?",
+    "options": [
+      "Lateral epicondyle of the humerus",
+      "Medial malleolus",
+      "Radial styloid process",
+      "Head of the second metacarpal"
+    ],
+    "quote": "CP: Lateral epicondyle of the humerus",
+    "explanation": "The lateral elbow centring landmark is the lateral humeral epicondyle. This is explicitly different from the AP elbow's midline point below the epicondylar line.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 16,
+    "stem": "How is the elbow flexed for the axial elbow position described in the notes?",
+    "options": [
+      "Until the hand contacts the shoulder",
+      "Only 15 degrees from extension",
+      "Until the palm lies flat beside the hip",
+      "With the arm kept fully extended"
+    ],
+    "quote": "Flex elbow so that the hand is in contact with the shoulder",
+    "explanation": "The axial elbow instructions call for flexion until the hand contacts the shoulder. The elbow then rests on the film with the upper arm at couch level.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 16,
+    "stem": "Which listed factor influences the choice of exposure factors in the lecture?",
+    "options": [
+      "Anatomical structure",
+      "Patient's occupation",
+      "Colour of the anatomical marker",
+      "Time printed on the appointment card"
+    ],
+    "quote": "NOTE: The choice of exposure factors depends on\nAnatomical structure\nType of film material use\nEnergy of the beam",
+    "explanation": "The source lists anatomical structure, film material and beam energy as influences on exposure-factor choice. The answer is one of those explicitly named factors.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 17,
+    "stem": "Which joints should an image of the humerus include in the positioning notes?",
+    "options": [
+      "Shoulder and elbow",
+      "Wrist and elbow",
+      "Hip and knee",
+      "Ankle and knee"
+    ],
+    "quote": "Rest the hmerus against the film to include shoulder and elbow.",
+    "explanation": "The humerus section instructs inclusion of shoulder and elbow. This question uses that unambiguous coverage statement rather than the slide's inconsistent subsection heading.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 17,
+    "stem": "What centring point is specified for the AP humerus in the humerus section?",
+    "options": [
+      "Anterior humerus midway between shoulder and elbow",
+      "Radial styloid process",
+      "Head of the fifth metacarpal",
+      "Proximal interphalangeal joint"
+    ],
+    "quote": "CP: Anterior aspect of the humerus midway between the shoulder and elbow joints",
+    "explanation": "The humerus section centres on the anterior aspect midway between shoulder and elbow. Both the anatomical region and midpoint are stated in the source.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 18,
+    "stem": "For the lateral arm projection, which way is the trunk rotated?",
+    "options": [
+      "Away from the affected side",
+      "Towards the affected side until the chest covers the arm",
+      "No rotation is allowed",
+      "Through a complete turn"
+    ],
+    "quote": "Rotate trunk away from the affected side until lateral aspect of the humerus rest on the film",
+    "explanation": "The lateral arm instructions rotate the trunk away from the affected side until the lateral humerus rests on the film. The same section requires inclusion of shoulder and elbow.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 2,
+    "stem": "Which surface of the foot contacts the film for the dorsiplantar toe projection?",
+    "options": [
+      "Plantar surface",
+      "Dorsal surface",
+      "Posterior heel alone",
+      "Anterior shin"
+    ],
+    "quote": "Place plantar aspect of the affected foot on film",
+    "explanation": "The dorsiplantar toe positioning instructions place the plantar aspect of the affected foot on the film. The patient is seated with knees flexed.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 2,
+    "stem": "Which set of projections is listed for the toes?",
+    "options": [
+      "Dorsiplantar, dorsiplantar oblique and lateral",
+      "PA, ball-catcher and axial carpal tunnel",
+      "AP humerus, lateral humerus and inferosuperior",
+      "AP elbow, lateral elbow and axial elbow"
+    ],
+    "quote": "Dorsiplantar (anteroposterior)\nDorsiplantar (anteroposterior)Oblique\nLateral",
+    "explanation": "The toe section lists dorsiplantar, dorsiplantar oblique and lateral projections. These are the projections to identify from this supplied slide.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 3,
+    "stem": "For the lateral toe projection, which side does the patient lie on?",
+    "options": [
+      "Affected side",
+      "Unaffected side only",
+      "Prone with both legs straight",
+      "Supine with no hip or knee flexion"
+    ],
+    "quote": "Lie the patient on the X-ray couch on the affected side with the hip and knee flexed",
+    "explanation": "The lateral toe description places the patient on the affected side with hip and knee flexed. The unaffected leg is then placed comfortably in front or behind.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 3,
+    "stem": "How is the knee supported when placing the toes in a true lateral position?",
+    "options": [
+      "Raised on a pad",
+      "Held fully extended without support",
+      "Pressed under the unaffected ankle",
+      "Suspended off the table"
+    ],
+    "quote": "Place the foot in the true lateral position with the knee raised on a pad and the film under the toes",
+    "explanation": "The lecture describes a true lateral foot position with the knee raised on a pad and film under the toes. This is the support arrangement stated for lateral toes.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 4,
+    "stem": "What angle does the plantar surface make with the cassette for the oblique toe position described?",
+    "options": [
+      "Approximately 45 degrees",
+      "Approximately 10 degrees",
+      "Approximately 20 degrees",
+      "Approximately 90 degrees"
+    ],
+    "quote": "From the AP position, the affected limb is allowed to lean medially to bring the plantar surface of the foot approximately 45 degrees to the cassete",
+    "explanation": "The oblique toe position is obtained by medial leaning until the plantar surface is approximately 45 degrees to the cassette. The source describes a supporting pad of the same angle.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 4,
+    "stem": "Which support is specified for the oblique toe position?",
+    "options": [
+      "45-degree non-radiopaque pad",
+      "Lead sheet covering the toes",
+      "Compression paddle over the knee",
+      "Metal block under the examined toes"
+    ],
+    "quote": "A 45 degree non-radiopaque pad placed under the side of the foot for support with opposite leg acting as a support.",
+    "explanation": "The lecture specifies a 45-degree non-radiopaque pad under the side of the foot, with the opposite leg also providing support. This is the arrangement described in the notes.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 5,
+    "stem": "For the dorsiplantar foot position, how are the patient's knees arranged?",
+    "options": [
+      "Flexed while seated on the couch",
+      "Fully extended while standing",
+      "Crossed while prone",
+      "Both suspended off the couch"
+    ],
+    "quote": "Patient seat on the X-ray couch with knees flexed",
+    "explanation": "The foot section places the patient seated on the X-ray couch with knees flexed. The next instruction places the plantar aspect of the affected foot on the film.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 6,
+    "stem": "Where is the dorsiplantar foot projection centred in the supplied lecture?",
+    "options": [
+      "Dorsum of the foot at the cuboid-navicular region",
+      "Medial malleolus",
+      "Apex of the patella",
+      "Middle of the tibial shaft"
+    ],
+    "quote": "CP: Dorsum of the foot to the Cubiod-navicular region",
+    "explanation": "The source gives the cuboid-navicular region on the dorsum of the foot as the centring point. The answer follows the named region in the supplied notes.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 6,
+    "stem": "Which movement changes the AP foot position into the oblique foot position described?",
+    "options": [
+      "Lean the affected limb medially",
+      "Rotate the limb laterally through 90 degrees",
+      "Flex all toes into the sole",
+      "Keep the plantar surface flat without rotation"
+    ],
+    "quote": "From the AP position, the affected limb is allowed to lean medially to bring the plantar surface of the foot approximately 45 degrees to the cassete",
+    "explanation": "The oblique foot instructions use medial leaning to bring the plantar surface to approximately 45 degrees. This tests the direction of movement given in the lecture.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 7,
+    "stem": "In the lateral foot notes, when is a horizontal central ray specifically mentioned?",
+    "options": [
+      "With the cassette lateral to the foot in pes planus",
+      "For every AP toe projection",
+      "Only for the PA patella",
+      "Only when imaging the elbow"
+    ],
+    "quote": "DCR:: Vertical or Horizontal (if cassette is placed at the lateral part of the foot in case of pes planus[Flat foot])",
+    "explanation": "The lateral foot description explicitly mentions a horizontal ray with a laterally placed cassette in pes planus. The question stays within that stated example.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 7,
+    "stem": "For the AP ankle position, how should the malleoli relate to the couch top?",
+    "options": [
+      "Both should be equidistant from it",
+      "Both should be superimposed",
+      "Only the medial malleolus should be imaged",
+      "Both should lie outside the cassette"
+    ],
+    "quote": "Rotate the ankle medially until both malleoli are equidistant from the couch top.",
+    "explanation": "The AP ankle instructions require medial rotation until the malleoli are equidistant from the couch top. This is the alignment stated for that projection.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 7,
+    "stem": "Where is the AP ankle projection centred in the notes?",
+    "options": [
+      "Midway between the malleoli",
+      "Head of the first metatarsal",
+      "Apex of the patella",
+      "Middle of the femoral shaft"
+    ],
+    "quote": "CP: Midway between the malleoli",
+    "explanation": "The AP ankle centring point is midway between the malleoli. The separate lateral ankle section on the next slide uses the medial malleolus.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 8,
+    "stem": "Which relationship of the malleoli is specified for the lateral ankle?",
+    "options": [
+      "Superimposed malleoli",
+      "Malleoli equidistant with no lateral rotation",
+      "Medial malleolus outside the image",
+      "Lateral malleolus outside the image"
+    ],
+    "quote": "Place the affected ankle in the true lateral position such as that both malleoli are superimposed with the knee raised on a pad",
+    "explanation": "The lateral ankle notes require a true lateral position with superimposed malleoli and the knee raised on a pad. This is the stated alignment check.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 8,
+    "stem": "What centring landmark is given for the lateral ankle?",
+    "options": [
+      "Medial malleolus",
+      "Head of the third metatarsal",
+      "Tibial tuberosity",
+      "Apex of the patella"
+    ],
+    "quote": "CP: Medial malleolus",
+    "explanation": "The lateral ankle section specifies the medial malleolus as its centring landmark. The AP ankle uses the midpoint between the malleoli instead.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 9,
+    "stem": "Which joints should be included if possible on an AP tibia-fibula image?",
+    "options": [
+      "Ankle and knee",
+      "Hip and shoulder",
+      "Elbow and wrist",
+      "Hip and elbow"
+    ],
+    "quote": "Include both ankle and knee joints on the film if possible.",
+    "explanation": "The AP leg instructions ask for inclusion of both ankle and knee if possible. This is the source's stated image-coverage requirement for the lower leg.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 9,
+    "stem": "Where is the AP lower-leg projection centred?",
+    "options": [
+      "Anterior middle of the lower leg between ankle and knee",
+      "Medial malleolus only",
+      "Head of the first metatarsal",
+      "Superior pole of the patella"
+    ],
+    "quote": "CP: Anterior aspect of the middle of lower leg midway between the ankle and knee joints",
+    "explanation": "The AP lower-leg centring point is the anterior midpoint between ankle and knee. It is not the centring point used for an isolated ankle image.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 9,
+    "stem": "For the AP tibia-fibula position, how is the ankle arranged?",
+    "options": [
+      "Flexed 90 degrees with the foot upright",
+      "Fully plantarflexed with toes pointing down",
+      "Rotated until only the heel is visible",
+      "Held in the ball-catcher position"
+    ],
+    "quote": "Place the lower leg on the film-cassette with the ankle joint flexed 90 degrees with foot upright.",
+    "explanation": "The AP leg description specifies an ankle flexed 90 degrees with the foot upright. This question tests the position stated in the supplied lecture.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 9,
+    "stem": "Where is the lateral lower-leg projection centred?",
+    "options": [
+      "Medial aspect of the lower leg midway between ankle and knee",
+      "Dorsum of the foot at the metatarsal heads",
+      "Anterior aspect of the shoulder",
+      "Midpoint between wrist styloids"
+    ],
+    "quote": "CP: Medial aspect of the middle of the lower leg midway between the ankle and knee joints.",
+    "explanation": "The lateral leg centring point is the medial midpoint between ankle and knee. This contrasts with the anterior aspect specified for the AP lower leg.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 10,
+    "stem": "Which patellar alignment is required for the AP knee position in the lecture?",
+    "options": [
+      "Patella central over the femur",
+      "Patella displaced fully lateral to the femur",
+      "Patella outside the collimated field",
+      "Patella hidden behind the ankle"
+    ],
+    "quote": "Ensure that the patella is central over the femur",
+    "explanation": "The AP knee instructions explicitly require the patella to be central over the femur. This is the positioning check stated in the notes.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 10,
+    "stem": "Where is the AP knee projection centred according to the notes?",
+    "options": [
+      "2.5 cm below the apex of the patella",
+      "5 cm above the femoral head",
+      "At the medial malleolus",
+      "At the cuboid-navicular region"
+    ],
+    "quote": "CP: 2.5cm below the apex of the patella",
+    "explanation": "The AP knee centring point is 2.5 cm below the patellar apex. Both the distance and reference landmark are given on the source slide.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 11,
+    "stem": "In the PA patella instructions, which patient position is described?",
+    "options": [
+      "Prone with the knee slightly flexed",
+      "Supine with the knee fully extended",
+      "Standing with both hands on the cassette",
+      "Seated with the ankle crossed over the opposite knee"
+    ],
+    "quote": "Patient lie prone on the table with knee slightly flexed",
+    "explanation": "The PA patella section specifies a prone patient with slight knee flexion. The question refers to that section rather than the lateral knee section above it.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 11,
+    "stem": "Where are foam pads placed for the PA patella position described?",
+    "options": [
+      "Under the ankle and thigh",
+      "Under the wrist and elbow",
+      "Under both shoulders",
+      "Between the hands"
+    ],
+    "quote": "Foam pads are placed under the ankle and thigh for support",
+    "explanation": "The PA patella positioning instructions place foam pads beneath the ankle and thigh for support. Those two support sites are explicitly named in the source.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 11,
+    "stem": "Where is the PA patella projection centred in the lecture?",
+    "options": [
+      "Midline at the skin crease behind the knee",
+      "Head of the third metatarsal",
+      "Anterior middle of the tibial shaft",
+      "Medial malleolus"
+    ],
+    "quote": "CP: In the midline to the skin crease behind the knee",
+    "explanation": "The PA patella instructions give the midline skin crease behind the knee as the centring point. This differs from the AP knee landmark on the preceding slide.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 11,
+    "stem": "For the lateral knee, where is the unaffected leg placed in the positioning notes?",
+    "options": [
+      "Comfortably in front of the affected leg",
+      "Directly on top of the affected knee",
+      "Behind the patient's head",
+      "Suspended vertically above the couch"
+    ],
+    "quote": "Rest the unaffected leg in a comfortable position in front of  the affected leg.",
+    "explanation": "The lateral knee description places the unaffected leg comfortably in front of the affected leg. The remaining steps establish a true lateral knee position and immobilization.",
+    "difficulty": "Recall"
+  }
+]

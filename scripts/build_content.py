@@ -3,12 +3,18 @@ import argparse, json, pathlib, zipfile, re, xml.etree.ElementTree as E, shutil
 from slide_text import extract, tables
 parser=argparse.ArgumentParser(description=__doc__)
 parser.add_argument('--source-dir',type=pathlib.Path,default=pathlib.Path.home()/'Downloads')
-SOURCE=parser.parse_args().source_dir
+parser.add_argument('--codes', nargs='+', help='Extract only these course codes, retaining other lectures')
+args=parser.parse_args()
+SOURCE=args.source_dir
+selected={code.replace(' ','') for code in args.codes} if args.codes else None
 N={'a':'http://schemas.openxmlformats.org/drawingml/2006/main','r':'http://schemas.openxmlformats.org/officeDocument/2006/relationships','p':'http://schemas.openxmlformats.org/presentationml/2006/main'}
-config=[('Anatomy of the lower limbs.pptx','Lower Limb Anatomy','ANA 102','Anatomy','bone','peach'),('RRBN MXT 102-MEDICAL IMAGE PROCESSING.pptx','Medical Image Processing','MXT 102','Image processing','scan','mint'),('BASIC COMPUTER APPRECIATION.pptx','Computer Appreciation','MXT 304','Computing','monitor','lavender'),('LECTURES ON INTRODUCTION TO DAYLIGHT AND DIGITAL IMAGING PROCESSING.pptx','Daylight & Digital Imaging','MXT 303','Digital imaging','layers','blue'),('INTRODUCTION TO BASIC RADIOGRAPHIC EQUIPMENT.pptx','Radiographic Equipment','MXT 302','Equipment','scan','peach'),('INTRODUCTION TO AUTOMATIC FILM PROCESSING.pptx','Automatic Film Processing','MXT 205','Image processing','settings','lavender'),('RRBN MXT 202.pptx','Manual Film Processing','MXT 202','Image processing','flask','mint'),('Dr. Collins Lecture 2026-2027 First semester.pptx','Radiation Physics & Electricity','MXT 112','Physics','atom','blue'),('Anatomy of the Upper Limbs.pptx','Upper Limb Anatomy','ANA 101','Anatomy','bone','lavender'),('RRBN MXT 208.pptx','Patient Care & Health Management','MXT 208','Patient care','heart','peach')]
+config=[('Anatomy of the lower limbs.pptx','Lower Limb Anatomy','ANA 102','Anatomy','bone','peach'),('RRBN MXT 102-MEDICAL IMAGE PROCESSING.pptx','Medical Image Processing','MXT 102','Image processing','scan','mint'),('BASIC COMPUTER APPRECIATION.pptx','Computer Appreciation','MXT 304','Computing','monitor','lavender'),('LECTURES ON INTRODUCTION TO DAYLIGHT AND DIGITAL IMAGING PROCESSING.pptx','Daylight & Digital Imaging','MXT 303','Digital imaging','layers','blue'),('INTRODUCTION TO BASIC RADIOGRAPHIC EQUIPMENT.pptx','Radiographic Equipment','MXT 302','Equipment','scan','peach'),('INTRODUCTION TO AUTOMATIC FILM PROCESSING.pptx','Automatic Film Processing','MXT 205','Image processing','settings','lavender'),('RRBN MXT 202.pptx','Manual Film Processing','MXT 202','Image processing','flask','mint'),('Dr. Collins Lecture 2026-2027 First semester.pptx','Radiation Physics & Electricity','MXT 112','Physics','atom','blue'),('Anatomy of the Upper Limbs.pptx','Upper Limb Anatomy','ANA 101','Anatomy','bone','lavender'),('RRBN MXT 208.pptx','Patient Care & Health Management','MXT 208','Patient care','heart','peach'),('MXT209 RADIOGRAPHIC TECHNIQUE 2026.pptx','Radiographic Technique I: Upper Limbs','MXT 209','Technique','scan','blue'),('MXT301 Technique II 2026.pptx','Radiographic Technique II: Lower Limbs','MXT 301','Technique','bone','mint')]
 notes={}
+existing={d['id']:d for d in json.loads(pathlib.Path('app/data/lectures.json').read_text())} if selected else {}
 lectures=[]
 for i,(name,title,code,category,icon,color) in enumerate(config):
+ if selected and code.replace(' ','') not in selected:
+  lectures.append(existing[i]);continue
  p=SOURCE/name; z=zipfile.ZipFile(p);slides=[]; deck=f'lecture-{i+1}.pptx';shutil.copyfile(p,pathlib.Path('public/lectures')/deck)
  for n in sorted([n for n in z.namelist() if re.match(r'ppt/slides/slide\d+.xml$',n)],key=lambda n:int(re.search(r'slide(\d+)',n).group(1))):
   page=int(re.search(r'slide(\d+)',n).group(1));root=E.fromstring(z.read(n)); extracted=extract(root);paras=[p['text'] for p in extracted]

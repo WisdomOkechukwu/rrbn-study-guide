@@ -224,3 +224,101 @@ test('lecture navigation starts each slide at the top', async ({page}) => {
   await page.getByRole('spinbutton',{name:'Go to slide number'}).fill('5');
   await expect.poll(()=>scroll.evaluate(el=>el.scrollTop)).toBe(0);
 });
+
+for (const course of [
+  {id:10,title:'Radiographic Technique I: Upper Limbs',code:'MXT 209'},
+  {id:11,title:'Radiographic Technique II: Lower Limbs',code:'MXT 301'},
+]) {
+  test(`${course.code} supports reading, topic practice, slide references and flashcards`,async({page})=>{
+    const errors:string[]=[];page.on('pageerror',error=>errors.push(error.message));
+    await page.goto('/');
+    await page.getByRole('button',{name:'Lecture library',exact:true}).click();
+    await expect(page.locator('.count-chip')).toContainText('447 source slides');
+    await page.getByRole('button',{name:'Technique',exact:true}).click();
+    await expect(page.locator('.library-grid .course-card')).toHaveCount(2);
+    await page.getByRole('button',{name:`Read ${course.title}`,exact:true}).click();
+    await page.getByRole('spinbutton',{name:'Go to slide number'}).fill('2');
+    await expect(page.locator('.slide-paper')).toContainText(course.id===10?'FINGERS':'TOES');
+    await expect(page.getByRole('link',{name:'Download original PowerPoint'})).toHaveAttribute('href',`/lectures/lecture-${course.id+1}.pptx`);
+    await page.getByRole('button',{name:'Test my understanding',exact:true}).click();
+    await expect(page.getByRole('combobox',{name:'Test topic'})).toHaveValue(`${course.id}-0`);
+    await page.getByRole('spinbutton',{name:'Session duration in minutes'}).fill('0');
+    await page.getByRole('button',{name:'Let’s begin',exact:true}).click();
+    const stem=await page.locator('.question-stem').innerText();
+    const question=questions.find(q=>q.stem===stem)!;
+    expect(question.lecture).toBe(course.id);
+    await page.locator('.answer-option').nth(question.answer).click();
+    await expect(page.locator('.explanation blockquote')).toContainText(question.sourceExcerpt!);
+    await page.locator('.explanation .source-link').click();
+    await expect(page.getByRole('spinbutton',{name:'Go to slide number'})).toHaveValue(String(question.page));
+    await expect(page.locator('.slide-paper')).toContainText(question.sourceExcerpt!.split('\n')[0]);
+    await page.getByRole('button',{name:'Close reader',exact:true}).click();
+    await page.getByRole('button',{name:'Save & leave',exact:true}).click();
+    await page.getByRole('button',{name:'Flashcards',exact:true}).click();
+    await page.getByRole('combobox',{name:'Flashcard subject'}).selectOption(String(course.id));
+    await expect(page.locator('.flash-meta')).toContainText(course.title);
+    expect(errors).toEqual([]);
+  });
+}
+
+test('flashcard passes are shuffled, stable during review, and do not repeat a card before a full pass',async({page})=>{
+  await page.goto('/');
+  await page.getByRole('button',{name:'Flashcards',exact:true}).click();
+  await page.getByRole('combobox',{name:'Flashcard subject'}).selectOption('11');
+  const pool=questions.filter(q=>q.lecture===11);
+  const seen:string[]=[];
+  for(let index=0;index<pool.length;index++){
+    const stem=await page.locator('.flashcard h2').innerText();
+    expect(pool.some(q=>q.stem===stem)).toBe(true);expect(seen).not.toContain(stem);seen.push(stem);
+    if(index===0){
+      await page.locator('.flip-button').click();
+      await page.getByRole('button',{name:'Save flashcard question'}).click();
+      await page.locator('.flip-button').click();
+      await expect(page.locator('.flashcard h2')).toHaveText(stem);
+    }
+    await page.getByRole('button',{name:'Next flashcard'}).click();
+  }
+  expect(seen).not.toEqual(pool.map(q=>q.stem));
+  await expect(page.locator('.flashcard h2')).not.toHaveText(seen[seen.length-1]);
+  const before=await page.locator('.flashcard h2').innerText();
+  await page.getByRole('button',{name:'Shuffle cards',exact:true}).click();
+  await expect(page.locator('.flashcard h2')).not.toHaveText(before);
+  const after=await page.locator('.flashcard h2').innerText();
+  await page.getByRole('button',{name:'Next flashcard'}).click();
+  const next=await page.locator('.flashcard h2').innerText();
+  await page.getByRole('button',{name:'Previous flashcard'}).click();
+  await expect(page.locator('.flashcard h2')).toHaveText(after);
+  await page.getByRole('button',{name:'Still learning',exact:true}).click();
+  await expect(page.locator('.flashcard h2')).not.toHaveText(after);
+  const current=await page.locator('.flashcard h2').innerText();
+  await page.getByRole('button',{name:'Next flashcard'}).click();
+  const following=await page.locator('.flashcard h2').innerText();
+  await page.getByRole('button',{name:'Previous flashcard'}).click();
+  await expect(page.locator('.flashcard h2')).toHaveText(current);
+  await page.locator('.flip-button').click();
+  await page.getByRole('button',{name:'Got it',exact:true}).click();
+  await expect(page.locator('.flashcard h2')).toHaveText(following);
+  await expect(page.locator('.flashcard h2')).not.toHaveText(current);
+  expect(next).not.toBe(after);
+});
+
+test('fresh practice sessions shuffle their selection and resume preserves the chosen order',async({page})=>{
+  await page.goto('/');
+  await page.getByRole('button',{name:'Practice questions',exact:true}).click();
+  const start=async()=>{
+    await page.getByRole('button',{name:'Start practice',exact:true}).click();
+    await page.getByRole('spinbutton',{name:'Session duration in minutes'}).fill('0');
+    await page.getByRole('button',{name:'Let’s begin',exact:true}).click();
+    await expect(page.locator('.question-stem')).toBeVisible();
+    return page.evaluate(()=>JSON.parse(localStorage.getItem('radia-study-v1')!).state.session.ids as string[]);
+  };
+  const first=await start();expect(new Set(first).size).toBe(first.length);
+  await page.getByRole('button',{name:'Save & leave',exact:true}).click();
+  const second=await start();expect(new Set(second).size).toBe(second.length);expect(second[0]).not.toBe(first[0]);
+  await page.getByRole('button',{name:'Next question',exact:true}).click();
+  const stem=await page.locator('.question-stem').innerText();
+  await page.getByRole('button',{name:'Save & leave',exact:true}).click();
+  await page.getByRole('button',{name:/Your session is ready to continue/}).click();
+  await expect(page.locator('.question-stem')).toHaveText(stem);
+  expect(await page.evaluate(()=>JSON.parse(localStorage.getItem('radia-study-v1')!).state.session.ids)).toEqual(second);
+});

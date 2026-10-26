@@ -8438,5 +8438,1985 @@
     "sourceExcerpt": "Teamwork protects the patient",
     "sourceOrigin": "provided-powerpoint",
     "sourceEvidence": "The Health Care Team\nDoctors, nurses, pharmacists, laboratory scientists\nRadiologists, radiographers, X-ray technicians\nEach member has defined duties and limits\nTeamwork protects the patient"
+  },
+  {
+    "id": "q531",
+    "lecture": 10,
+    "page": 2,
+    "stem": "Before positioning a patient for a finger radiograph, which action is listed in the preparation notes?",
+    "options": [
+      "Leave all materials around the fingers",
+      "Confirm the patient's identity",
+      "Begin exposure before explaining the procedure",
+      "Select exposure factors without speaking to the patient"
+    ],
+    "answer": 1,
+    "explanation": "The preparation list begins with proper identification. The same slide also requires explanation, reassurance and removal of materials around the fingers and hand.",
+    "difficulty": "Application",
+    "sourceExcerpt": "Proper identification",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "FINGERS\nIndications\nFractures, dislocations, pain , swollen, pathologies, foreign bodies, RTA, trauma, assault\nPatients’ Preparations\nProper identification\nExplain the procedures to the patient\nReassure the patient\nRemove materials around the fingers and hand\nProjections\nDorsipalmar (posteroanterior)\nLateral\nPatient’s Positioning\nDorsipalmar(PA)\nPatient seat alongside the X-ray couch\nPlace palmar aspect of the fingers under examination on film\nSeparate fingers slightly\nImmobilize hand and wrist joint with sandbag\nPlace anatomical marker (R or L)"
+  },
+  {
+    "id": "q532",
+    "lecture": 10,
+    "page": 2,
+    "stem": "For the dorsipalmar finger projection, which surface should contact the film?",
+    "options": [
+      "Lateral aspect of the thumb only",
+      "Palmar aspect of the fingers",
+      "Dorsal aspect of the fingers",
+      "Posterior aspect of the elbow"
+    ],
+    "answer": 1,
+    "explanation": "The palmar aspect of the examined fingers is placed on the film. The fingers are separated slightly and the hand and wrist immobilized as described on this slide.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Place palmar aspect of the fingers under examination on film",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "FINGERS\nIndications\nFractures, dislocations, pain , swollen, pathologies, foreign bodies, RTA, trauma, assault\nPatients’ Preparations\nProper identification\nExplain the procedures to the patient\nReassure the patient\nRemove materials around the fingers and hand\nProjections\nDorsipalmar (posteroanterior)\nLateral\nPatient’s Positioning\nDorsipalmar(PA)\nPatient seat alongside the X-ray couch\nPlace palmar aspect of the fingers under examination on film\nSeparate fingers slightly\nImmobilize hand and wrist joint with sandbag\nPlace anatomical marker (R or L)"
+  },
+  {
+    "id": "q533",
+    "lecture": 10,
+    "page": 2,
+    "stem": "A student is positioning fingers for the PA projection. Which adjustment follows the lecture?",
+    "options": [
+      "Flex every finger into the palm",
+      "Cross the fingers over one another",
+      "Separate the fingers slightly",
+      "Clench the fingers tightly together"
+    ],
+    "answer": 2,
+    "explanation": "The PA positioning instructions specify slight finger separation. This question tests the arrangement stated in the supplied lecture.",
+    "difficulty": "Application",
+    "sourceExcerpt": "Separate fingers slightly",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "FINGERS\nIndications\nFractures, dislocations, pain , swollen, pathologies, foreign bodies, RTA, trauma, assault\nPatients’ Preparations\nProper identification\nExplain the procedures to the patient\nReassure the patient\nRemove materials around the fingers and hand\nProjections\nDorsipalmar (posteroanterior)\nLateral\nPatient’s Positioning\nDorsipalmar(PA)\nPatient seat alongside the X-ray couch\nPlace palmar aspect of the fingers under examination on film\nSeparate fingers slightly\nImmobilize hand and wrist joint with sandbag\nPlace anatomical marker (R or L)"
+  },
+  {
+    "id": "q534",
+    "lecture": 10,
+    "page": 3,
+    "stem": "Where is the central ray centred for the PA finger projection in the lecture?",
+    "options": [
+      "Distal radioulnar joint",
+      "Lateral epicondyle of the humerus",
+      "Head of the third metacarpal",
+      "Proximal interphalangeal joint of the examined finger"
+    ],
+    "answer": 3,
+    "explanation": "The stated centring point is the proximal interphalangeal joint of the finger under examination. Use this slide to distinguish finger centring from hand and elbow centring.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP: At the level of the proximal interphalangeal joint of the fingers or finger under examination.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Collimate beam properly\nApply protection\nCassette Size\n13x18cm or 24x18cm split using lead rubber divider\nDirection of Central Ray and Centring Point\nDCR: Vertical 90 degree\nCP: At the level of the proximal interphalangeal joint of the fingers or finger under examination.\nExposure Factors\nmAs: 1.5-2.5\nKvP: 50-55\nFilm Focal Distance(FFD): 100cm\nLateral Projection for Ring and Little fingers\nFrom the PA position, the medial border of the hand is place on the film\nExtend and separate ring and little fingers\nSupport ring finger with foam pad\nFlex other fingers"
+  },
+  {
+    "id": "q535",
+    "lecture": 10,
+    "page": 3,
+    "stem": "For a lateral projection of the ring and little fingers, which border of the hand is placed on the film?",
+    "options": [
+      "Dorsal surface only",
+      "Lateral border",
+      "Medial border",
+      "Thenar eminence only"
+    ],
+    "answer": 2,
+    "explanation": "The lateral ring-and-little-finger instructions place the medial border of the hand on the film. The same section calls for extension and separation of those fingers.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "From the PA position, the medial border of the hand is place on the film",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Collimate beam properly\nApply protection\nCassette Size\n13x18cm or 24x18cm split using lead rubber divider\nDirection of Central Ray and Centring Point\nDCR: Vertical 90 degree\nCP: At the level of the proximal interphalangeal joint of the fingers or finger under examination.\nExposure Factors\nmAs: 1.5-2.5\nKvP: 50-55\nFilm Focal Distance(FFD): 100cm\nLateral Projection for Ring and Little fingers\nFrom the PA position, the medial border of the hand is place on the film\nExtend and separate ring and little fingers\nSupport ring finger with foam pad\nFlex other fingers"
+  },
+  {
+    "id": "q536",
+    "lecture": 10,
+    "page": 3,
+    "stem": "Which support is specified for the ring finger during its lateral projection?",
+    "options": [
+      "Compression paddle",
+      "Lead marker",
+      "Foam pad",
+      "Cassette hinge"
+    ],
+    "answer": 2,
+    "explanation": "The lecture specifies a foam pad to support the ring finger. It separately instructs flexion of the other fingers.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Support ring finger with foam pad",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Collimate beam properly\nApply protection\nCassette Size\n13x18cm or 24x18cm split using lead rubber divider\nDirection of Central Ray and Centring Point\nDCR: Vertical 90 degree\nCP: At the level of the proximal interphalangeal joint of the fingers or finger under examination.\nExposure Factors\nmAs: 1.5-2.5\nKvP: 50-55\nFilm Focal Distance(FFD): 100cm\nLateral Projection for Ring and Little fingers\nFrom the PA position, the medial border of the hand is place on the film\nExtend and separate ring and little fingers\nSupport ring finger with foam pad\nFlex other fingers"
+  },
+  {
+    "id": "q537",
+    "lecture": 10,
+    "page": 4,
+    "stem": "A lateral finger image omits the fingertip. Which coverage requirement in the lecture has been missed?",
+    "options": [
+      "Include the entire humerus",
+      "Include the fingertip and distal third of the metacarpal",
+      "Include only the wrist joint",
+      "Include only the proximal phalanx"
+    ],
+    "answer": 1,
+    "explanation": "The lecture explicitly requires the fingertip and distal third of the metacarpal. An image missing the fingertip does not meet that stated coverage requirement.",
+    "difficulty": "Application",
+    "sourceExcerpt": "NOTE: The image should include the tip of the finger and distal 3rd of the metacarpal",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Immobilize the hand and wrist with sandbag\nPlace anatomical marker\nCollimate beam properly\nApply protection\nCassette Size\n13x18cm or 24x18cm split using lead rubber divider\nDirection of Central Ray and Centring Point\nDCR: Vertical 90 degree\nCP: Proximal interphalangeal joint of the fingers or finger under examination.\nExposure Factors\nmAs: 1.5-2.5\nKvP: 50-55\nFilm Focal Distance(FFD): 120cm\nNOTE: The image should include the tip of the finger and distal 3rd of the metacarpal"
+  },
+  {
+    "id": "q538",
+    "lecture": 10,
+    "page": 5,
+    "stem": "Where is the PA thumb projection centred in the supplied lecture?",
+    "options": [
+      "Midpoint between the wrist styloids",
+      "Proximal interphalangeal joint of the little finger",
+      "Metacarpophalangeal joint of the thumb",
+      "Head of the fifth metacarpal"
+    ],
+    "answer": 2,
+    "explanation": "The PA thumb section identifies the thumb metacarpophalangeal joint as its centring point. This differs from the proximal interphalangeal centring described for fingers.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP: Metacarpophalangeal joint of the thumb",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "THUMB\nProjections\nPA or AP and Lateral\nPatient’s Positioning for PA Thumb\nSeat patient alongside the X-ray couch\nExtend arm, wrist and forearm\nPlace medial border of the hand on the film\nRotate hand medially until palmar aspect is 15 degree to film\nExtend thumb and rest on a small radiolucnt pad\nAvoid exerting pressure on thenar eminence\nImmobilze hand with sandbag\nPlace anatomical marker\nCollimate beam properly\nDirection of Central Ray and Centring Point\nDCR: Vertical\nCP: Metacarpophalangeal joint of the thumb\nNOTE: Increase the FFD to compensate for the large OFD"
+  },
+  {
+    "id": "q539",
+    "lecture": 10,
+    "page": 5,
+    "stem": "Which part of the hand should be protected from exerted pressure during the PA thumb positioning described?",
+    "options": [
+      "Olecranon process",
+      "Radial head",
+      "Lateral epicondyle",
+      "Thenar eminence"
+    ],
+    "answer": 3,
+    "explanation": "The thumb positioning instructions explicitly say to avoid exerting pressure on the thenar eminence. This is a stated positioning precaution in the source.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Avoid exerting pressure on thenar eminence",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "THUMB\nProjections\nPA or AP and Lateral\nPatient’s Positioning for PA Thumb\nSeat patient alongside the X-ray couch\nExtend arm, wrist and forearm\nPlace medial border of the hand on the film\nRotate hand medially until palmar aspect is 15 degree to film\nExtend thumb and rest on a small radiolucnt pad\nAvoid exerting pressure on thenar eminence\nImmobilze hand with sandbag\nPlace anatomical marker\nCollimate beam properly\nDirection of Central Ray and Centring Point\nDCR: Vertical\nCP: Metacarpophalangeal joint of the thumb\nNOTE: Increase the FFD to compensate for the large OFD"
+  },
+  {
+    "id": "q540",
+    "lecture": 10,
+    "page": 5,
+    "stem": "In the PA thumb notes, what adjustment compensates for a large object-to-film distance?",
+    "options": [
+      "Remove the anatomical marker",
+      "Increase the film focal distance",
+      "Decrease the film focal distance",
+      "Omit immobilization"
+    ],
+    "answer": 1,
+    "explanation": "The lecture instructs increasing FFD to compensate for the large OFD. The question asks for the adjustment given in these notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "NOTE: Increase the FFD to compensate for the large OFD",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "THUMB\nProjections\nPA or AP and Lateral\nPatient’s Positioning for PA Thumb\nSeat patient alongside the X-ray couch\nExtend arm, wrist and forearm\nPlace medial border of the hand on the film\nRotate hand medially until palmar aspect is 15 degree to film\nExtend thumb and rest on a small radiolucnt pad\nAvoid exerting pressure on thenar eminence\nImmobilze hand with sandbag\nPlace anatomical marker\nCollimate beam properly\nDirection of Central Ray and Centring Point\nDCR: Vertical\nCP: Metacarpophalangeal joint of the thumb\nNOTE: Increase the FFD to compensate for the large OFD"
+  },
+  {
+    "id": "q541",
+    "lecture": 10,
+    "page": 6,
+    "stem": "For the mediolateral thumb projection, which aspect of the thumb contacts the cassette?",
+    "options": [
+      "Anterior aspect of the elbow",
+      "Palmar aspect of all fingers",
+      "Dorsal aspect of the wrist",
+      "Lateral aspect"
+    ],
+    "answer": 3,
+    "explanation": "The mediolateral thumb instructions specify lateral thumb contact with the cassette. The fingers are partially flexed and supported on a foam pad in this positioning description.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "The lateral aspect of the thumb is in contact with the cassette",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Mediolateral Projection of Thumb\nFrom the PA position, the palm of the hand is raised slightly with the fingers partially flexed and supported on foam pad.\nThe lateral aspect of the thumb is in contact with the cassette\nDirection of Central Ray and Centring Point\nDCR: Vertical\nCP: Head of FIRST metacarpophalangeal joint\nHAND\nProjections\nDorsipalmar(PA)\nDorsipalmar(PA) Oblique\nLateral\nPatients’ Positioning for PA\nPatient is seated alongside the X-ray couch with arm nearest to the table\nThe forearm is pronated and placed on the table with palmer surface of the hand in contact with the cassette\nThe fingers are separated and extended but relaxed to ensure that they remain in contact with the cassette\nThe wrist is adjusted so that the ulnar and radius styloid processes are equidistant from the cassette\nImmobilize hand with sandbag over the lower forearm"
+  },
+  {
+    "id": "q542",
+    "lecture": 10,
+    "page": 6,
+    "stem": "During PA hand positioning, how should the radial and ulnar styloid processes relate to the cassette?",
+    "options": [
+      "Both should be outside the field",
+      "Only the ulnar styloid should touch it",
+      "They should be superimposed",
+      "They should be equidistant from it"
+    ],
+    "answer": 3,
+    "explanation": "The PA hand description requires the styloid processes to be equidistant from the cassette. Superimposition is described for a different, lateral position in this deck.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "The wrist is adjusted so that the ulnar and radius styloid processes are equidistant from the cassette",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Mediolateral Projection of Thumb\nFrom the PA position, the palm of the hand is raised slightly with the fingers partially flexed and supported on foam pad.\nThe lateral aspect of the thumb is in contact with the cassette\nDirection of Central Ray and Centring Point\nDCR: Vertical\nCP: Head of FIRST metacarpophalangeal joint\nHAND\nProjections\nDorsipalmar(PA)\nDorsipalmar(PA) Oblique\nLateral\nPatients’ Positioning for PA\nPatient is seated alongside the X-ray couch with arm nearest to the table\nThe forearm is pronated and placed on the table with palmer surface of the hand in contact with the cassette\nThe fingers are separated and extended but relaxed to ensure that they remain in contact with the cassette\nThe wrist is adjusted so that the ulnar and radius styloid processes are equidistant from the cassette\nImmobilize hand with sandbag over the lower forearm"
+  },
+  {
+    "id": "q543",
+    "lecture": 10,
+    "page": 7,
+    "stem": "A student centres a PA hand radiograph. Which landmark is specified in the lecture?",
+    "options": [
+      "Lateral epicondyle",
+      "Head of the first metatarsal",
+      "Head of the third metacarpal",
+      "Radial styloid process"
+    ],
+    "answer": 2,
+    "explanation": "The PA hand centring point is over the head of the third metacarpal. Read the PA section of this slide, before its separate oblique-position instructions.",
+    "difficulty": "Application",
+    "sourceExcerpt": "CP: Over the head of the THIRD metacarpal",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Place anatomical marker\nCollimate Beam and apply protection\nCassette Size\n24x30cm(12x10inch) or 24x18cm (10x8 inch)\nDCR: Vertical\nCP: Over the head of the THIRD metacarpal\nExposure factors\nmAS: 2-4\nKvP:50-55\nFFD:100cm\nPatients’ Positioning for PA Oblique\nFrom the PA position, the hand is externally rotated 45 degrees with fingers extended\nThe fingers should be separated slightly and hand supported on 45 degree foam pad\nImmobilize hand with a sandbag placed over the lower end of the forearm\nPlace anatomical marker (R or L) and collimate beam to area of interest.\nDCR: Vertical\nCP: Head of the FIFTH metacarpal\nNOTE: This projection help to demonstrates joint spaces clearly."
+  },
+  {
+    "id": "q544",
+    "lecture": 10,
+    "page": 7,
+    "stem": "How much external rotation is specified when moving from a PA hand to a PA oblique hand?",
+    "options": [
+      "15 degrees",
+      "45 degrees",
+      "90 degrees",
+      "30 degrees"
+    ],
+    "answer": 1,
+    "explanation": "The lecture specifies 45 degrees of external rotation with the fingers extended. It also describes a 45-degree foam pad to support the position.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "From the PA position, the hand is externally rotated 45 degrees with fingers extended",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Place anatomical marker\nCollimate Beam and apply protection\nCassette Size\n24x30cm(12x10inch) or 24x18cm (10x8 inch)\nDCR: Vertical\nCP: Over the head of the THIRD metacarpal\nExposure factors\nmAS: 2-4\nKvP:50-55\nFFD:100cm\nPatients’ Positioning for PA Oblique\nFrom the PA position, the hand is externally rotated 45 degrees with fingers extended\nThe fingers should be separated slightly and hand supported on 45 degree foam pad\nImmobilize hand with a sandbag placed over the lower end of the forearm\nPlace anatomical marker (R or L) and collimate beam to area of interest.\nDCR: Vertical\nCP: Head of the FIFTH metacarpal\nNOTE: This projection help to demonstrates joint spaces clearly."
+  },
+  {
+    "id": "q545",
+    "lecture": 10,
+    "page": 8,
+    "stem": "Which relationship of the styloid processes is required for the lateral hand position?",
+    "options": [
+      "Styloids equidistant with the palm flat",
+      "Superimposed radial and ulnar styloids",
+      "Ulnar styloid excluded from the image",
+      "Radial styloid excluded from the image"
+    ],
+    "answer": 1,
+    "explanation": "The lateral hand instructions require superimposition of the radial and ulnar styloid processes. This provides a source-based check of the stated positioning.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "The radial and ulnar styloid processes are superimposed",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patients’ Positioning for Lateral Hand\nFrom the PA position, the hand is externally rotated 90 degrees\nThe palm of the hand is perpendicular to the cassette with the fingers extended and thumb abducted and supported parallel to the film on radio-opaqe pad\nThe radial and ulnar styloid processes are superimposed\nDCR: Vertical\nCP: Over the head of the SECOND metacarpal\nNote: This projection is commonly done to identify the foreign bodies.\nPatients’ Positioning for  Anteroposterior (AP) both Hands(Ball Catcher)\nThe patient may seat facing the table\nBoth forearms are supinated and placed on the table with the dorsal surface of the hands in contact with the cassette\nFrom this position, both hands are rotated medially 45 degree into a Ball-catching position\nThe fingers and thumb are separated\nImmobilized the lower forearms with sandbag\nPlace anatomical marker and collimate beam, and apply protection\nDCR: Vertical\nCP: A point midway between the hands at the level of the FIFTH metacarpophalangeal joint."
+  },
+  {
+    "id": "q546",
+    "lecture": 10,
+    "page": 8,
+    "stem": "What purpose does the lecture specifically associate with the lateral hand projection?",
+    "options": [
+      "Demonstrating the elbow in flexion",
+      "Demonstrating the carpal tunnel axially",
+      "Identifying foreign bodies",
+      "Imaging the surgical neck alone"
+    ],
+    "answer": 2,
+    "explanation": "The note under lateral hand positioning identifies foreign-body detection as a common purpose. No additional indication is needed to answer this question.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Note: This projection is commonly done to identify the foreign bodies.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patients’ Positioning for Lateral Hand\nFrom the PA position, the hand is externally rotated 90 degrees\nThe palm of the hand is perpendicular to the cassette with the fingers extended and thumb abducted and supported parallel to the film on radio-opaqe pad\nThe radial and ulnar styloid processes are superimposed\nDCR: Vertical\nCP: Over the head of the SECOND metacarpal\nNote: This projection is commonly done to identify the foreign bodies.\nPatients’ Positioning for  Anteroposterior (AP) both Hands(Ball Catcher)\nThe patient may seat facing the table\nBoth forearms are supinated and placed on the table with the dorsal surface of the hands in contact with the cassette\nFrom this position, both hands are rotated medially 45 degree into a Ball-catching position\nThe fingers and thumb are separated\nImmobilized the lower forearms with sandbag\nPlace anatomical marker and collimate beam, and apply protection\nDCR: Vertical\nCP: A point midway between the hands at the level of the FIFTH metacarpophalangeal joint."
+  },
+  {
+    "id": "q547",
+    "lecture": 10,
+    "page": 8,
+    "stem": "For the ball-catcher position, how are both hands rotated from the initial supinated position?",
+    "options": [
+      "Medially by 45 degrees",
+      "Medially by 15 degrees",
+      "Laterally by 90 degrees",
+      "Laterally by 30 degrees"
+    ],
+    "answer": 0,
+    "explanation": "The ball-catcher description specifies medial rotation of both hands by 45 degrees. This is distinct from the externally rotated single-hand oblique position.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "From this position, both hands are rotated medially 45 degree into a Ball-catching position",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patients’ Positioning for Lateral Hand\nFrom the PA position, the hand is externally rotated 90 degrees\nThe palm of the hand is perpendicular to the cassette with the fingers extended and thumb abducted and supported parallel to the film on radio-opaqe pad\nThe radial and ulnar styloid processes are superimposed\nDCR: Vertical\nCP: Over the head of the SECOND metacarpal\nNote: This projection is commonly done to identify the foreign bodies.\nPatients’ Positioning for  Anteroposterior (AP) both Hands(Ball Catcher)\nThe patient may seat facing the table\nBoth forearms are supinated and placed on the table with the dorsal surface of the hands in contact with the cassette\nFrom this position, both hands are rotated medially 45 degree into a Ball-catching position\nThe fingers and thumb are separated\nImmobilized the lower forearms with sandbag\nPlace anatomical marker and collimate beam, and apply protection\nDCR: Vertical\nCP: A point midway between the hands at the level of the FIFTH metacarpophalangeal joint."
+  },
+  {
+    "id": "q548",
+    "lecture": 10,
+    "page": 9,
+    "stem": "For the PA wrist projection, what centring point is given?",
+    "options": [
+      "Midway between radial and ulnar styloid processes",
+      "Head of the second metacarpal",
+      "Olecranon process",
+      "Head of the humerus"
+    ],
+    "answer": 0,
+    "explanation": "The PA wrist instructions centre midway between the radial and ulnar styloid processes. The slide places the palm, wrist and lower forearm in a straight line.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP: Midway between the ulnar and radial styloid processes",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "WRIST\nProjections\nPosteroanterior (PA)\nLateral\nPA Ulnar deviation for Scaphod\nSuperoinferior(axial) projection for carpal tunnel\nPatient’s Positioning for PA\nSeat patient alongside the X-ray couch\nRest palm, wrist and lower forearm in a straight line on film\nPlace small pad under metacarpophalangeal joints of hand to maintain wrist in close contact with film\nImmobilize the wrist and forearm\nPlace anatomical marker(R or L)\nCollimate beam and apply protection\nDCR: Vertical\nCP: Midway between the ulnar and radial styloid processes\nCassette Size\n24x30cm or 24x18cm\nExposure factors\nKvp: 50-60, mAs:3-5 and FFD: 100cm"
+  },
+  {
+    "id": "q549",
+    "lecture": 10,
+    "page": 9,
+    "stem": "Why is a small pad placed under the metacarpophalangeal joints for the PA wrist in these notes?",
+    "options": [
+      "To maintain close wrist contact with the film",
+      "To rotate the elbow through 90 degrees",
+      "To obscure the carpal region",
+      "To raise the wrist away from the film"
+    ],
+    "answer": 0,
+    "explanation": "The stated purpose of the pad is close wrist contact with the film. The question directly tests the purpose supplied in the positioning instructions.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Place small pad under metacarpophalangeal joints of hand to maintain wrist in close contact with film",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "WRIST\nProjections\nPosteroanterior (PA)\nLateral\nPA Ulnar deviation for Scaphod\nSuperoinferior(axial) projection for carpal tunnel\nPatient’s Positioning for PA\nSeat patient alongside the X-ray couch\nRest palm, wrist and lower forearm in a straight line on film\nPlace small pad under metacarpophalangeal joints of hand to maintain wrist in close contact with film\nImmobilize the wrist and forearm\nPlace anatomical marker(R or L)\nCollimate beam and apply protection\nDCR: Vertical\nCP: Midway between the ulnar and radial styloid processes\nCassette Size\n24x30cm or 24x18cm\nExposure factors\nKvp: 50-60, mAs:3-5 and FFD: 100cm"
+  },
+  {
+    "id": "q550",
+    "lecture": 10,
+    "page": 10,
+    "stem": "A student is checking a lateral wrist position. Which alignment is required by the notes?",
+    "options": [
+      "Palm flat with no forearm rotation",
+      "Widely separated styloid processes",
+      "Elbow raised above the shoulder",
+      "Superimposed ulnar and radial styloid processes"
+    ],
+    "answer": 3,
+    "explanation": "The lateral wrist instructions require superimposed styloid processes. This is the alignment check stated on the source slide.",
+    "difficulty": "Application",
+    "sourceExcerpt": "Ensure ulnar and radial styloid processes are superimposed",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patient’s Positioning for Lateral Wrist Joint\nSeat patient alongside the X-ray couch\nExtend hand, wrist and  forearm in a straight line on film\nRotate the forearm into the lateral position and rest the 5th finger and medial aspect of the hand and lower forearm in a straight line on film\nEnsure ulnar and radial styloid processes are superimposed\nImmobilize the forearm\nPlace anatomical marker(R or L)\nCollimate beam and apply protection\nDCR: Vertical\nCP:  Radial styloid processes\nCassette Size\n24x30cm or 24x18cm\nExposure factors\nKvp: 55-65, mAs:3-5 and FFD: 100cm"
+  },
+  {
+    "id": "q551",
+    "lecture": 10,
+    "page": 10,
+    "stem": "Which centring landmark is stated for the lateral wrist projection?",
+    "options": [
+      "Midshaft of the humerus",
+      "Medial epicondyle",
+      "Head of the third metacarpal",
+      "Radial styloid process"
+    ],
+    "answer": 3,
+    "explanation": "The lateral wrist section identifies the radial styloid as the centring landmark. The PA wrist section on the preceding slide uses the midpoint between the styloids.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP:  Radial styloid processes",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patient’s Positioning for Lateral Wrist Joint\nSeat patient alongside the X-ray couch\nExtend hand, wrist and  forearm in a straight line on film\nRotate the forearm into the lateral position and rest the 5th finger and medial aspect of the hand and lower forearm in a straight line on film\nEnsure ulnar and radial styloid processes are superimposed\nImmobilize the forearm\nPlace anatomical marker(R or L)\nCollimate beam and apply protection\nDCR: Vertical\nCP:  Radial styloid processes\nCassette Size\n24x30cm or 24x18cm\nExposure factors\nKvp: 55-65, mAs:3-5 and FFD: 100cm"
+  },
+  {
+    "id": "q552",
+    "lecture": 10,
+    "page": 11,
+    "stem": "Which hand movement is specified in the PA scaphoid projection?",
+    "options": [
+      "Radial deviation",
+      "Full finger flexion",
+      "Thumb opposition only",
+      "Ulnar deviation"
+    ],
+    "answer": 3,
+    "explanation": "The scaphoid projection described in the lecture uses ulnar deviation of the hand. This question concerns positioning rather than the separate follow-up timing note.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Rest palm, wrist and lower forearm on the film with ulnar deviation of hand",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patient’s Positioning for PA Ulnar deviation for Scaphoid\nSeat patient alongside the X-ray couch\nRest palm, wrist and lower forearm on the film with ulnar deviation of hand\nEnsure ulnar and radial styloid processes are equidistant\nImmobilize the forearm\nPlace anatomical marker(R or L)\nCollimate beam and apply protection\nDCR: Vertical\nCP: Midway between the ulnar and radial styloid processes\nCassette Size\n24x30cm or 24x18cm\nExposure factors\nKvp: 50-60, mAs:3-5 and FFD: 100cm\nNOTE: It is important to examine the patient again at least 14 days after the initial examination to properly demonstrates fracture scaphoid radiographically."
+  },
+  {
+    "id": "q553",
+    "lecture": 10,
+    "page": 12,
+    "stem": "Where is the superoinferior axial carpal-tunnel projection centred in the lecture?",
+    "options": [
+      "Radial head",
+      "Midcarpal region",
+      "Midshaft of the forearm",
+      "Head of the third metacarpal"
+    ],
+    "answer": 1,
+    "explanation": "The carpal-tunnel section gives the midcarpal region as its centring point. It also asks that the carpal region be placed in profile.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP: Midcarpal region",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patient’s Positioning for Superoinferior (Axial) projection for carpal tunnel\nStand the patient with the back to the X-ray table and extend arm\nFlex elbow and wrist, and with the fingers and thumb well separated press the hand palm down on to a film near the edge of the couch.\nEnsure that the carpal region is in profile\nImmobilize the hand with a foam pad if necessary\nPlace anatomical marker(R or L)\nCollimate beam and apply protection\nDCR: Vertical\nCP: Midcarpal region\nCassette size: 24x18cm\nFOREARM\nProjections\nAnteroposterior (AP)\nLateral\nPatient’s Positioning for AP Forearm\nSeat the patient alongside the X-ray couch with shoulder at the couch level.\nPlace forearm fully supinated with elbow extended\nInclude wrist and elbow if possible using long cassette size\nPlace anatomical marker(R or L)\nCollimate beam and apply protection"
+  },
+  {
+    "id": "q554",
+    "lecture": 10,
+    "page": 12,
+    "stem": "For an AP forearm projection, what forearm and elbow positions are described?",
+    "options": [
+      "Fully supinated forearm with elbow extended",
+      "True lateral forearm with elbow at 90 degrees",
+      "Forearm behind the patient's back",
+      "Pronated forearm with elbow fully flexed"
+    ],
+    "answer": 0,
+    "explanation": "The AP forearm instructions specify full supination and elbow extension. The lateral forearm instructions on the next slide describe a different elbow position.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Place forearm fully supinated with elbow extended",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patient’s Positioning for Superoinferior (Axial) projection for carpal tunnel\nStand the patient with the back to the X-ray table and extend arm\nFlex elbow and wrist, and with the fingers and thumb well separated press the hand palm down on to a film near the edge of the couch.\nEnsure that the carpal region is in profile\nImmobilize the hand with a foam pad if necessary\nPlace anatomical marker(R or L)\nCollimate beam and apply protection\nDCR: Vertical\nCP: Midcarpal region\nCassette size: 24x18cm\nFOREARM\nProjections\nAnteroposterior (AP)\nLateral\nPatient’s Positioning for AP Forearm\nSeat the patient alongside the X-ray couch with shoulder at the couch level.\nPlace forearm fully supinated with elbow extended\nInclude wrist and elbow if possible using long cassette size\nPlace anatomical marker(R or L)\nCollimate beam and apply protection"
+  },
+  {
+    "id": "q555",
+    "lecture": 10,
+    "page": 12,
+    "stem": "Which two joints should be included if possible on the AP forearm image?",
+    "options": [
+      "Shoulder and hip",
+      "Wrist and ankle",
+      "Wrist and elbow",
+      "Elbow and knee"
+    ],
+    "answer": 2,
+    "explanation": "The AP forearm notes ask for inclusion of both wrist and elbow where possible, using a long cassette. This is the source's stated image-coverage check.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Include wrist and elbow if possible using long cassette size",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patient’s Positioning for Superoinferior (Axial) projection for carpal tunnel\nStand the patient with the back to the X-ray table and extend arm\nFlex elbow and wrist, and with the fingers and thumb well separated press the hand palm down on to a film near the edge of the couch.\nEnsure that the carpal region is in profile\nImmobilize the hand with a foam pad if necessary\nPlace anatomical marker(R or L)\nCollimate beam and apply protection\nDCR: Vertical\nCP: Midcarpal region\nCassette size: 24x18cm\nFOREARM\nProjections\nAnteroposterior (AP)\nLateral\nPatient’s Positioning for AP Forearm\nSeat the patient alongside the X-ray couch with shoulder at the couch level.\nPlace forearm fully supinated with elbow extended\nInclude wrist and elbow if possible using long cassette size\nPlace anatomical marker(R or L)\nCollimate beam and apply protection"
+  },
+  {
+    "id": "q556",
+    "lecture": 10,
+    "page": 13,
+    "stem": "For the lateral forearm projection, what elbow flexion is described?",
+    "options": [
+      "15 degrees",
+      "90 degrees",
+      "Full extension",
+      "30 degrees"
+    ],
+    "answer": 1,
+    "explanation": "The lateral forearm instructions specify 90 degrees of elbow flexion. This contrasts with the extended elbow described for the AP forearm.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Flex elbow at 90 degrees",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "DCR: Vertical\nCP: Anterior aspect of the middle of the forearm, midway between the wrist and elbow joints.\nCassette Size\n43x35cm(17x14inch) or 35x35cm(14x14inch)\nExposure factors\nKvp: 50-60, mAs:3-5 and FFD: 100cm\nPatient’s Positioning for Lateral Forearm\nSeat the patient alongside the X-ray couch\nLower shoulder of affected side to same level as forearm.\nFlex elbow at 90 degrees\nPlace medial border of forearm on film.\nInclude wrist and elbow if possible using long cassette size\nPlace anatomical marker(R or L)\nImmobilize hand with sandbag\nCollimate beam and apply protection\nDCR: Vertical\nCP: Lateral aspect of the forearm, midway between wrist and elbow joints\nCassette Size\n43x35cm(17x14inch) or 35x35cm(14x14inch)\nExposure factors\nKvp: 55-65, mAs:3-5 and FFD: 100cm"
+  },
+  {
+    "id": "q557",
+    "lecture": 10,
+    "page": 13,
+    "stem": "Where is the lateral forearm projection centred?",
+    "options": [
+      "Head of the third metacarpal",
+      "Lateral forearm midway between wrist and elbow",
+      "Head of the humerus",
+      "Midpoint between wrist styloids only"
+    ],
+    "answer": 1,
+    "explanation": "The stated lateral forearm centring point is halfway between the wrist and elbow on the lateral aspect. Both joints are also to be included if possible.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP: Lateral aspect of the forearm, midway between wrist and elbow joints",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "DCR: Vertical\nCP: Anterior aspect of the middle of the forearm, midway between the wrist and elbow joints.\nCassette Size\n43x35cm(17x14inch) or 35x35cm(14x14inch)\nExposure factors\nKvp: 50-60, mAs:3-5 and FFD: 100cm\nPatient’s Positioning for Lateral Forearm\nSeat the patient alongside the X-ray couch\nLower shoulder of affected side to same level as forearm.\nFlex elbow at 90 degrees\nPlace medial border of forearm on film.\nInclude wrist and elbow if possible using long cassette size\nPlace anatomical marker(R or L)\nImmobilize hand with sandbag\nCollimate beam and apply protection\nDCR: Vertical\nCP: Lateral aspect of the forearm, midway between wrist and elbow joints\nCassette Size\n43x35cm(17x14inch) or 35x35cm(14x14inch)\nExposure factors\nKvp: 55-65, mAs:3-5 and FFD: 100cm"
+  },
+  {
+    "id": "q558",
+    "lecture": 10,
+    "page": 14,
+    "stem": "Where is the AP elbow projection centred according to the lecture?",
+    "options": [
+      "At the head of the third metacarpal",
+      "At the radial styloid process",
+      "In the midline 2.5 cm distal to the epicondylar line",
+      "In the midline 5 cm proximal to the shoulder"
+    ],
+    "answer": 2,
+    "explanation": "The AP elbow centring point is 2.5 cm distal to the line joining the humeral epicondyles. The distance and reference line are both explicitly stated.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP: In the midline 2.5cm distal to a line joining the lateral and medial epicondyles of the humerus",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "ELBOW JOINT\nProjections\nAnteroposterior (AP)\nLateral\nAxial\nPatient’s Positioning for AP Elbow Joint\nSeat the patient alongside the X-ray couch with shoulder at the couch level.\nPlace forearm fully supinated with elbow extended on a film\nEnsure that the patients’ thumb is touching the couch top if possible.\nPlace anatomical marker(R or L)\nImmobilize the hand\nCollimate beam and apply protection\nDCR: Vertical\nCP: In the midline 2.5cm distal to a line joining the lateral and medial epicondyles of the humerus\nCassette Size\n24x18cm(10x8inch) or 30x24cm(12x10inch)\nExposure factors\nKvp: 55-65, mAs:3-5 and FFD: 100cm"
+  },
+  {
+    "id": "q559",
+    "lecture": 10,
+    "page": 14,
+    "stem": "Which forearm position is described for the AP elbow projection?",
+    "options": [
+      "Lateral with the elbow fully flexed",
+      "Fully supinated with the elbow extended",
+      "Fully pronated with elbow at 90 degrees",
+      "Hand resting on the opposite shoulder"
+    ],
+    "answer": 1,
+    "explanation": "The AP elbow instructions require full forearm supination with the elbow extended. This identifies the position described on the AP elbow slide.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Place forearm fully supinated with elbow extended on a film",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "ELBOW JOINT\nProjections\nAnteroposterior (AP)\nLateral\nAxial\nPatient’s Positioning for AP Elbow Joint\nSeat the patient alongside the X-ray couch with shoulder at the couch level.\nPlace forearm fully supinated with elbow extended on a film\nEnsure that the patients’ thumb is touching the couch top if possible.\nPlace anatomical marker(R or L)\nImmobilize the hand\nCollimate beam and apply protection\nDCR: Vertical\nCP: In the midline 2.5cm distal to a line joining the lateral and medial epicondyles of the humerus\nCassette Size\n24x18cm(10x8inch) or 30x24cm(12x10inch)\nExposure factors\nKvp: 55-65, mAs:3-5 and FFD: 100cm"
+  },
+  {
+    "id": "q560",
+    "lecture": 10,
+    "page": 15,
+    "stem": "When setting up the lateral elbow, which structures should be at the same level?",
+    "options": [
+      "Head, pelvis and heel",
+      "Shoulder, knee and ankle",
+      "Shoulder, elbow and hand",
+      "Wrist, hip and foot"
+    ],
+    "answer": 2,
+    "explanation": "The lateral elbow description places shoulder, elbow and hand at one level. The next instruction specifies 90-degree elbow flexion and a true lateral forearm.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Seat the patient alongside the X-ray couch with shoulder, elbow and hand at the same level.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patient’s Positioning for Lateral Elbow Joint\nSeat the patient alongside the X-ray couch with shoulder, elbow and hand at the same level.\nFlex elbow 90 degrees and rotate forearm into true lateral position with thumb uppermost.\nRest medial border of elbow on film\nPlace anatomical marker(R or L)\nImmobilize the hand and wrist\nCollimate beam and apply protection\nDCR: Vertical\nCP: Lateral epicondyle of the humerus\nCassette Size\n24x18cm(10x8inch) or 30x24cm(12x10inch)\nExposure factors\nKvp: 55-65, mAs:3-5 and FFD: 100cm"
+  },
+  {
+    "id": "q561",
+    "lecture": 10,
+    "page": 15,
+    "stem": "Which centring point is given for the lateral elbow projection?",
+    "options": [
+      "Lateral epicondyle of the humerus",
+      "Head of the second metacarpal",
+      "Medial malleolus",
+      "Radial styloid process"
+    ],
+    "answer": 0,
+    "explanation": "The lateral elbow centring landmark is the lateral humeral epicondyle. This is explicitly different from the AP elbow's midline point below the epicondylar line.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP: Lateral epicondyle of the humerus",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patient’s Positioning for Lateral Elbow Joint\nSeat the patient alongside the X-ray couch with shoulder, elbow and hand at the same level.\nFlex elbow 90 degrees and rotate forearm into true lateral position with thumb uppermost.\nRest medial border of elbow on film\nPlace anatomical marker(R or L)\nImmobilize the hand and wrist\nCollimate beam and apply protection\nDCR: Vertical\nCP: Lateral epicondyle of the humerus\nCassette Size\n24x18cm(10x8inch) or 30x24cm(12x10inch)\nExposure factors\nKvp: 55-65, mAs:3-5 and FFD: 100cm"
+  },
+  {
+    "id": "q562",
+    "lecture": 10,
+    "page": 16,
+    "stem": "How is the elbow flexed for the axial elbow position described in the notes?",
+    "options": [
+      "With the arm kept fully extended",
+      "Only 15 degrees from extension",
+      "Until the hand contacts the shoulder",
+      "Until the palm lies flat beside the hip"
+    ],
+    "answer": 2,
+    "explanation": "The axial elbow instructions call for flexion until the hand contacts the shoulder. The elbow then rests on the film with the upper arm at couch level.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Flex elbow so that the hand is in contact with the shoulder",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patient’s Positioning for Axial Elbow Joint\nSeat the patient alongside the X-ray couch with shoulder at the same level.\nFlex elbow so that the hand is in contact with the shoulder\nRest  elbow on film with upper arm at couch level\nPlace anatomical marker(R or L)\nImmobilize the hand and wrist\nCollimate beam and apply protection\nDCR: Vertical or 30 degree towards the shoulder\nCP: In the midline 5cm distal to the oleranon process\nCassette Size\n24x18cm(10x8inch) or 30x24cm(12x10inch)\nExposure factors\nKvp: 55-65, mAs:3-5 and FFD: 100cm\nNOTE: The choice of exposure factors depends on\nAnatomical structure\nType of film material use\nEnergy of the beam"
+  },
+  {
+    "id": "q563",
+    "lecture": 10,
+    "page": 16,
+    "stem": "Which listed factor influences the choice of exposure factors in the lecture?",
+    "options": [
+      "Colour of the anatomical marker",
+      "Patient's occupation",
+      "Time printed on the appointment card",
+      "Anatomical structure"
+    ],
+    "answer": 3,
+    "explanation": "The source lists anatomical structure, film material and beam energy as influences on exposure-factor choice. The answer is one of those explicitly named factors.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "NOTE: The choice of exposure factors depends on\nAnatomical structure\nType of film material use\nEnergy of the beam",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patient’s Positioning for Axial Elbow Joint\nSeat the patient alongside the X-ray couch with shoulder at the same level.\nFlex elbow so that the hand is in contact with the shoulder\nRest  elbow on film with upper arm at couch level\nPlace anatomical marker(R or L)\nImmobilize the hand and wrist\nCollimate beam and apply protection\nDCR: Vertical or 30 degree towards the shoulder\nCP: In the midline 5cm distal to the oleranon process\nCassette Size\n24x18cm(10x8inch) or 30x24cm(12x10inch)\nExposure factors\nKvp: 55-65, mAs:3-5 and FFD: 100cm\nNOTE: The choice of exposure factors depends on\nAnatomical structure\nType of film material use\nEnergy of the beam"
+  },
+  {
+    "id": "q564",
+    "lecture": 10,
+    "page": 17,
+    "stem": "Which joints should an image of the humerus include in the positioning notes?",
+    "options": [
+      "Ankle and knee",
+      "Shoulder and elbow",
+      "Hip and knee",
+      "Wrist and elbow"
+    ],
+    "answer": 1,
+    "explanation": "The humerus section instructs inclusion of shoulder and elbow. This question uses that unambiguous coverage statement rather than the slide's inconsistent subsection heading.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Rest the hmerus against the film to include shoulder and elbow.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "ARM (HUMERUS)\nProjections\nAnteroposterior (AP)\nLateral\nInferiosuperior for surgical neck\nPatient’s Positioning for AP Elbow Joint\nStand or sit the patient facing towards the X-ray tube.\nRotate the body slightly towards affected side\nPlace the arm in the anatomical position\nRest the hmerus against the film to include shoulder and elbow.\nPlace anatomical marker(R or L)\nCollimate beam and apply protection\nDCR: Horizontal or Vertical(If patient lying down supine)\nCP: Anterior aspect of the humerus midway between the shoulder and elbow joints\nCassette Size\n24x18cm(10x8inch) or 30x24cm(12x10inch), 43x35cm(17x14inch)\nExposure factors\nKvp: 55-70, mAs:10-12 and FFD: 100cm"
+  },
+  {
+    "id": "q565",
+    "lecture": 10,
+    "page": 17,
+    "stem": "What centring point is specified for the AP humerus in the humerus section?",
+    "options": [
+      "Head of the fifth metacarpal",
+      "Proximal interphalangeal joint",
+      "Radial styloid process",
+      "Anterior humerus midway between shoulder and elbow"
+    ],
+    "answer": 3,
+    "explanation": "The humerus section centres on the anterior aspect midway between shoulder and elbow. Both the anatomical region and midpoint are stated in the source.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP: Anterior aspect of the humerus midway between the shoulder and elbow joints",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "ARM (HUMERUS)\nProjections\nAnteroposterior (AP)\nLateral\nInferiosuperior for surgical neck\nPatient’s Positioning for AP Elbow Joint\nStand or sit the patient facing towards the X-ray tube.\nRotate the body slightly towards affected side\nPlace the arm in the anatomical position\nRest the hmerus against the film to include shoulder and elbow.\nPlace anatomical marker(R or L)\nCollimate beam and apply protection\nDCR: Horizontal or Vertical(If patient lying down supine)\nCP: Anterior aspect of the humerus midway between the shoulder and elbow joints\nCassette Size\n24x18cm(10x8inch) or 30x24cm(12x10inch), 43x35cm(17x14inch)\nExposure factors\nKvp: 55-70, mAs:10-12 and FFD: 100cm"
+  },
+  {
+    "id": "q566",
+    "lecture": 10,
+    "page": 18,
+    "stem": "For the lateral arm projection, which way is the trunk rotated?",
+    "options": [
+      "Towards the affected side until the chest covers the arm",
+      "Through a complete turn",
+      "Away from the affected side",
+      "No rotation is allowed"
+    ],
+    "answer": 2,
+    "explanation": "The lateral arm instructions rotate the trunk away from the affected side until the lateral humerus rests on the film. The same section requires inclusion of shoulder and elbow.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Rotate trunk away from the affected side until lateral aspect of the humerus rest on the film",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patient’s Positioning for Lateral Arm\nStand or sit the patient facing towards the chest stand or upright cassette holder.\nSlightly  abduct and extend the arm and flex elbow\nRotate trunk away from the affected side until lateral aspect of the humerus rest on the film\nInclude shoulder and elbow.\nPlace anatomical marker(R or L)\nCollimate beam and apply protection\nDCR: Horizontal or Vertical(If patient lying down supine)\nCP: Medial aspect of the humerus midway between the shoulder and elbow joints\nCassette Size\n24x18cm(10x8inch) or 30x24cm(12x10inch), 43x35cm(17x14inch)\nExposure factors\nKvp: 55-70, mAs:10-12 and FFD: 100cm\nPatient’s Positioning for  Inferosuperior Projection of Arm\nPatient lie supine on the couch and turn head away from the affected side.\nFully abduct arm if possible and support in a comfortable position\nVertically support cassette above the shoulder include upper humerus\nImmobilize the arm\nPlace anatomical marker(R or L)\nCollimate beam and apply protection\nDCR: Horizontal or Vertical(If patient lying down supine)\nCP: Head of humerus through the axial"
+  },
+  {
+    "id": "q567",
+    "lecture": 11,
+    "page": 2,
+    "stem": "Which surface of the foot contacts the film for the dorsiplantar toe projection?",
+    "options": [
+      "Dorsal surface",
+      "Posterior heel alone",
+      "Anterior shin",
+      "Plantar surface"
+    ],
+    "answer": 3,
+    "explanation": "The dorsiplantar toe positioning instructions place the plantar aspect of the affected foot on the film. The patient is seated with knees flexed.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Place plantar aspect of the affected foot on film",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "TOES\nIndications\nFractures, dislocations, pain , swollen, pathologies, foreign bodies, RTA, trauma, assault\nPatients’ Preparations\nProper identification\nExplain the procedures to the patient\nReassure the patient\nRemove materials around the fingers and hand\nProjections\nDorsiplantar (anteroposterior)\nDorsiplantar (anteroposterior)Oblique\nLateral\nPatient’s Positioning\nDorsiplantar (AP)\nPatient seat on the X-ray couch with knees flexed\nPlace plantar aspect of the affected foot on film\nSupport the side under examination with knee of the other leg to immobilize foot\nPlace anatomical marker (R or L)"
+  },
+  {
+    "id": "q568",
+    "lecture": 11,
+    "page": 2,
+    "stem": "Which set of projections is listed for the toes?",
+    "options": [
+      "AP elbow, lateral elbow and axial elbow",
+      "PA, ball-catcher and axial carpal tunnel",
+      "Dorsiplantar, dorsiplantar oblique and lateral",
+      "AP humerus, lateral humerus and inferosuperior"
+    ],
+    "answer": 2,
+    "explanation": "The toe section lists dorsiplantar, dorsiplantar oblique and lateral projections. These are the projections to identify from this supplied slide.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Dorsiplantar (anteroposterior)\nDorsiplantar (anteroposterior)Oblique\nLateral",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "TOES\nIndications\nFractures, dislocations, pain , swollen, pathologies, foreign bodies, RTA, trauma, assault\nPatients’ Preparations\nProper identification\nExplain the procedures to the patient\nReassure the patient\nRemove materials around the fingers and hand\nProjections\nDorsiplantar (anteroposterior)\nDorsiplantar (anteroposterior)Oblique\nLateral\nPatient’s Positioning\nDorsiplantar (AP)\nPatient seat on the X-ray couch with knees flexed\nPlace plantar aspect of the affected foot on film\nSupport the side under examination with knee of the other leg to immobilize foot\nPlace anatomical marker (R or L)"
+  },
+  {
+    "id": "q569",
+    "lecture": 11,
+    "page": 3,
+    "stem": "For the lateral toe projection, which side does the patient lie on?",
+    "options": [
+      "Supine with no hip or knee flexion",
+      "Unaffected side only",
+      "Affected side",
+      "Prone with both legs straight"
+    ],
+    "answer": 2,
+    "explanation": "The lateral toe description places the patient on the affected side with hip and knee flexed. The unaffected leg is then placed comfortably in front or behind.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Lie the patient on the X-ray couch on the affected side with the hip and knee flexed",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Collimate beam properly\nApply protection\nCassette Size\n13x18cm or 24x18cm split using lead rubber divider\nDirection of Central Ray and Centring Point\nDCR: Vertical 90 degree\nCP: Head of THIRD metatarsal or the individual toe under examination.\nExposure Factors\nmAs: 1.5-2.5\nKvP: 50-55\nFilm Focal Distance(FFD): 100cm\nLateral Projection for Toes\nLie the patient on the X-ray couch on the affected side with the hip and knee flexed\nRest the unaffected leg in a comfortable position in front of or behind the affected leg.\nPlace the foot in the true lateral position with the knee raised on a pad and the film under the toes\nImmobilize the foot"
+  },
+  {
+    "id": "q570",
+    "lecture": 11,
+    "page": 3,
+    "stem": "How is the knee supported when placing the toes in a true lateral position?",
+    "options": [
+      "Pressed under the unaffected ankle",
+      "Raised on a pad",
+      "Held fully extended without support",
+      "Suspended off the table"
+    ],
+    "answer": 1,
+    "explanation": "The lecture describes a true lateral foot position with the knee raised on a pad and film under the toes. This is the support arrangement stated for lateral toes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Place the foot in the true lateral position with the knee raised on a pad and the film under the toes",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Collimate beam properly\nApply protection\nCassette Size\n13x18cm or 24x18cm split using lead rubber divider\nDirection of Central Ray and Centring Point\nDCR: Vertical 90 degree\nCP: Head of THIRD metatarsal or the individual toe under examination.\nExposure Factors\nmAs: 1.5-2.5\nKvP: 50-55\nFilm Focal Distance(FFD): 100cm\nLateral Projection for Toes\nLie the patient on the X-ray couch on the affected side with the hip and knee flexed\nRest the unaffected leg in a comfortable position in front of or behind the affected leg.\nPlace the foot in the true lateral position with the knee raised on a pad and the film under the toes\nImmobilize the foot"
+  },
+  {
+    "id": "q571",
+    "lecture": 11,
+    "page": 4,
+    "stem": "What angle does the plantar surface make with the cassette for the oblique toe position described?",
+    "options": [
+      "Approximately 20 degrees",
+      "Approximately 90 degrees",
+      "Approximately 10 degrees",
+      "Approximately 45 degrees"
+    ],
+    "answer": 3,
+    "explanation": "The oblique toe position is obtained by medial leaning until the plantar surface is approximately 45 degrees to the cassette. The source describes a supporting pad of the same angle.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "From the AP position, the affected limb is allowed to lean medially to bring the plantar surface of the foot approximately 45 degrees to the cassete",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Collimate beam properly\nApply protection\nCassette Size\n13x18cm or 24x18cm split using lead rubber divider\nDirection of Central Ray and Centring Point\nDCR: Vertical 90 degree\nCP: Head of FIRST metatarsal or the individual toe under examination.\nExposure Factors\nmAs: 1.5-2.5\nKvP: 50-55\nFilm Focal Distance(FFD): 100cm\nPatient Positioning for Dorsiplantar (anteroposterior)Oblique\nFrom the AP position, the affected limb is allowed to lean medially to bring the plantar surface of the foot approximately 45 degrees to the cassete\nA 45 degree non-radiopaque pad placed under the side of the foot for support with opposite leg acting as a support.\nPlace anatomical marker (R or L)"
+  },
+  {
+    "id": "q572",
+    "lecture": 11,
+    "page": 4,
+    "stem": "Which support is specified for the oblique toe position?",
+    "options": [
+      "Compression paddle over the knee",
+      "Lead sheet covering the toes",
+      "Metal block under the examined toes",
+      "45-degree non-radiopaque pad"
+    ],
+    "answer": 3,
+    "explanation": "The lecture specifies a 45-degree non-radiopaque pad under the side of the foot, with the opposite leg also providing support. This is the arrangement described in the notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "A 45 degree non-radiopaque pad placed under the side of the foot for support with opposite leg acting as a support.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Collimate beam properly\nApply protection\nCassette Size\n13x18cm or 24x18cm split using lead rubber divider\nDirection of Central Ray and Centring Point\nDCR: Vertical 90 degree\nCP: Head of FIRST metatarsal or the individual toe under examination.\nExposure Factors\nmAs: 1.5-2.5\nKvP: 50-55\nFilm Focal Distance(FFD): 100cm\nPatient Positioning for Dorsiplantar (anteroposterior)Oblique\nFrom the AP position, the affected limb is allowed to lean medially to bring the plantar surface of the foot approximately 45 degrees to the cassete\nA 45 degree non-radiopaque pad placed under the side of the foot for support with opposite leg acting as a support.\nPlace anatomical marker (R or L)"
+  },
+  {
+    "id": "q573",
+    "lecture": 11,
+    "page": 5,
+    "stem": "For the dorsiplantar foot position, how are the patient's knees arranged?",
+    "options": [
+      "Fully extended while standing",
+      "Flexed while seated on the couch",
+      "Crossed while prone",
+      "Both suspended off the couch"
+    ],
+    "answer": 1,
+    "explanation": "The foot section places the patient seated on the X-ray couch with knees flexed. The next instruction places the plantar aspect of the affected foot on the film.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Patient seat on the X-ray couch with knees flexed",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Collimate beam properly\nApply protection\nCassette Size\n13x18cm or 24x18cm split using lead rubber divider\nDirection of Central Ray and Centring Point\nDCR: Vertical 90 degree\nCP: Head of FIRST metatarsal or the individual toe under examination.\nExposure Factors\nmAs: 1.5-2.5\nKvP: 50-55\nFilm Focal Distance(FFD): 100cm\nFOOT\nPatient Positioning for Dorsiplantar (anteroposterior)\nPatient seat on the X-ray couch with knees flexed\nPlace plantar aspect of the affected foot on film\nSupport the side under examination with knee of the other leg to immobilize foot\nPlace anatomical marker (R or L)"
+  },
+  {
+    "id": "q574",
+    "lecture": 11,
+    "page": 6,
+    "stem": "Where is the dorsiplantar foot projection centred in the supplied lecture?",
+    "options": [
+      "Apex of the patella",
+      "Middle of the tibial shaft",
+      "Medial malleolus",
+      "Dorsum of the foot at the cuboid-navicular region"
+    ],
+    "answer": 3,
+    "explanation": "The source gives the cuboid-navicular region on the dorsum of the foot as the centring point. The answer follows the named region in the supplied notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP: Dorsum of the foot to the Cubiod-navicular region",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Collimate beam properly\nApply protection\nCassette Size\n24x18cm or 30x24cm split using lead rubber divider\nDirection of Central Ray and Centring Point\nDCR: Vertical 90 degree\nCP: Dorsum of the foot to the Cubiod-navicular region\nExposure Factors\nmAs: 2-4\nKvP: 50-65\nFilm Focal Distance(FFD): 100cm\nPatient Positioning for Dorsiplantar (anteroposterior)Oblique\nFrom the AP position, the affected limb is allowed to lean medially to bring the plantar surface of the foot approximately 45 degrees to the cassete\nA 45 degree non-radiopaque pad placed under the side of the foot for support with opposite leg acting as a support.\nPlace anatomical marker (R or L) .\nDCR: Vertical\nCP: Dorsum of the foot to the Cubiod-navicular region"
+  },
+  {
+    "id": "q575",
+    "lecture": 11,
+    "page": 6,
+    "stem": "Which movement changes the AP foot position into the oblique foot position described?",
+    "options": [
+      "Lean the affected limb medially",
+      "Keep the plantar surface flat without rotation",
+      "Rotate the limb laterally through 90 degrees",
+      "Flex all toes into the sole"
+    ],
+    "answer": 0,
+    "explanation": "The oblique foot instructions use medial leaning to bring the plantar surface to approximately 45 degrees. This tests the direction of movement given in the lecture.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "From the AP position, the affected limb is allowed to lean medially to bring the plantar surface of the foot approximately 45 degrees to the cassete",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Collimate beam properly\nApply protection\nCassette Size\n24x18cm or 30x24cm split using lead rubber divider\nDirection of Central Ray and Centring Point\nDCR: Vertical 90 degree\nCP: Dorsum of the foot to the Cubiod-navicular region\nExposure Factors\nmAs: 2-4\nKvP: 50-65\nFilm Focal Distance(FFD): 100cm\nPatient Positioning for Dorsiplantar (anteroposterior)Oblique\nFrom the AP position, the affected limb is allowed to lean medially to bring the plantar surface of the foot approximately 45 degrees to the cassete\nA 45 degree non-radiopaque pad placed under the side of the foot for support with opposite leg acting as a support.\nPlace anatomical marker (R or L) .\nDCR: Vertical\nCP: Dorsum of the foot to the Cubiod-navicular region"
+  },
+  {
+    "id": "q576",
+    "lecture": 11,
+    "page": 7,
+    "stem": "In the lateral foot notes, when is a horizontal central ray specifically mentioned?",
+    "options": [
+      "Only for the PA patella",
+      "With the cassette lateral to the foot in pes planus",
+      "Only when imaging the elbow",
+      "For every AP toe projection"
+    ],
+    "answer": 1,
+    "explanation": "The lateral foot description explicitly mentions a horizontal ray with a laterally placed cassette in pes planus. The question stays within that stated example.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "DCR:: Vertical or Horizontal (if cassette is placed at the lateral part of the foot in case of pes planus[Flat foot])",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Lateral Projection for Foot\nSeat the patient on the X-ray couch on the affected side with the hip and knee flexed\nRest the unaffected leg in a comfortable position in front of or behind the affected leg.\nPlace the foot in the true lateral position with the knee raised on a pad\nImmobilize the foot\nCollimate Beam and apply protection\nPlace anatomical marker (R or L)\nDCR:: Vertical or Horizontal (if cassette is placed at the lateral part of the foot in case of pes planus[Flat foot])\nCP: Cuboid-navicular area of foot.\nANKLE\nPatient Positioning for Anteroposterior\nPatient seat on the X-ray couch with legs extended and unaffected leg abducted.\nPlace the ankle on the film-cassette with the joint flexed 90 degrees\nRotate the ankle medially until both malleoli are equidistant from the couch top.\nImmobilize the sole of the foot with a pad and sandbag\nPlace anatomical marker (R or L)\nCollimate beam and apply protection\nDCR: Vertical\nCP: Midway between the malleoli\nCassette size  : 12x10inch or 10x8inch"
+  },
+  {
+    "id": "q577",
+    "lecture": 11,
+    "page": 7,
+    "stem": "For the AP ankle position, how should the malleoli relate to the couch top?",
+    "options": [
+      "Both should be equidistant from it",
+      "Both should lie outside the cassette",
+      "Both should be superimposed",
+      "Only the medial malleolus should be imaged"
+    ],
+    "answer": 0,
+    "explanation": "The AP ankle instructions require medial rotation until the malleoli are equidistant from the couch top. This is the alignment stated for that projection.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Rotate the ankle medially until both malleoli are equidistant from the couch top.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Lateral Projection for Foot\nSeat the patient on the X-ray couch on the affected side with the hip and knee flexed\nRest the unaffected leg in a comfortable position in front of or behind the affected leg.\nPlace the foot in the true lateral position with the knee raised on a pad\nImmobilize the foot\nCollimate Beam and apply protection\nPlace anatomical marker (R or L)\nDCR:: Vertical or Horizontal (if cassette is placed at the lateral part of the foot in case of pes planus[Flat foot])\nCP: Cuboid-navicular area of foot.\nANKLE\nPatient Positioning for Anteroposterior\nPatient seat on the X-ray couch with legs extended and unaffected leg abducted.\nPlace the ankle on the film-cassette with the joint flexed 90 degrees\nRotate the ankle medially until both malleoli are equidistant from the couch top.\nImmobilize the sole of the foot with a pad and sandbag\nPlace anatomical marker (R or L)\nCollimate beam and apply protection\nDCR: Vertical\nCP: Midway between the malleoli\nCassette size  : 12x10inch or 10x8inch"
+  },
+  {
+    "id": "q578",
+    "lecture": 11,
+    "page": 7,
+    "stem": "Where is the AP ankle projection centred in the notes?",
+    "options": [
+      "Head of the first metatarsal",
+      "Apex of the patella",
+      "Midway between the malleoli",
+      "Middle of the femoral shaft"
+    ],
+    "answer": 2,
+    "explanation": "The AP ankle centring point is midway between the malleoli. The separate lateral ankle section on the next slide uses the medial malleolus.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP: Midway between the malleoli",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Lateral Projection for Foot\nSeat the patient on the X-ray couch on the affected side with the hip and knee flexed\nRest the unaffected leg in a comfortable position in front of or behind the affected leg.\nPlace the foot in the true lateral position with the knee raised on a pad\nImmobilize the foot\nCollimate Beam and apply protection\nPlace anatomical marker (R or L)\nDCR:: Vertical or Horizontal (if cassette is placed at the lateral part of the foot in case of pes planus[Flat foot])\nCP: Cuboid-navicular area of foot.\nANKLE\nPatient Positioning for Anteroposterior\nPatient seat on the X-ray couch with legs extended and unaffected leg abducted.\nPlace the ankle on the film-cassette with the joint flexed 90 degrees\nRotate the ankle medially until both malleoli are equidistant from the couch top.\nImmobilize the sole of the foot with a pad and sandbag\nPlace anatomical marker (R or L)\nCollimate beam and apply protection\nDCR: Vertical\nCP: Midway between the malleoli\nCassette size  : 12x10inch or 10x8inch"
+  },
+  {
+    "id": "q579",
+    "lecture": 11,
+    "page": 8,
+    "stem": "Which relationship of the malleoli is specified for the lateral ankle?",
+    "options": [
+      "Medial malleolus outside the image",
+      "Malleoli equidistant with no lateral rotation",
+      "Lateral malleolus outside the image",
+      "Superimposed malleoli"
+    ],
+    "answer": 3,
+    "explanation": "The lateral ankle notes require a true lateral position with superimposed malleoli and the knee raised on a pad. This is the stated alignment check.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Place the affected ankle in the true lateral position such as that both malleoli are superimposed with the knee raised on a pad",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Exposure factors:\nKvp: 55-70\nmAs: 3-5\nFFD/SID: 100cm\nLateral Projection for  Ankle\nLie the patient on the X-ray couch on the affected side with the hip and knee flexed\nRest the unaffected leg in a comfortable position in front of or behind the affected leg.\nPlace the affected ankle in the true lateral position such as that both malleoli are superimposed with the knee raised on a pad\nImmobilize the ankle\nCollimate beam and apply protection\nPlace anatomical marker (R or L)\nDCR:: Vertical\nCP: Medial malleolus"
+  },
+  {
+    "id": "q580",
+    "lecture": 11,
+    "page": 8,
+    "stem": "What centring landmark is given for the lateral ankle?",
+    "options": [
+      "Apex of the patella",
+      "Head of the third metatarsal",
+      "Tibial tuberosity",
+      "Medial malleolus"
+    ],
+    "answer": 3,
+    "explanation": "The lateral ankle section specifies the medial malleolus as its centring landmark. The AP ankle uses the midpoint between the malleoli instead.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP: Medial malleolus",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Exposure factors:\nKvp: 55-70\nmAs: 3-5\nFFD/SID: 100cm\nLateral Projection for  Ankle\nLie the patient on the X-ray couch on the affected side with the hip and knee flexed\nRest the unaffected leg in a comfortable position in front of or behind the affected leg.\nPlace the affected ankle in the true lateral position such as that both malleoli are superimposed with the knee raised on a pad\nImmobilize the ankle\nCollimate beam and apply protection\nPlace anatomical marker (R or L)\nDCR:: Vertical\nCP: Medial malleolus"
+  },
+  {
+    "id": "q581",
+    "lecture": 11,
+    "page": 9,
+    "stem": "Which joints should be included if possible on an AP tibia-fibula image?",
+    "options": [
+      "Elbow and wrist",
+      "Hip and elbow",
+      "Hip and shoulder",
+      "Ankle and knee"
+    ],
+    "answer": 3,
+    "explanation": "The AP leg instructions ask for inclusion of both ankle and knee if possible. This is the source's stated image-coverage requirement for the lower leg.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Include both ankle and knee joints on the film if possible.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "LEG(TIBIA-FIBULA)\nPatient Positioning for Anteroposterior\nPatient seat on the X-ray couch with legs extended and unaffected leg abducted.\nPlace the lower leg on the film-cassette with the ankle joint flexed 90 degrees with foot upright.\nInclude both ankle and knee joints on the film if possible.\nImmobilize the sole of the leg with a pad and sandbag\nPlace anatomical marker (R or L)\nCollimate beam and apply protection\nDCR: Vertical\nCP: Anterior aspect of the middle of lower leg midway between the ankle and knee joints\nCassette size  : 12x10inch or 10x8inch\nLateral projection for Leg\nSeat the patient on the X-ray couch on the affected side with the hip and knee flexed\nRest the unaffected leg in a comfortable position in front of or behind the affected leg.\nPlace the leg in the true lateral position with the knee raised on a pad\nImmobilize the leg.\nCollimate beam and apply protection\nPlace anatomical marker (R or L)\nDCR:: Vertical or Horizontal (if cassette is placed at the lateral part of the leg in case of)\nCP: Medial aspect of the middle of the lower leg midway between the ankle and knee joints."
+  },
+  {
+    "id": "q582",
+    "lecture": 11,
+    "page": 9,
+    "stem": "Where is the AP lower-leg projection centred?",
+    "options": [
+      "Anterior middle of the lower leg between ankle and knee",
+      "Superior pole of the patella",
+      "Medial malleolus only",
+      "Head of the first metatarsal"
+    ],
+    "answer": 0,
+    "explanation": "The AP lower-leg centring point is the anterior midpoint between ankle and knee. It is not the centring point used for an isolated ankle image.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP: Anterior aspect of the middle of lower leg midway between the ankle and knee joints",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "LEG(TIBIA-FIBULA)\nPatient Positioning for Anteroposterior\nPatient seat on the X-ray couch with legs extended and unaffected leg abducted.\nPlace the lower leg on the film-cassette with the ankle joint flexed 90 degrees with foot upright.\nInclude both ankle and knee joints on the film if possible.\nImmobilize the sole of the leg with a pad and sandbag\nPlace anatomical marker (R or L)\nCollimate beam and apply protection\nDCR: Vertical\nCP: Anterior aspect of the middle of lower leg midway between the ankle and knee joints\nCassette size  : 12x10inch or 10x8inch\nLateral projection for Leg\nSeat the patient on the X-ray couch on the affected side with the hip and knee flexed\nRest the unaffected leg in a comfortable position in front of or behind the affected leg.\nPlace the leg in the true lateral position with the knee raised on a pad\nImmobilize the leg.\nCollimate beam and apply protection\nPlace anatomical marker (R or L)\nDCR:: Vertical or Horizontal (if cassette is placed at the lateral part of the leg in case of)\nCP: Medial aspect of the middle of the lower leg midway between the ankle and knee joints."
+  },
+  {
+    "id": "q583",
+    "lecture": 11,
+    "page": 9,
+    "stem": "For the AP tibia-fibula position, how is the ankle arranged?",
+    "options": [
+      "Held in the ball-catcher position",
+      "Flexed 90 degrees with the foot upright",
+      "Rotated until only the heel is visible",
+      "Fully plantarflexed with toes pointing down"
+    ],
+    "answer": 1,
+    "explanation": "The AP leg description specifies an ankle flexed 90 degrees with the foot upright. This question tests the position stated in the supplied lecture.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Place the lower leg on the film-cassette with the ankle joint flexed 90 degrees with foot upright.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "LEG(TIBIA-FIBULA)\nPatient Positioning for Anteroposterior\nPatient seat on the X-ray couch with legs extended and unaffected leg abducted.\nPlace the lower leg on the film-cassette with the ankle joint flexed 90 degrees with foot upright.\nInclude both ankle and knee joints on the film if possible.\nImmobilize the sole of the leg with a pad and sandbag\nPlace anatomical marker (R or L)\nCollimate beam and apply protection\nDCR: Vertical\nCP: Anterior aspect of the middle of lower leg midway between the ankle and knee joints\nCassette size  : 12x10inch or 10x8inch\nLateral projection for Leg\nSeat the patient on the X-ray couch on the affected side with the hip and knee flexed\nRest the unaffected leg in a comfortable position in front of or behind the affected leg.\nPlace the leg in the true lateral position with the knee raised on a pad\nImmobilize the leg.\nCollimate beam and apply protection\nPlace anatomical marker (R or L)\nDCR:: Vertical or Horizontal (if cassette is placed at the lateral part of the leg in case of)\nCP: Medial aspect of the middle of the lower leg midway between the ankle and knee joints."
+  },
+  {
+    "id": "q584",
+    "lecture": 11,
+    "page": 9,
+    "stem": "Where is the lateral lower-leg projection centred?",
+    "options": [
+      "Anterior aspect of the shoulder",
+      "Dorsum of the foot at the metatarsal heads",
+      "Medial aspect of the lower leg midway between ankle and knee",
+      "Midpoint between wrist styloids"
+    ],
+    "answer": 2,
+    "explanation": "The lateral leg centring point is the medial midpoint between ankle and knee. This contrasts with the anterior aspect specified for the AP lower leg.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP: Medial aspect of the middle of the lower leg midway between the ankle and knee joints.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "LEG(TIBIA-FIBULA)\nPatient Positioning for Anteroposterior\nPatient seat on the X-ray couch with legs extended and unaffected leg abducted.\nPlace the lower leg on the film-cassette with the ankle joint flexed 90 degrees with foot upright.\nInclude both ankle and knee joints on the film if possible.\nImmobilize the sole of the leg with a pad and sandbag\nPlace anatomical marker (R or L)\nCollimate beam and apply protection\nDCR: Vertical\nCP: Anterior aspect of the middle of lower leg midway between the ankle and knee joints\nCassette size  : 12x10inch or 10x8inch\nLateral projection for Leg\nSeat the patient on the X-ray couch on the affected side with the hip and knee flexed\nRest the unaffected leg in a comfortable position in front of or behind the affected leg.\nPlace the leg in the true lateral position with the knee raised on a pad\nImmobilize the leg.\nCollimate beam and apply protection\nPlace anatomical marker (R or L)\nDCR:: Vertical or Horizontal (if cassette is placed at the lateral part of the leg in case of)\nCP: Medial aspect of the middle of the lower leg midway between the ankle and knee joints."
+  },
+  {
+    "id": "q585",
+    "lecture": 11,
+    "page": 10,
+    "stem": "Which patellar alignment is required for the AP knee position in the lecture?",
+    "options": [
+      "Patella central over the femur",
+      "Patella hidden behind the ankle",
+      "Patella outside the collimated field",
+      "Patella displaced fully lateral to the femur"
+    ],
+    "answer": 0,
+    "explanation": "The AP knee instructions explicitly require the patella to be central over the femur. This is the positioning check stated in the notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Ensure that the patella is central over the femur",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Exposure factors:\nKvp: 55-70\nmAs: 5-8\nFFD/SID: 100cm\nNOTE: No use of grid\nKNEE\nAP Projection for  Knee\nLie the patient on the X-ray couch on the affected side with legs extended and unaffected leg abducted\nPlace the affected knee on the film and flex the joint slightly\nEnsure that the patella is central over the femur\nImmobilize the leg\nCollimate beam and apply protection\nPlace anatomical marker (R or L)\nCassette size  : 12x10inch or 10x8inch\nDCR:: Vertical\nCP: 2.5cm below the apex of the patella\nExposure factors\nKvp: 55-75, mAs: 5-10 and FFD: 100cm"
+  },
+  {
+    "id": "q586",
+    "lecture": 11,
+    "page": 10,
+    "stem": "Where is the AP knee projection centred according to the notes?",
+    "options": [
+      "At the medial malleolus",
+      "5 cm above the femoral head",
+      "At the cuboid-navicular region",
+      "2.5 cm below the apex of the patella"
+    ],
+    "answer": 3,
+    "explanation": "The AP knee centring point is 2.5 cm below the patellar apex. Both the distance and reference landmark are given on the source slide.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP: 2.5cm below the apex of the patella",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Exposure factors:\nKvp: 55-70\nmAs: 5-8\nFFD/SID: 100cm\nNOTE: No use of grid\nKNEE\nAP Projection for  Knee\nLie the patient on the X-ray couch on the affected side with legs extended and unaffected leg abducted\nPlace the affected knee on the film and flex the joint slightly\nEnsure that the patella is central over the femur\nImmobilize the leg\nCollimate beam and apply protection\nPlace anatomical marker (R or L)\nCassette size  : 12x10inch or 10x8inch\nDCR:: Vertical\nCP: 2.5cm below the apex of the patella\nExposure factors\nKvp: 55-75, mAs: 5-10 and FFD: 100cm"
+  },
+  {
+    "id": "q587",
+    "lecture": 11,
+    "page": 11,
+    "stem": "In the PA patella instructions, which patient position is described?",
+    "options": [
+      "Prone with the knee slightly flexed",
+      "Seated with the ankle crossed over the opposite knee",
+      "Standing with both hands on the cassette",
+      "Supine with the knee fully extended"
+    ],
+    "answer": 0,
+    "explanation": "The PA patella section specifies a prone patient with slight knee flexion. The question refers to that section rather than the lateral knee section above it.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Patient lie prone on the table with knee slightly flexed",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Lateral projection for Knee\nLie the patient on the X-ray couch on the affected side with the  knee flexed at 45 or 90 degrees\nRest the unaffected leg in a comfortable position in front of  the affected leg.\nPlace the knee in the true lateral position\nImmobilize the leg and ankle with sandbag.\nCollimate beam and apply protection\nPlace anatomical marker (R or L)\nDCR:: Vertical or Horizontal (if cassette is placed at the lateral part of the leg in case of)\nCP: Middle of the superior border of the medial tibia condyle\nPA for Patella\nPatient lie prone on the table with knee slightly flexed\nFoam pads are placed under the ankle and thigh for support\nThe limb is rotated to centralize the patella\nThe centre of the cassette is the level of the crease of the knee\nImmobile the leg\nPlace anatomical marker\nCollimate\nDCR: Vertical\nCP: In the midline to the skin crease behind the knee"
+  },
+  {
+    "id": "q588",
+    "lecture": 11,
+    "page": 11,
+    "stem": "Where are foam pads placed for the PA patella position described?",
+    "options": [
+      "Between the hands",
+      "Under both shoulders",
+      "Under the wrist and elbow",
+      "Under the ankle and thigh"
+    ],
+    "answer": 3,
+    "explanation": "The PA patella positioning instructions place foam pads beneath the ankle and thigh for support. Those two support sites are explicitly named in the source.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Foam pads are placed under the ankle and thigh for support",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Lateral projection for Knee\nLie the patient on the X-ray couch on the affected side with the  knee flexed at 45 or 90 degrees\nRest the unaffected leg in a comfortable position in front of  the affected leg.\nPlace the knee in the true lateral position\nImmobilize the leg and ankle with sandbag.\nCollimate beam and apply protection\nPlace anatomical marker (R or L)\nDCR:: Vertical or Horizontal (if cassette is placed at the lateral part of the leg in case of)\nCP: Middle of the superior border of the medial tibia condyle\nPA for Patella\nPatient lie prone on the table with knee slightly flexed\nFoam pads are placed under the ankle and thigh for support\nThe limb is rotated to centralize the patella\nThe centre of the cassette is the level of the crease of the knee\nImmobile the leg\nPlace anatomical marker\nCollimate\nDCR: Vertical\nCP: In the midline to the skin crease behind the knee"
+  },
+  {
+    "id": "q589",
+    "lecture": 11,
+    "page": 11,
+    "stem": "Where is the PA patella projection centred in the lecture?",
+    "options": [
+      "Head of the third metatarsal",
+      "Anterior middle of the tibial shaft",
+      "Medial malleolus",
+      "Midline at the skin crease behind the knee"
+    ],
+    "answer": 3,
+    "explanation": "The PA patella instructions give the midline skin crease behind the knee as the centring point. This differs from the AP knee landmark on the preceding slide.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP: In the midline to the skin crease behind the knee",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Lateral projection for Knee\nLie the patient on the X-ray couch on the affected side with the  knee flexed at 45 or 90 degrees\nRest the unaffected leg in a comfortable position in front of  the affected leg.\nPlace the knee in the true lateral position\nImmobilize the leg and ankle with sandbag.\nCollimate beam and apply protection\nPlace anatomical marker (R or L)\nDCR:: Vertical or Horizontal (if cassette is placed at the lateral part of the leg in case of)\nCP: Middle of the superior border of the medial tibia condyle\nPA for Patella\nPatient lie prone on the table with knee slightly flexed\nFoam pads are placed under the ankle and thigh for support\nThe limb is rotated to centralize the patella\nThe centre of the cassette is the level of the crease of the knee\nImmobile the leg\nPlace anatomical marker\nCollimate\nDCR: Vertical\nCP: In the midline to the skin crease behind the knee"
+  },
+  {
+    "id": "q590",
+    "lecture": 11,
+    "page": 11,
+    "stem": "For the lateral knee, where is the unaffected leg placed in the positioning notes?",
+    "options": [
+      "Suspended vertically above the couch",
+      "Comfortably in front of the affected leg",
+      "Behind the patient's head",
+      "Directly on top of the affected knee"
+    ],
+    "answer": 1,
+    "explanation": "The lateral knee description places the unaffected leg comfortably in front of the affected leg. The remaining steps establish a true lateral knee position and immobilization.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Rest the unaffected leg in a comfortable position in front of  the affected leg.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Lateral projection for Knee\nLie the patient on the X-ray couch on the affected side with the  knee flexed at 45 or 90 degrees\nRest the unaffected leg in a comfortable position in front of  the affected leg.\nPlace the knee in the true lateral position\nImmobilize the leg and ankle with sandbag.\nCollimate beam and apply protection\nPlace anatomical marker (R or L)\nDCR:: Vertical or Horizontal (if cassette is placed at the lateral part of the leg in case of)\nCP: Middle of the superior border of the medial tibia condyle\nPA for Patella\nPatient lie prone on the table with knee slightly flexed\nFoam pads are placed under the ankle and thigh for support\nThe limb is rotated to centralize the patella\nThe centre of the cassette is the level of the crease of the knee\nImmobile the leg\nPlace anatomical marker\nCollimate\nDCR: Vertical\nCP: In the midline to the skin crease behind the knee"
+  },
+  {
+    "id": "q591",
+    "lecture": 0,
+    "page": 14,
+    "stem": "On an anterior view of the proximal femur, which line marks the distal attachment of the hip capsule in the notes?",
+    "options": [
+      "Intertrochanteric crest",
+      "Gluteal tuberosity",
+      "Intertrochanteric line",
+      "Linea aspera"
+    ],
+    "answer": 2,
+    "explanation": "The anterior distal capsular attachment is the intertrochanteric line and root of the greater trochanter. The next source sentence distinguishes this from the posterior relationship to the intertrochanteric crest.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "At its distal attachment, it is attached anteriorly to the intertrochanteric line and root of greater trochanter",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "The hip joint\nA strong fibrous articular capsule attaches proximally to the acetabulum and transverse acetabular ligament, and distally to the neck of the femur\nAt its distal attachment, it is attached anteriorly to the intertrochanteric line and root of greater trochanter\nAnd posteriorly, it runs over the intertrochanteric crest without being attached to it\nPortions of the capsule thickens to form the hip joint ligaments: iliofemoral, pubofemoral and ischiofemoral ligaments\nThe ligament of the head of femur is attached to the margins of the acetabular notch, transverse acetabular ligament and pit in the head of femur\nIt also contains a small artery to the head of femur\n18/10/2026 08:08\n14"
+  },
+  {
+    "id": "q592",
+    "lecture": 0,
+    "page": 16,
+    "stem": "Which pair supplies the posterior aspect of the hip joint according to the innervation list?",
+    "options": [
+      "Superior gluteal nerve and nerve to quadratus femoris",
+      "Tibial and deep fibular nerves",
+      "Femoral and obturator nerves",
+      "Inferior gluteal and saphenous nerves"
+    ],
+    "answer": 0,
+    "explanation": "The posterior innervation list names the superior gluteal nerve and nerve to quadratus femoris. Femoral and obturator nerves are listed for the anterior aspect, making that pair an anatomical distractor.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Posterior: superior gluteal n, Nerve to quadratus femoris",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "The hip joint\nInnervation:\nAnterior: femoral n, obturator n\nPosterior: superior gluteal n, Nerve to quadratus femoris\nBlood supply:\nMedial and lateral circumflex femoral arteries (br. of deep artery of the thigh and occasionally arises from femoral artery)\nArtery to head of femur (br. of obturator artery)\nClinicals\nFemoral neck fractures\nAvascular necrosis of head of femur (AVN)\nHip dislocation\nHip replacement surgery\n18/10/2026 08:08\n16"
+  },
+  {
+    "id": "q593",
+    "lecture": 0,
+    "page": 29,
+    "stem": "Which bones form the posterior part of the transverse foot arch in the lecture?",
+    "options": [
+      "Talus and calcaneus",
+      "Cuboid and cuneiforms",
+      "Phalanges alone",
+      "Metatarsal heads alone"
+    ],
+    "answer": 1,
+    "explanation": "The notes distinguish an anterior transverse arch at the metatarsal bases or heads from a posterior transverse arch formed by cuboid and cuneiforms. This question tests the posterior skeletal component, rather than its tendon support.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "anterior transverse arch (metatarsal bases/heads) and a posterior transverse arch (cuboid and cuneiforms)",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Arches of the Foot\nThis is a skeletal framework that acts as a springboard for the foot\nIt transmits weight from the leg to the ground\nIt provides motion stability\nIt is formed by the tarsal bones, metatarsals and plantar ligaments\nTransverse arch\nanterior transverse arch (metatarsal bases/heads) and a posterior transverse arch (cuboid and cuneiforms)\nSupported by the fibularis longus tendon and interosseous/plantar ligaments\n18/10/2026 08:08\n29"
+  },
+  {
+    "id": "q594",
+    "lecture": 0,
+    "page": 15,
+    "stem": "Which fibres of gluteus medius are specifically included among medial rotators of the hip?",
+    "options": [
+      "Distal fibres of gastrocnemius",
+      "All fibres of the hamstrings",
+      "Anterior fibres",
+      "Posterior fibres only"
+    ],
+    "answer": 2,
+    "explanation": "The medial-rotation entry specifically identifies the anterior fibres of gluteus medius. The question distinguishes the movement of those fibres from the previously tested general role of hip abductors.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Medial rotation: anterior fibres of gluteus medius, gluteus minimus, tensior fascia lata",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "The hip joint\nMovements:\nFlexion: iliopsoas, sartorius, tensor fascia lata, rectus femoris, pectineus, adductor longus and brevis, anterior part of adductor magnus, gracilis\nExtension: Hamstrings (semi-tendinosus, semi-membranosus, long head of biceps femoris), posterior part of adductor magnus, gluteus maximus\nAdduction: Gluteus medius and minimus, tensor fascia lata\nAdduction: Adductor longus, Adductor brevis, Adductor magnus, gracilis, pectineus, obturator externus\nMedial rotation: anterior fibres of gluteus medius, gluteus minimus, tensior fascia lata\nLateral rotation: obturator externus, obturator internus, gemelli, piriformis, quadratus femoris, gluteus maximus\n18/10/2026 08:08\n15"
+  },
+  {
+    "id": "q595",
+    "lecture": 1,
+    "page": 31,
+    "stem": "A student is matching roll-film formats to uses. Which use is listed for 70 mm film?",
+    "options": [
+      "Mass chest screening only",
+      "Reducing document storage size",
+      "Serial spot cameras and photofluorography",
+      "Positive teaching transparencies"
+    ],
+    "answer": 2,
+    "explanation": "The roll-film table pairs 70 mm with serial spot cameras and photofluorography. It gives other widths for cine cameras and mass chest screening, so those applications should not be substituted here.",
+    "difficulty": "Application",
+    "sourceExcerpt": "70 mm\nSerial spot cameras, photofluorography",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Roll film sizes and uses\nFormat\nTypical use\n16 mm\nCine and fluoroscopic recording cameras\n35 mm\nCine and fluoroscopic recording cameras\n70 mm\nSerial spot cameras, photofluorography\n100 mm\nMass chest screening\n105 mm\nMass miniature radiography (photofluorography)\nWidely used for tuberculosis screening of large populations."
+  },
+  {
+    "id": "q596",
+    "lecture": 1,
+    "page": 31,
+    "stem": "Which format is paired specifically with mass miniature radiography in the roll-film table?",
+    "options": [
+      "16 mm",
+      "70 mm",
+      "105 mm",
+      "35 mm"
+    ],
+    "answer": 2,
+    "explanation": "The table associates 105 mm with mass miniature radiography, described as photofluorography. This tests a different table entry from the existing questions about 100 mm mass chest screening.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "105 mm\nMass miniature radiography (photofluorography)",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Roll film sizes and uses\nFormat\nTypical use\n16 mm\nCine and fluoroscopic recording cameras\n35 mm\nCine and fluoroscopic recording cameras\n70 mm\nSerial spot cameras, photofluorography\n100 mm\nMass chest screening\n105 mm\nMass miniature radiography (photofluorography)\nWidely used for tuberculosis screening of large populations."
+  },
+  {
+    "id": "q597",
+    "lecture": 1,
+    "page": 32,
+    "stem": "A permanent photographic print is required rather than a projection transparency. Which material matches the lecture?",
+    "options": [
+      "Microfilm",
+      "Photographic paper",
+      "Photostimulable phosphor plate",
+      "Slide or reversal film"
+    ],
+    "answer": 1,
+    "explanation": "Photographic paper is identified as the material for permanent photographic prints. The same slide assigns positive transparencies, document-size reduction and latent-image storage to other materials.",
+    "difficulty": "Application",
+    "sourceExcerpt": "Photographic paper-produces permanent photographic prints",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Other photographic materials: beyond xray film\nDuplicating film-produces copies of existing radiographic film for referral, teaching or record purpose\nPhotographic paper-produces permanent photographic prints\nSlide or reversal film- produces positive transparencies for projection during lectures,demonstration and presentations\nPhotostimulable phosphor plate (PSP)- Use in computed radiography to store a latent image after exposure to xrays. They are reusable\nMicrofilm-for reducing size of documents and images to save storage space\nDeveloper- reducing agents such as hydroquinone and phenidone in alkaline solution\nFixer-that removes unexposed silver halide. It contains sodium or ammoniumthiosulphate,acidifier,preservative,hardener,buffer and solvent"
+  },
+  {
+    "id": "q598",
+    "lecture": 1,
+    "page": 32,
+    "stem": "Which pair of reducing agents is named in the developer description on the photographic-materials slide?",
+    "options": [
+      "Gelatin and polyester",
+      "Acidifier and hardener",
+      "Sodium and ammonium thiosulphate",
+      "Hydroquinone and phenidone"
+    ],
+    "answer": 3,
+    "explanation": "The developer entry names hydroquinone and phenidone as reducing agents in an alkaline solution. The thiosulphates belong to the fixer description, while gelatin and polyester are film materials.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Developer- reducing agents such as hydroquinone and phenidone in alkaline solution",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Other photographic materials: beyond xray film\nDuplicating film-produces copies of existing radiographic film for referral, teaching or record purpose\nPhotographic paper-produces permanent photographic prints\nSlide or reversal film- produces positive transparencies for projection during lectures,demonstration and presentations\nPhotostimulable phosphor plate (PSP)- Use in computed radiography to store a latent image after exposure to xrays. They are reusable\nMicrofilm-for reducing size of documents and images to save storage space\nDeveloper- reducing agents such as hydroquinone and phenidone in alkaline solution\nFixer-that removes unexposed silver halide. It contains sodium or ammoniumthiosulphate,acidifier,preservative,hardener,buffer and solvent"
+  },
+  {
+    "id": "q599",
+    "lecture": 2,
+    "page": 21,
+    "stem": "A dataset contains pixel values and image dimensions. Which data category does this represent?",
+    "options": [
+      "Image data",
+      "Examination data",
+      "Patient data",
+      "Diagnostic data"
+    ],
+    "answer": 0,
+    "explanation": "Pixel values and image dimensions appear explicitly under image data. They describe the image itself rather than patient demographics, the requested projection or a radiologist's findings.",
+    "difficulty": "Application",
+    "sourceExcerpt": "Image data: Pixel values, image dimensions, brightness values, and contrast information.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Types of Data in Radiography\nPatient data: Name, age, sex, identification number, and medical history.\nExamination data: Type of examination, anatomical region, projection, and date of examination.\nTechnical data: kVp, mA, exposure time, mAs, source-to-image distance (SID), and focal spot size.\nImage data: Pixel values, image dimensions, brightness values, and contrast information.\nDiagnostic data: Findings documented by the radiologist, such as fractures, lung opacities, or joint abnormalities."
+  },
+  {
+    "id": "q600",
+    "lecture": 2,
+    "page": 21,
+    "stem": "A radiologist documents a lung opacity in a report. Which category in the lecture contains this finding?",
+    "options": [
+      "Technical data",
+      "Diagnostic data",
+      "Patient data",
+      "Examination data"
+    ],
+    "answer": 1,
+    "explanation": "The diagnostic-data category includes findings documented by the radiologist, with lung opacities given as an example. Exposure settings and patient identifiers belong to different categories on this slide.",
+    "difficulty": "Application",
+    "sourceExcerpt": "Diagnostic data: Findings documented by the radiologist, such as fractures, lung opacities, or joint abnormalities.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Types of Data in Radiography\nPatient data: Name, age, sex, identification number, and medical history.\nExamination data: Type of examination, anatomical region, projection, and date of examination.\nTechnical data: kVp, mA, exposure time, mAs, source-to-image distance (SID), and focal spot size.\nImage data: Pixel values, image dimensions, brightness values, and contrast information.\nDiagnostic data: Findings documented by the radiologist, such as fractures, lung opacities, or joint abnormalities."
+  },
+  {
+    "id": "q601",
+    "lecture": 2,
+    "page": 29,
+    "stem": "Which pair of word-processing features is explicitly listed as supporting report preparation?",
+    "options": [
+      "Window width and window level",
+      "Exposure timing and beam collimation",
+      "Detector calibration and plate erasure",
+      "Spell checking and standardized report templates"
+    ],
+    "answer": 3,
+    "explanation": "The advantages slide names spell checking and standardized report templates. These are document-preparation features, whereas the other choices concern image display or radiographic equipment.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Supports spell checking and standardized report templates.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Advantages of Word Processing in Radiography\nMakes document preparation faster.\nAllows easy correction of errors.\nProduces neat and professional documents.\nSimplifies storage and retrieval of documents.\nAllows documents to be edited and reused.\nMakes sharing and printing easier.\nSupports spell checking and standardized report templates."
+  },
+  {
+    "id": "q602",
+    "lecture": 2,
+    "page": 45,
+    "stem": "Which organization is paired with access to health guidance and publications in the research-resource table?",
+    "options": [
+      "World Health Organization",
+      "Zotero",
+      "Microsoft Excel",
+      "International Atomic Energy Agency"
+    ],
+    "answer": 0,
+    "explanation": "The table pairs WHO with health guidance and publications. It separately assigns radiation-protection resources to IAEA, reference organization to Zotero and research-data analysis to Excel.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "World Health Organization (WHO)\nAccessing health guidance and publications",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Useful Internet Research Resources for Radiography\nResource\nMain use\nGoogle Scholar\nFinding scholarly articles and citations\nPubMed\nSearching biomedical and health research\nWorld Health Organization (WHO)\nAccessing health guidance and publications\nInternational Atomic Energy Agency (IAEA)\nRadiation protection and medical imaging resources\nRadiopaedia\nLearning radiology through cases and educational articles\nZotero\nOrganizing research references\nMicrosoft Excel\nOrganizing and analyzing research data"
+  },
+  {
+    "id": "q603",
+    "lecture": 3,
+    "page": 24,
+    "stem": "How does the lecture compare CR plate exposure latitude with conventional film?",
+    "options": [
+      "CR has wider exposure latitude",
+      "CR has narrower exposure latitude",
+      "CR latitude depends only on film developer temperature",
+      "CR has no exposure latitude"
+    ],
+    "answer": 0,
+    "explanation": "The CR advantages slide explicitly states that exposure latitude is wide compared with conventional film. This is a receptor comparison, rather than a claim that exposure selection no longer matters.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "It has a wide exposure latitude compared with conventional film.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "It is reusable.\nIt allows digital image processing.\nIt has a wide exposure latitude compared with conventional film.\nIt can be used with many existing X-ray units.\nIt supports digital image storage and transmission.\nAdvantages of a CR imaging plate"
+  },
+  {
+    "id": "q604",
+    "lecture": 3,
+    "page": 36,
+    "stem": "Which material is usually used for the photodiodes in indirect-conversion detectors according to the notes?",
+    "options": [
+      "Gadolinium oxysulfide",
+      "Amorphous selenium",
+      "Amorphous silicon",
+      "Cesium iodide"
+    ],
+    "answer": 2,
+    "explanation": "The source identifies amorphous silicon as the usual photodiode material. It assigns selenium to direct conversion and cesium iodide or gadolinium oxysulfide to scintillators, so those are different detector components.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "In indirect-conversion detectors, photodiodes convert light from the scintillator into electrical charge. They are usually made from amorphous silicon.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "1. Conversion layer\nConverts incoming X-ray energy into a form that can be detected electronically.\nIndirect conversion: a scintillator, such as cesium iodide (CsI) or gadolinium oxysulfide (GOS), converts X-rays into light.\nDirect conversion: amorphous selenium (a-Se) converts X-rays directly into electrical charge\n2. Photodiode array\nIn indirect-conversion detectors, photodiodes convert light from the scintillator into electrical charge. They are usually made from amorphous silicon.\nSUMMARY  OF THE COMPONENTS AND THEIR FUNCTIONS"
+  },
+  {
+    "id": "q605",
+    "lecture": 3,
+    "page": 41,
+    "stem": "A DR image-quality problem is traced to incorrect detector calibration. Which stated limitation does this illustrate?",
+    "options": [
+      "Darkroom safelights control digital detector calibration",
+      "Chemical fixation determines DR pixel values",
+      "CR plates require laser readout",
+      "Detector artefacts and calibration problems can affect image quality"
+    ],
+    "answer": 3,
+    "explanation": "The DR disadvantages slide explicitly links detector artefacts and calibration problems with image quality. The scenario tests that detector-specific limitation, rather than a film-processing problem.",
+    "difficulty": "Application",
+    "sourceExcerpt": "Image quality can be affected by detector artefacts and calibration problems.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Higher initial equipment cost.\nDetectors can be expensive to repair or replace.\nElectronic faults can interrupt imaging.\nImage quality can be affected by detector artefacts and calibration problems.\nEasy image processing may conceal overexposure, so radiation exposure must still be monitored carefully.\nDisadvantages of DR"
+  },
+  {
+    "id": "q606",
+    "lecture": 3,
+    "page": 43,
+    "stem": "Which conventional processing requirement is eliminated in the digital workflow described on the advantages slide?",
+    "options": [
+      "Radiation protection practices",
+      "Selection of exposure factors",
+      "Photographic film and chemical processing",
+      "Patient identification"
+    ],
+    "answer": 2,
+    "explanation": "The slide states that digital processing requires neither conventional photographic film nor chemical processing. Its final paragraph still identifies exposure factors, detector performance and radiation protection as essential.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "There is no need for conventional photographic film or chemical processing.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Images are available quickly.\nImage brightness and contrast can be adjusted after exposure.\nImages can be stored and retrieved electronically.\nImages can be transmitted easily between healthcare facilities.\nThere is no need for conventional photographic film or chemical processing.\nDigital workflows can improve efficiency and reduce repeat examinations when properly managed.\nImportant: Digital processing does not automatically reduce radiation dose. Appropriate exposure factors, detector performance and radiation protection practices remain essential.\nAdvantages of digital X-ray processing"
+  },
+  {
+    "id": "q607",
+    "lecture": 4,
+    "page": 24,
+    "stem": "Which material is listed as a possible radiotransparent interspace between grid lead strips?",
+    "options": [
+      "Lead foil",
+      "Aluminum",
+      "Tungsten target material",
+      "Silver bromide emulsion"
+    ],
+    "answer": 1,
+    "explanation": "The grid description names organic compound or aluminum as interspace materials. This tests the material between the absorbing lead strips, rather than the previously tested strip material or grid ratio.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "interspace radio parent   materials mostly made of organic compound or aluminum",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "ANTI SCATTERED GRID\nThis is a device place between the patient and the image receptor to absorbed scattered radiation from getting to the receptor while allowing the primary x ray beam  that traverse the patient to reach the detector. It comprise of a thin strip of lead separated by some interspace radio parent   materials mostly made of organic compound or aluminum. It operates on the principle that scattered radiation are moving perpendicular to the direction of  primary beam and  are absorbed  by the lead strip\nGrid ratio is a statement of the height of the lead strip to the distance of the interspace materials. This tells more of the efficacy of the grid. There are different types of grid\nLinear grid: The lead strip are parallel to each other in their longitudinal axis."
+  },
+  {
+    "id": "q608",
+    "lecture": 4,
+    "page": 27,
+    "stem": "A department needs an X-ray unit that moves between hospital locations. Which category matches the lecture?",
+    "options": [
+      "Static",
+      "Floor-mounted static only",
+      "Mobile",
+      "Ceiling-mounted static only"
+    ],
+    "answer": 2,
+    "explanation": "The mobile category is explicitly described as movable within the department or hospital. The static category is described separately as ceiling- or floor-mounted equipment.",
+    "difficulty": "Application",
+    "sourceExcerpt": "MOBILE :- This can be moved from one place to another within the department or hospital",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "PORTABLE :- This has a stationary anode x ray tube, its power ranges from 40 -80kvp and 50- 100mA can only be used for extremities . More so it can be dismantled and easily carried to places\nMOBILE :- This can be moved from one place to another within the department or hospital , it has low power rating 50-100kvp and 50-200mA, It has a HT generator within its assembly , it can be battery powered or plug into direct Ac supply of 240V. It has a rotational anode.\nSTATIC :- This has a higher power rating (40-120kvp and 50-500mA) with a dual focus and a rotating anode assembly. It can be ceiling or floor mounted. Its suitable for a variety of examinations. Its limitation are required a large space , requires additional source of power 415V , expensive to purchase and installed\nTYPES OF X RAY MACHINES"
+  },
+  {
+    "id": "q609",
+    "lecture": 4,
+    "page": 20,
+    "stem": "Which accessory is described as using the thermal effect of current to protect equipment against high current?",
+    "options": [
+      "Beam-centering aid",
+      "Relay",
+      "Image-receptor tray",
+      "Collimator"
+    ],
+    "answer": 1,
+    "explanation": "The relay entry specifically mentions the thermal effect of electric current. The question asks for the device as described in the supplied equipment notes.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "RELAY:-This device protect the equipment against high current using the thermal effect of electric current.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "RELAY:-This device protect the equipment against high current using the thermal effect of electric current.\nCIRCUIT BREAKER:- This protect the equipment from abnormal power supply by discontinue the circuit.\nOTHER EQUIPMENT ACCESSORIES IN THE X RAY CIRCUITRY"
+  },
+  {
+    "id": "q610",
+    "lecture": 4,
+    "page": 19,
+    "stem": "Which accessory permits or stops current flow when operated to turn equipment on or off?",
+    "options": [
+      "Anti-scatter grid",
+      "Filament",
+      "Switch",
+      "Beam filter"
+    ],
+    "answer": 2,
+    "explanation": "The switches entry describes permitting and stopping current flow to turn equipment on or off. This is a control function, distinct from restricting the radiation field or filtering the beam.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "SWITCHES:- This device allows the flow of current to the circuit when operated and disallow the flow of current when stopped.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "FUSE:- This is a device that safeguard electrical equipment from excessive high current by breaking the circuit in the cause of a high voltage supply.\nSWITCHES:- This device allows the flow of current to the circuit when operated and disallow the flow of current when stopped. Its used to ON and Off the equipments.\nINTERLOCKS:- This  delay the exposure in situation the anode rotation is not adequate thereby protect the tube from damage. Also in circumstances of power fluctuations, the interlocks disallow the exposure. Its fixed in the anode stator circuitry. It protect the tube against power overload , insufficient rotation of the anode\nOTHER EQUIPMENT ACCESSORIES IN THE X RAY CIRCUITRY"
+  },
+  {
+    "id": "q611",
+    "lecture": 5,
+    "page": 10,
+    "stem": "Gelatin particles must be removed from circulating processor solutions. Which subsystem is assigned this task in the notes?",
+    "options": [
+      "Anatomical marker holder",
+      "Cassette-loading sleeves",
+      "Film receiving bin",
+      "Circulation or recirculation system"
+    ],
+    "answer": 3,
+    "explanation": "The circulation system is explicitly assigned filtration of gelatin particles as well as pumping and agitation. This question focuses on removal of suspended material rather than the already tested maintenance of uniform bath conditions.",
+    "difficulty": "Application",
+    "sourceExcerpt": "Circulation / recirculation system:  Continuously pumps and agitates the developer and fixer solution to prevent thermal stratification, filter out gelatin particles, and maintain chemical homogeneity .",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Temperature control system:  Uses immersion heaters, thermostats, and heat exchangers to precisely regulate and maintain the developer solution at 33C to 35C ( 92C to 96C ).\nCirculation / recirculation system:  Continuously pumps and agitates the developer and fixer solution to prevent thermal stratification, filter out gelatin particles, and maintain chemical homogeneity ."
+  },
+  {
+    "id": "q612",
+    "lecture": 5,
+    "page": 22,
+    "stem": "Before measuring optical-density steps, which QA action creates the control-film exposure described in the lecture?",
+    "options": [
+      "Measure developer temperature with a thermometer",
+      "Inspect the water filter",
+      "Expose a control film using sensitometry",
+      "Measure replenisher volume"
+    ],
+    "answer": 2,
+    "explanation": "The source sequence exposes a control film using sensitometry, then processes it and measures optical-density steps. This asks about creating the exposure rather than the densitometer used for the later measurement.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Sensitometry and Densitometry:  Expose a control film using a sensitometry, process it , and measure the optical density steps",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "9. QUALITY ASSURANCE ( Q A )\nA. DAILY Q A PROTOCOLS:\nSensitometry and Densitometry:  Expose a control film using a sensitometry, process it , and measure the optical density steps ( Base + fog , speed index , contrast index ) using a densitometer to confirm chemical stability.\nTemperature verification:  manually check that the developer temperature matches the digital readout.\nCrossover Roller Cleaning: Wipe down the crossover assembles first thing in the morning."
+  },
+  {
+    "id": "q613",
+    "lecture": 5,
+    "page": 3,
+    "stem": "Besides dissolving unexposed silver halide, what action is assigned to the automatic processor's fixer tank?",
+    "options": [
+      "Converting screen light to electrical charge",
+      "Hardening the gelatin emulsion",
+      "Generating the latent image with X-rays",
+      "Heating the cathode filament"
+    ],
+    "answer": 1,
+    "explanation": "The fixer-tank description explicitly includes hardening the gelatin emulsion. This is an additional stated function, separate from the removal of unexposed silver halide already tested elsewhere.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Fixer Tank : Dissolves unexposed / underdeveloped silver halide and hardens the gelatin emulsion.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Processing tanks:  Compartments holding temperature – controlled solutions for developing , fixing , and washing:\nDeveloper Tank:  converts exposed silver halide crystals into black metallic silver ( typically maintained around 33 C / 96 F ).\nFixer Tank : Dissolves unexposed / underdeveloped silver halide and hardens the gelatin emulsion.\nWash Tank: Uses circulating water to flush away residual processing chemicals.\nRecirculation and filtration system: continuously agitates, mixes ,  filters , and maintains even temperatures across the chemical baths."
+  },
+  {
+    "id": "q614",
+    "lecture": 5,
+    "page": 11,
+    "stem": "Which components are named as parts of the automatic processor's dryer system?",
+    "options": [
+      "Photomultiplier tube and laser scanner",
+      "Developer and fixer replenisher pumps",
+      "High-velocity blower and heating elements",
+      "Cathode and anode"
+    ],
+    "answer": 2,
+    "explanation": "The dryer-system description identifies a high-velocity blower and heating elements. These are dryer components rather than detector readout parts, tube electrodes or chemical replenishment equipment.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Dryer system:  Uses a high – velocity blower, heating elements",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Water system:  Supplies fresh , flowing water to rinse chemical residues from the film, preventing  archival degradation ( hypo-retention strains  ).\nDryer system:  Uses a high – velocity blower, heating elements ( 40C to 65C ), and air tubs to evaporate remaining surface moisture from the film.\n[ feed tray ] > [ developer Tank ] > [ Fixer Tank] > [ Wash Tank ] > [ Dryer Chamber ] > [ Receiving Bin ]."
+  },
+  {
+    "id": "q615",
+    "lecture": 6,
+    "page": 16,
+    "stem": "How should film be attached to a hanger at the start of the manual technique described?",
+    "options": [
+      "By folding the centre over a rod",
+      "By holding only one unsupported wet edge",
+      "By rubbing the wet emulsion onto a rack",
+      "By its corners on a clean, dry hanger"
+    ],
+    "answer": 3,
+    "explanation": "The first technique step specifies clipping film by its corners to a clean, dry hanger. This asks about initial attachment, rather than subsequent agitation or air-bell removal.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Clip the film by its corners on a clean, dry hanger",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Manual processing technique\nClip the film by its corners on a clean, dry hanger\nLower it smoothly into the developer and start the timer\nAgitate at the start and tap to release air bells\nDrain, rinse, then fix for the full time\nWash in running water and dry without touching the surface\nKey point: Smooth, timed, clean handling prevents most artifacts."
+  },
+  {
+    "id": "q616",
+    "lecture": 6,
+    "page": 17,
+    "stem": "A developer bath is cooler than the stated standard condition. Which effect is described in the lecture?",
+    "options": [
+      "No change in development",
+      "Instant complete fixation",
+      "Slower action with underdevelopment",
+      "Faster action with increased fog"
+    ],
+    "answer": 2,
+    "explanation": "The time-and-temperature slide states that a cooler bath works slowly and under-develops. It contrasts this with faster action and possible fog in a warmer bath.",
+    "difficulty": "Application",
+    "sourceExcerpt": "A cooler bath works slowly and under-develops",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Time and temperature control\nStandard development is about 5 minutes at 20 °C\nA warmer bath works faster and may fog the film\nA cooler bath works slowly and under-develops\nUse a thermometer and a timer for every film\nKey point: Time and temperature must always be read together."
+  },
+  {
+    "id": "q617",
+    "lecture": 6,
+    "page": 18,
+    "stem": "Which arrangement of stirring equipment is specified for the separate manual processing tanks?",
+    "options": [
+      "Each tank has its own stirring rod",
+      "Stirring rods are replaced by anatomical markers",
+      "One rod is shared between all tanks without cleaning",
+      "Only the wash tank has a rod"
+    ],
+    "answer": 0,
+    "explanation": "The tank-arrangement slide specifies a separate lid and stirring rod for each tank. This tests the equipment allocation stated alongside the one-way processing path.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Each tank has its own lid and stirring rod",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Tank arrangement\nTanks sit in a line: developer, rinse, fixer, wash\nFilm never travels back over a tank it has left\nEach tank has its own lid and stirring rod\nWash tank sits last, with running water\nKey point: A one-way path protects each solution from contamination."
+  },
+  {
+    "id": "q618",
+    "lecture": 6,
+    "page": 53,
+    "stem": "Which action is identified as essential for silver conservation before recovery is even needed?",
+    "options": [
+      "Add more fixer after every exposure regardless of need",
+      "Discard all used film immediately",
+      "Reduce repeat exposures through correct exposure technique",
+      "Increase avoidable repeat examinations"
+    ],
+    "answer": 2,
+    "explanation": "The conservation slide explicitly links correct exposure technique and fewer repeats with silver conservation. This tests prevention of waste, rather than the already tested methods of recovering silver from used fixer.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Key point:. Reduce repeats with correct exposure technique is essential for silver conservation",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Silver Recovery and Conservation\nSilver recovery and conservation involve reclaiming precious metallic silver from used or discarded xray films.\nWhy recover silver?\nUsed fixer carries dissolved silver from unexposed halide\nSilver has real economic value\nSilver is toxic to aquatic life, so it must not go down drains\nRegulations often require recovery or safe disposal\nKey point:. Reduce repeats with correct exposure technique is essential for silver conservation"
+  },
+  {
+    "id": "q619",
+    "lecture": 7,
+    "page": 27,
+    "stem": "What separates the conductive plates of a capacitor in the lecture's construction description?",
+    "options": [
+      "An X-ray target",
+      "A continuous metal bridge",
+      "An insulating dielectric",
+      "A film emulsion layer"
+    ],
+    "answer": 2,
+    "explanation": "The capacitor definition specifies two conductive plates separated by an insulating dielectric. This asks about construction, rather than the unit of capacitance already covered by an existing question.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "two conductive plates separated by an insulating material ( a dielectric )",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "CAPACITANCE:\nDefinition: The ability of a component or circuit to store electrical energy in the form of an electrical charge measured in Farads ( F )\nExample: A camera flash unit uses a capacitor to store charge rapidly and then release it all at once to produce a bright , instantaneous burst of light.\nCAPACITORS:\nDefinition: Passive electric components made of two conductive plates separated by an insulating material ( a dielectric ), designed to temporarily store and discharge electrical energy."
+  },
+  {
+    "id": "q620",
+    "lecture": 7,
+    "page": 10,
+    "stem": "Which radiation weighting factor is given for photons and electrons in the source slide?",
+    "options": [
+      "1",
+      "5",
+      "20",
+      "2"
+    ],
+    "answer": 0,
+    "explanation": "The weighting-factor statement assigns a value of 1 to photons and electrons. Other values on the same slide are assigned to other radiation types, so the particle category matters.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "photons and electrons have WR =1",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "RADIATION WEIGHTING FACTORS (WR):  photons and electrons have WR =1, protons have WR =2 to 5, and alpha particles/ heavy fragments have WR =20 (causing 20 times more biological damage for the same absorbed energy in Gray)\nNATURAL ATOMIC UNITS’ SYSTEM (Hartree Units)\nIn theoretical atomic physics and quantum chemistry fundamental physical constants are set equal to 1(n= Me = e=4TEσ = 1) to simplify quantum mechanical equations:\nAtomic Unit of length (Bohr Radius, ao):\nao =  = (4𝑇𝐸𝑜)/(T ½  )"
+  },
+  {
+    "id": "q621",
+    "lecture": 7,
+    "page": 46,
+    "stem": "A nominal 12 V battery reads about 11.5 V while powering the headlights and engine. What explanation is given in the notes?",
+    "options": [
+      "Complete absence of current",
+      "Internal resistance",
+      "Conversion of volts into farads",
+      "Zero resistance throughout the circuit"
+    ],
+    "answer": 1,
+    "explanation": "The loaded-battery example attributes the lower terminal voltage to internal resistance. This tests the explanation for that specific voltage drop, rather than the definition of potential difference.",
+    "difficulty": "Application",
+    "sourceExcerpt": "which drops slightly below 12 v ( eg 11.5 v ) because of internal resistance.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Examples:\nThe voltage measured across an active light bulb shinig in a circuit ( eg. 1.2 v dropped across the filament ).\nThe voltage drop across a resistor in a phone charger circuit.\nThe terminal voltage of a 12 v car battery while the headlights and engine are turned on , which drops slightly below 12 v ( eg 11.5 v ) because of internal resistance."
+  },
+  {
+    "id": "q622",
+    "lecture": 7,
+    "page": 47,
+    "stem": "In the comparison table, what happens to a source's EMF when current is zero?",
+    "options": [
+      "It is measured in ohms instead of volts",
+      "It must always become zero",
+      "It changes into electric current",
+      "It remains present as the open-circuit voltage"
+    ],
+    "answer": 3,
+    "explanation": "The EMF column says that EMF remains present when current is zero, equal to the open-circuit voltage. The question is confined to that source-column statement in the comparison table.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "When current is zero      Present ( equal to open                zero\nCircuit voltage )",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "QUICK COMPARISM\nFEATURE                                          E M F                                         P D\nWhat it represents          Energy provided to charges        Energy used by a component\nBy a source                                     or load\nScope                                The entire circuit/ source             Between any two points in a circuit\nWhen current is zero      Present ( equal to open                zero\nCircuit voltage )\nUnit                                     Volts ( V )                                         Volts ( V )."
+  },
+  {
+    "id": "q623",
+    "lecture": 8,
+    "page": 16,
+    "stem": "Which set contains the four muscles named as the principal contents of the pectoral region?",
+    "options": [
+      "Deltoid, teres major, supraspinatus and infraspinatus",
+      "Biceps, brachialis, triceps and anconeus",
+      "Pectoralis major, pectoralis minor, subclavius and serratus anterior",
+      "Rhomboids, levator scapulae, trapezius and latissimus dorsi"
+    ],
+    "answer": 2,
+    "explanation": "The pectoral-region introduction names these four muscles together. This tests regional membership, distinct from earlier questions about individual muscle attachments and actions.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "It contains primarily four muscles: the pectoralis major and minor, subclavius and serratus anterior",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "The pectoral region\nThis is the most anterior  part of the upper chest wall\nIt contains primarily four muscles: the pectoralis major and minor, subclavius and serratus anterior\nThe muscles act to stabilize the shoulder and upper limb\nAnd also bears the breast and wall of the axilla\n18/10/2026 08:13\n16"
+  },
+  {
+    "id": "q624",
+    "lecture": 8,
+    "page": 30,
+    "stem": "How many metacarpals are listed in one hand?",
+    "options": [
+      "5",
+      "14",
+      "8",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "The hand description lists five metacarpals. Eight refers to the carpals and fourteen to the phalanges, so those numbers describe different bone groups.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "It consists of 8 carpal bones, 5 metacarpals and 14 phalanges",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "The hand\nThe hand is a musculoskeletal region\nIt consists of 8 carpal bones, 5 metacarpals and 14 phalanges, as well muscles and tendons\nMuscles: extrinsic and intrinsic groups\nThe extrinsic groups arise from both medial (flexors) and lateral (extensors) epicondyles\nThey cross the wrist through the carpal tunnel deep to the flexor retinaculum\nThe Intrinsic groups:\nThenar group: Form the base of the thumb (abductor pollicis brevis, flexor pollicis brevis, opponens pollicis)\nHypothenar group: Form the base of the little finger (abductor, flexor, and opponens digiti minimi)\nMidpalmar group: Includes the lumbricals and interossei (dorsal and palmar)\n18/10/2026 08:13\n30"
+  },
+  {
+    "id": "q625",
+    "lecture": 8,
+    "page": 30,
+    "stem": "Which three muscles make up the thenar group in the hand description?",
+    "options": [
+      "Abductor pollicis brevis, flexor pollicis brevis and opponens pollicis",
+      "Abductor digiti minimi, flexor digiti minimi and opponens digiti minimi",
+      "Dorsal interossei, palmar interossei and lumbricals",
+      "Pectoralis major, pectoralis minor and subclavius"
+    ],
+    "answer": 0,
+    "explanation": "The thenar-group entry names abductor pollicis brevis, flexor pollicis brevis and opponens pollicis. This tests the named constituents rather than the already tested location at the thumb base.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Thenar group: Form the base of the thumb (abductor pollicis brevis, flexor pollicis brevis, opponens pollicis)",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "The hand\nThe hand is a musculoskeletal region\nIt consists of 8 carpal bones, 5 metacarpals and 14 phalanges, as well muscles and tendons\nMuscles: extrinsic and intrinsic groups\nThe extrinsic groups arise from both medial (flexors) and lateral (extensors) epicondyles\nThey cross the wrist through the carpal tunnel deep to the flexor retinaculum\nThe Intrinsic groups:\nThenar group: Form the base of the thumb (abductor pollicis brevis, flexor pollicis brevis, opponens pollicis)\nHypothenar group: Form the base of the little finger (abductor, flexor, and opponens digiti minimi)\nMidpalmar group: Includes the lumbricals and interossei (dorsal and palmar)\n18/10/2026 08:13\n30"
+  },
+  {
+    "id": "q626",
+    "lecture": 8,
+    "page": 34,
+    "stem": "Which pair is listed under dorsal spaces of the hand?",
+    "options": [
+      "Dorsal subcutaneous and dorsal subaponeurotic spaces",
+      "Carpal tunnel and cubital fossa",
+      "Thenar and midpalmar spaces",
+      "Axilla and anatomical snuffbox"
+    ],
+    "answer": 0,
+    "explanation": "The dorsal-spaces slide lists dorsal subcutaneous and dorsal subaponeurotic spaces. This asks for the names supplied on that slide rather than the general clinical importance of fascial spaces.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Dorsal spaces:\nDorsal Subcutaneous Space\nDorsal Subaponeurotic Space",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Hand compartments and spaces\nDorsal spaces:\nDorsal Subcutaneous Space\nDorsal Subaponeurotic Space\n18/10/2026 08:13\n34"
+  },
+  {
+    "id": "q627",
+    "lecture": 9,
+    "page": 20,
+    "stem": "For a child, who is identified as providing consent in the special-cases slide?",
+    "options": [
+      "Any member of the public",
+      "Parent or guardian",
+      "The equipment supplier",
+      "An unrelated waiting-room patient"
+    ],
+    "answer": 1,
+    "explanation": "The special-cases slide identifies a parent or guardian as the person providing consent for children. The question follows that supplied teaching statement without adding legal rules beyond the slide.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Children: parent or guardian consents",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Consent in Special Cases\nChildren: parent or guardian consents\nUnconscious patients: emergency doctrine applies\nMentally impaired: next of kin or legal guardian\nDocument every case in case of litigation"
+  },
+  {
+    "id": "q628",
+    "lecture": 9,
+    "page": 20,
+    "stem": "What documentation step is required across the consent special cases described in the lecture?",
+    "options": [
+      "Record only cases with a normal radiograph",
+      "Document every case",
+      "Avoid documenting the consent process",
+      "Rely only on an informal verbal handover"
+    ],
+    "answer": 1,
+    "explanation": "The slide closes by instructing documentation of every case. This is a record-keeping requirement separate from the question of who provides consent.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Document every case in case of litigation",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Consent in Special Cases\nChildren: parent or guardian consents\nUnconscious patients: emergency doctrine applies\nMentally impaired: next of kin or legal guardian\nDocument every case in case of litigation"
+  },
+  {
+    "id": "q629",
+    "lecture": 9,
+    "page": 38,
+    "stem": "Which two follow-up actions are listed for occupational dose monitoring?",
+    "options": [
+      "Store readings without review and ignore excess readings",
+      "Review dosimeter readings regularly and report any overexposure",
+      "Review only the patient's exposure settings",
+      "Replace monitoring with image reject analysis alone"
+    ],
+    "answer": 1,
+    "explanation": "The monitoring slide explicitly pairs regular review of dosimeter readings with reporting overexposure. This tests the monitoring actions rather than the name of the monitoring device.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Review dosimeter readings regularly\nReport any overexposure",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Dose Limits and Monitoring\nOccupational limit: 20 mSv per year (five-year average)\nPublic limit: 1 mSv per year\nReview dosimeter readings regularly\nReport any overexposure"
+  },
+  {
+    "id": "q630",
+    "lecture": 9,
+    "page": 41,
+    "stem": "Which equipment should be kept ready according to the emergency-response slide?",
+    "options": [
+      "Oxygen and suction",
+      "Only the developer and fixer tanks",
+      "Only the densitometer and sensitometer",
+      "Only the film hopper and cassette hatch"
+    ],
+    "answer": 0,
+    "explanation": "The emergency-response slide specifically requires oxygen and suction to be ready. This question concerns equipment readiness rather than the separate response to a contrast reaction already tested in the bank.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Keep oxygen and suction ready",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Emergency Response\nKnow where the crash trolley is to get emergency drugs\nKnow the emergency number and team call\nBasic Life Support: check for responsiveness, call for help, compress the chest about 100 to 120 times per minute\nKeep oxygen and suction ready"
+  },
+  {
+    "id": "q631",
+    "lecture": 10,
+    "page": 5,
+    "stem": "For the PA thumb position described, what angle should the palmar aspect of the hand make with the film?",
+    "options": [
+      "90 degrees",
+      "30 degrees",
+      "15 degrees",
+      "45 degrees"
+    ],
+    "answer": 2,
+    "explanation": "The PA thumb instructions call for medial hand rotation until the palmar aspect is 15 degrees to the film. This angle differs from the oblique-hand rotation described later in the deck.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Rotate hand medially until palmar aspect is 15 degree to film",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "THUMB\nProjections\nPA or AP and Lateral\nPatient’s Positioning for PA Thumb\nSeat patient alongside the X-ray couch\nExtend arm, wrist and forearm\nPlace medial border of the hand on the film\nRotate hand medially until palmar aspect is 15 degree to film\nExtend thumb and rest on a small radiolucnt pad\nAvoid exerting pressure on thenar eminence\nImmobilze hand with sandbag\nPlace anatomical marker\nCollimate beam properly\nDirection of Central Ray and Centring Point\nDCR: Vertical\nCP: Metacarpophalangeal joint of the thumb\nNOTE: Increase the FFD to compensate for the large OFD"
+  },
+  {
+    "id": "q632",
+    "lecture": 10,
+    "page": 8,
+    "stem": "How much external rotation from PA is described for the lateral hand position?",
+    "options": [
+      "15 degrees",
+      "90 degrees",
+      "45 degrees",
+      "30 degrees"
+    ],
+    "answer": 1,
+    "explanation": "The lateral-hand section specifies 90 degrees of external rotation from PA. This tests the movement into lateral, rather than its already tested styloid alignment or foreign-body indication.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "From the PA position, the hand is externally rotated 90 degrees",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patients’ Positioning for Lateral Hand\nFrom the PA position, the hand is externally rotated 90 degrees\nThe palm of the hand is perpendicular to the cassette with the fingers extended and thumb abducted and supported parallel to the film on radio-opaqe pad\nThe radial and ulnar styloid processes are superimposed\nDCR: Vertical\nCP: Over the head of the SECOND metacarpal\nNote: This projection is commonly done to identify the foreign bodies.\nPatients’ Positioning for  Anteroposterior (AP) both Hands(Ball Catcher)\nThe patient may seat facing the table\nBoth forearms are supinated and placed on the table with the dorsal surface of the hands in contact with the cassette\nFrom this position, both hands are rotated medially 45 degree into a Ball-catching position\nThe fingers and thumb are separated\nImmobilized the lower forearms with sandbag\nPlace anatomical marker and collimate beam, and apply protection\nDCR: Vertical\nCP: A point midway between the hands at the level of the FIFTH metacarpophalangeal joint."
+  },
+  {
+    "id": "q633",
+    "lecture": 10,
+    "page": 8,
+    "stem": "Where is the ball-catcher projection centred in the supplied notes?",
+    "options": [
+      "Over the third metacarpal of one hand only",
+      "At the lateral epicondyle of the humerus",
+      "Over the radial styloid of one wrist only",
+      "Midway between the hands at the fifth metacarpophalangeal-joint level"
+    ],
+    "answer": 3,
+    "explanation": "The ball-catcher section centres between the hands at the level of the fifth metacarpophalangeal joints. This is a bilateral centring instruction, separate from the rotation used to create the position.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP: A point midway between the hands at the level of the FIFTH metacarpophalangeal joint.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patients’ Positioning for Lateral Hand\nFrom the PA position, the hand is externally rotated 90 degrees\nThe palm of the hand is perpendicular to the cassette with the fingers extended and thumb abducted and supported parallel to the film on radio-opaqe pad\nThe radial and ulnar styloid processes are superimposed\nDCR: Vertical\nCP: Over the head of the SECOND metacarpal\nNote: This projection is commonly done to identify the foreign bodies.\nPatients’ Positioning for  Anteroposterior (AP) both Hands(Ball Catcher)\nThe patient may seat facing the table\nBoth forearms are supinated and placed on the table with the dorsal surface of the hands in contact with the cassette\nFrom this position, both hands are rotated medially 45 degree into a Ball-catching position\nThe fingers and thumb are separated\nImmobilized the lower forearms with sandbag\nPlace anatomical marker and collimate beam, and apply protection\nDCR: Vertical\nCP: A point midway between the hands at the level of the FIFTH metacarpophalangeal joint."
+  },
+  {
+    "id": "q634",
+    "lecture": 10,
+    "page": 12,
+    "stem": "Which profile check is explicitly required for the axial carpal-tunnel projection?",
+    "options": [
+      "The carpal region should be in profile",
+      "The metatarsal heads should be superimposed",
+      "The elbow epicondyles should be outside the field",
+      "The humeral head should be in profile"
+    ],
+    "answer": 0,
+    "explanation": "The axial carpal-tunnel instructions explicitly require the carpal region to be in profile. The question tests this positioning check rather than the midcarpal centring point already covered.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Ensure that the carpal region is in profile",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patient’s Positioning for Superoinferior (Axial) projection for carpal tunnel\nStand the patient with the back to the X-ray table and extend arm\nFlex elbow and wrist, and with the fingers and thumb well separated press the hand palm down on to a film near the edge of the couch.\nEnsure that the carpal region is in profile\nImmobilize the hand with a foam pad if necessary\nPlace anatomical marker(R or L)\nCollimate beam and apply protection\nDCR: Vertical\nCP: Midcarpal region\nCassette size: 24x18cm\nFOREARM\nProjections\nAnteroposterior (AP)\nLateral\nPatient’s Positioning for AP Forearm\nSeat the patient alongside the X-ray couch with shoulder at the couch level.\nPlace forearm fully supinated with elbow extended\nInclude wrist and elbow if possible using long cassette size\nPlace anatomical marker(R or L)\nCollimate beam and apply protection"
+  },
+  {
+    "id": "q635",
+    "lecture": 10,
+    "page": 18,
+    "stem": "During the inferosuperior arm position, how are the patient and head initially placed?",
+    "options": [
+      "Prone with the head turned towards the affected side",
+      "Supine with the head turned away from the affected side",
+      "Seated with the head resting on the affected shoulder",
+      "Standing with the chin over the affected arm"
+    ],
+    "answer": 1,
+    "explanation": "The inferosuperior section begins with a supine patient and the head turned away from the affected side. The question uses that clear initial-position instruction, rather than the separate lateral-arm section above it.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Patient lie supine on the couch and turn head away from the affected side.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Patient’s Positioning for Lateral Arm\nStand or sit the patient facing towards the chest stand or upright cassette holder.\nSlightly  abduct and extend the arm and flex elbow\nRotate trunk away from the affected side until lateral aspect of the humerus rest on the film\nInclude shoulder and elbow.\nPlace anatomical marker(R or L)\nCollimate beam and apply protection\nDCR: Horizontal or Vertical(If patient lying down supine)\nCP: Medial aspect of the humerus midway between the shoulder and elbow joints\nCassette Size\n24x18cm(10x8inch) or 30x24cm(12x10inch), 43x35cm(17x14inch)\nExposure factors\nKvp: 55-70, mAs:10-12 and FFD: 100cm\nPatient’s Positioning for  Inferosuperior Projection of Arm\nPatient lie supine on the couch and turn head away from the affected side.\nFully abduct arm if possible and support in a comfortable position\nVertically support cassette above the shoulder include upper humerus\nImmobilize the arm\nPlace anatomical marker(R or L)\nCollimate beam and apply protection\nDCR: Horizontal or Vertical(If patient lying down supine)\nCP: Head of humerus through the axial"
+  },
+  {
+    "id": "q636",
+    "lecture": 11,
+    "page": 2,
+    "stem": "For dorsiplantar toes, what support is described to immobilize the examined foot?",
+    "options": [
+      "The knee of the opposite leg",
+      "A weight suspended from the toes",
+      "The patient's elbow",
+      "An unsupported heel hanging off the couch"
+    ],
+    "answer": 0,
+    "explanation": "The dorsiplantar toe instructions describe using the other knee to support and immobilize the examined side. This tests the stated support method rather than foot-surface contact.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Support the side under examination with knee of the other leg to immobilize foot",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "TOES\nIndications\nFractures, dislocations, pain , swollen, pathologies, foreign bodies, RTA, trauma, assault\nPatients’ Preparations\nProper identification\nExplain the procedures to the patient\nReassure the patient\nRemove materials around the fingers and hand\nProjections\nDorsiplantar (anteroposterior)\nDorsiplantar (anteroposterior)Oblique\nLateral\nPatient’s Positioning\nDorsiplantar (AP)\nPatient seat on the X-ray couch with knees flexed\nPlace plantar aspect of the affected foot on film\nSupport the side under examination with knee of the other leg to immobilize foot\nPlace anatomical marker (R or L)"
+  },
+  {
+    "id": "q637",
+    "lecture": 11,
+    "page": 3,
+    "stem": "Which film focal distance is listed for the dorsiplantar toe technique on this slide?",
+    "options": [
+      "150 cm",
+      "50 cm",
+      "200 cm",
+      "100 cm"
+    ],
+    "answer": 3,
+    "explanation": "The dorsiplantar toe technique lists an FFD of 100 cm. This is a recall question about the supplied lecture value, rather than a general prescription for every imaging system.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Film Focal Distance(FFD): 100cm",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Collimate beam properly\nApply protection\nCassette Size\n13x18cm or 24x18cm split using lead rubber divider\nDirection of Central Ray and Centring Point\nDCR: Vertical 90 degree\nCP: Head of THIRD metatarsal or the individual toe under examination.\nExposure Factors\nmAs: 1.5-2.5\nKvP: 50-55\nFilm Focal Distance(FFD): 100cm\nLateral Projection for Toes\nLie the patient on the X-ray couch on the affected side with the hip and knee flexed\nRest the unaffected leg in a comfortable position in front of or behind the affected leg.\nPlace the foot in the true lateral position with the knee raised on a pad and the film under the toes\nImmobilize the foot"
+  },
+  {
+    "id": "q638",
+    "lecture": 11,
+    "page": 7,
+    "stem": "For the AP ankle setup, how are the legs initially arranged in the notes?",
+    "options": [
+      "Both knees fully flexed with feet crossed",
+      "Legs extended with the unaffected leg abducted",
+      "Prone with the unaffected leg over the examined ankle",
+      "Standing with both knees touching the cassette"
+    ],
+    "answer": 1,
+    "explanation": "The AP ankle section starts with the patient seated, legs extended and unaffected leg abducted. This tests initial leg arrangement rather than malleolar alignment or ankle centring.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Patient seat on the X-ray couch with legs extended and unaffected leg abducted.",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Lateral Projection for Foot\nSeat the patient on the X-ray couch on the affected side with the hip and knee flexed\nRest the unaffected leg in a comfortable position in front of or behind the affected leg.\nPlace the foot in the true lateral position with the knee raised on a pad\nImmobilize the foot\nCollimate Beam and apply protection\nPlace anatomical marker (R or L)\nDCR:: Vertical or Horizontal (if cassette is placed at the lateral part of the foot in case of pes planus[Flat foot])\nCP: Cuboid-navicular area of foot.\nANKLE\nPatient Positioning for Anteroposterior\nPatient seat on the X-ray couch with legs extended and unaffected leg abducted.\nPlace the ankle on the film-cassette with the joint flexed 90 degrees\nRotate the ankle medially until both malleoli are equidistant from the couch top.\nImmobilize the sole of the foot with a pad and sandbag\nPlace anatomical marker (R or L)\nCollimate beam and apply protection\nDCR: Vertical\nCP: Midway between the malleoli\nCassette size  : 12x10inch or 10x8inch"
+  },
+  {
+    "id": "q639",
+    "lecture": 11,
+    "page": 10,
+    "stem": "What degree of knee flexion is described when placing the affected knee for the AP knee projection?",
+    "options": [
+      "Slight flexion",
+      "No flexion under any circumstances",
+      "Full flexion until the heel touches the buttock",
+      "A mandatory 90-degree bend"
+    ],
+    "answer": 0,
+    "explanation": "The AP knee instructions call for slight joint flexion. This is a positioning detail distinct from the already tested patellar alignment and centring point.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "Place the affected knee on the film and flex the joint slightly",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Exposure factors:\nKvp: 55-70\nmAs: 5-8\nFFD/SID: 100cm\nNOTE: No use of grid\nKNEE\nAP Projection for  Knee\nLie the patient on the X-ray couch on the affected side with legs extended and unaffected leg abducted\nPlace the affected knee on the film and flex the joint slightly\nEnsure that the patella is central over the femur\nImmobilize the leg\nCollimate beam and apply protection\nPlace anatomical marker (R or L)\nCassette size  : 12x10inch or 10x8inch\nDCR:: Vertical\nCP: 2.5cm below the apex of the patella\nExposure factors\nKvp: 55-75, mAs: 5-10 and FFD: 100cm"
+  },
+  {
+    "id": "q640",
+    "lecture": 11,
+    "page": 11,
+    "stem": "Which centring point is stated for the lateral knee projection in the supplied lecture?",
+    "options": [
+      "Midline skin crease behind the knee",
+      "Middle of the superior border of the medial tibial condyle",
+      "Midway between the ankle malleoli",
+      "2.5 cm below the patellar apex"
+    ],
+    "answer": 1,
+    "explanation": "The lateral-knee section gives the middle of the superior border of the medial tibial condyle as its centring point. The other options belong to separate projections in the same deck.",
+    "difficulty": "Recall",
+    "sourceExcerpt": "CP: Middle of the superior border of the medial tibia condyle",
+    "sourceOrigin": "provided-powerpoint",
+    "sourceEvidence": "Lateral projection for Knee\nLie the patient on the X-ray couch on the affected side with the  knee flexed at 45 or 90 degrees\nRest the unaffected leg in a comfortable position in front of  the affected leg.\nPlace the knee in the true lateral position\nImmobilize the leg and ankle with sandbag.\nCollimate beam and apply protection\nPlace anatomical marker (R or L)\nDCR:: Vertical or Horizontal (if cassette is placed at the lateral part of the leg in case of)\nCP: Middle of the superior border of the medial tibia condyle\nPA for Patella\nPatient lie prone on the table with knee slightly flexed\nFoam pads are placed under the ankle and thigh for support\nThe limb is rotated to centralize the patella\nThe centre of the cassette is the level of the crease of the knee\nImmobile the leg\nPlace anatomical marker\nCollimate\nDCR: Vertical\nCP: In the midline to the skin crease behind the knee"
   }
 ]

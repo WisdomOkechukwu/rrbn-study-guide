@@ -1,6 +1,6 @@
 {
   "reviewType": "Editorial answer-key and source-reference review",
-  "reviewedQuestionCount": 530,
+  "reviewedQuestionCount": 640,
   "originalLectureContentChanged": false,
   "changes": [
     {
@@ -106,5 +106,33 @@
     "source": "Supplied PowerPoints only",
     "method": "Each new keyed answer and explanation is supported by a verbatim excerpt from its cited slide. No external material used.",
     "externalSourcesUsed": false
+  },
+  "techniqueExpansion": {
+    "questionIds": "q531–q590",
+    "count": 60,
+    "courses": {
+      "MXT 209": 36,
+      "MXT 301": 24
+    },
+    "source": "Two supplied 2026 technique PowerPoints only",
+    "externalSourcesUsed": false,
+    "method": "Read all 29 source slides. Set recall and positioning application questions with single best answers, plausible distractors, explanations and verbatim supporting excerpts. Avoid apparent copy-and-paste errors, contradictory units, incomplete statements and follow-up clinical recommendations. Preserve original source wording and existing question IDs."
+  },
+  "lecturerExpansion": {
+    "questionIds": "q591–q640",
+    "count": 50,
+    "source": "Supplied PowerPoints only",
+    "perDeck": {
+      "originalTen": 4,
+      "MXT 209": 5,
+      "MXT 301": 5
+    },
+    "externalSourcesUsed": false,
+    "checks": [
+      "Read cited slide text and reviewed existing stems and correct answers for repeated learning objectives.",
+      "Checked all new stems for duplicate normalized wording across the entire bank.",
+      "Checked every new source excerpt is verbatim on its cited slide and is not reused from an earlier excerpt on that slide.",
+      "Preserved the original 590 question IDs and answer keys."
+    ]
   }
 }

@@ -300,8 +300,13 @@ def normalize_order(root):
 def text_runs(data):return [(t.tag,t.text) for t in E.fromstring(data).iter() if t.tag in [q('a','t'),'{http://schemas.openxmlformats.org/officeDocument/2006/math}t']]
 def main():
  destination=BASE/'public/lectures/redesigned';destination.mkdir(parents=True,exist_ok=True)
+ parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--codes',nargs='+');args=parser.parse_args()
+ selected={code.replace(' ','') for code in args.codes} if args.codes else None
  lectures=json.loads((BASE/'app/data/lectures.json').read_text());report=[]
+ previous={r['lecture']:r for r in json.loads((BASE/'app/data/redesign-report.json').read_text())} if selected else {}
  for lecture in lectures:
+  if selected and lecture['code'].replace(' ','') not in selected:
+   report.append(previous[lecture['name']]);continue
   source=BASE/('public'+lecture['file']);output=destination/source.name
   with zipfile.ZipFile(source) as original:
    meta=E.fromstring(original.read('ppt/presentation.xml'));size=meta.find('p:sldSz',NS);w,h=int(size.get('cx')),int(size.get('cy'));slides=[]
@@ -327,5 +332,5 @@ def main():
   for name in ['Poppins-Regular.ttf','Poppins-SemiBold.ttf','Poppins-Bold.ttf','OFL-Poppins.txt']:
    bundle.write(BASE/'app/fonts'/name,'Fonts/'+name)
   bundle.writestr('READ ME.txt','Restyled lecture copies. All original text runs, diagrams, charts, speaker notes, media, slide count and slide numbering are preserved. Only slide typography, alignment, spacing, and decorative styling were changed. Untouched originals remain in the app. Poppins fonts are included under the Open Font License: install them for the intended heading style. Body text uses Arial for compatibility. These files have been structurally verified; no desktop PowerPoint renderer is installed in this environment.')
- print('Created 10 restyled decks and the complete download bundle.')
+ print(f'Created {len(lectures)} restyled decks and the complete download bundle.')
 if __name__=='__main__':main()

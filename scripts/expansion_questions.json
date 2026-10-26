@@ -1,0 +1,702 @@
+[
+  {
+    "lecture": 0,
+    "page": 14,
+    "stem": "On an anterior view of the proximal femur, which line marks the distal attachment of the hip capsule in the notes?",
+    "options": [
+      "Intertrochanteric line",
+      "Intertrochanteric crest",
+      "Linea aspera",
+      "Gluteal tuberosity"
+    ],
+    "quote": "At its distal attachment, it is attached anteriorly to the intertrochanteric line and root of greater trochanter",
+    "explanation": "The anterior distal capsular attachment is the intertrochanteric line and root of the greater trochanter. The next source sentence distinguishes this from the posterior relationship to the intertrochanteric crest.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 0,
+    "page": 16,
+    "stem": "Which pair supplies the posterior aspect of the hip joint according to the innervation list?",
+    "options": [
+      "Superior gluteal nerve and nerve to quadratus femoris",
+      "Femoral and obturator nerves",
+      "Tibial and deep fibular nerves",
+      "Inferior gluteal and saphenous nerves"
+    ],
+    "quote": "Posterior: superior gluteal n, Nerve to quadratus femoris",
+    "explanation": "The posterior innervation list names the superior gluteal nerve and nerve to quadratus femoris. Femoral and obturator nerves are listed for the anterior aspect, making that pair an anatomical distractor.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 0,
+    "page": 29,
+    "stem": "Which bones form the posterior part of the transverse foot arch in the lecture?",
+    "options": [
+      "Cuboid and cuneiforms",
+      "Talus and calcaneus",
+      "Metatarsal heads alone",
+      "Phalanges alone"
+    ],
+    "quote": "anterior transverse arch (metatarsal bases/heads) and a posterior transverse arch (cuboid and cuneiforms)",
+    "explanation": "The notes distinguish an anterior transverse arch at the metatarsal bases or heads from a posterior transverse arch formed by cuboid and cuneiforms. This question tests the posterior skeletal component, rather than its tendon support.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 0,
+    "page": 15,
+    "stem": "Which fibres of gluteus medius are specifically included among medial rotators of the hip?",
+    "options": [
+      "Anterior fibres",
+      "Posterior fibres only",
+      "All fibres of the hamstrings",
+      "Distal fibres of gastrocnemius"
+    ],
+    "quote": "Medial rotation: anterior fibres of gluteus medius, gluteus minimus, tensior fascia lata",
+    "explanation": "The medial-rotation entry specifically identifies the anterior fibres of gluteus medius. The question distinguishes the movement of those fibres from the previously tested general role of hip abductors.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 1,
+    "page": 31,
+    "stem": "A student is matching roll-film formats to uses. Which use is listed for 70 mm film?",
+    "options": [
+      "Serial spot cameras and photofluorography",
+      "Mass chest screening only",
+      "Positive teaching transparencies",
+      "Reducing document storage size"
+    ],
+    "quote": "70 mm\nSerial spot cameras, photofluorography",
+    "explanation": "The roll-film table pairs 70 mm with serial spot cameras and photofluorography. It gives other widths for cine cameras and mass chest screening, so those applications should not be substituted here.",
+    "difficulty": "Application"
+  },
+  {
+    "lecture": 1,
+    "page": 31,
+    "stem": "Which format is paired specifically with mass miniature radiography in the roll-film table?",
+    "options": [
+      "105 mm",
+      "16 mm",
+      "35 mm",
+      "70 mm"
+    ],
+    "quote": "105 mm\nMass miniature radiography (photofluorography)",
+    "explanation": "The table associates 105 mm with mass miniature radiography, described as photofluorography. This tests a different table entry from the existing questions about 100 mm mass chest screening.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 1,
+    "page": 32,
+    "stem": "A permanent photographic print is required rather than a projection transparency. Which material matches the lecture?",
+    "options": [
+      "Photographic paper",
+      "Slide or reversal film",
+      "Microfilm",
+      "Photostimulable phosphor plate"
+    ],
+    "quote": "Photographic paper-produces permanent photographic prints",
+    "explanation": "Photographic paper is identified as the material for permanent photographic prints. The same slide assigns positive transparencies, document-size reduction and latent-image storage to other materials.",
+    "difficulty": "Application"
+  },
+  {
+    "lecture": 1,
+    "page": 32,
+    "stem": "Which pair of reducing agents is named in the developer description on the photographic-materials slide?",
+    "options": [
+      "Hydroquinone and phenidone",
+      "Acidifier and hardener",
+      "Sodium and ammonium thiosulphate",
+      "Gelatin and polyester"
+    ],
+    "quote": "Developer- reducing agents such as hydroquinone and phenidone in alkaline solution",
+    "explanation": "The developer entry names hydroquinone and phenidone as reducing agents in an alkaline solution. The thiosulphates belong to the fixer description, while gelatin and polyester are film materials.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 2,
+    "page": 21,
+    "stem": "A dataset contains pixel values and image dimensions. Which data category does this represent?",
+    "options": [
+      "Image data",
+      "Patient data",
+      "Examination data",
+      "Diagnostic data"
+    ],
+    "quote": "Image data: Pixel values, image dimensions, brightness values, and contrast information.",
+    "explanation": "Pixel values and image dimensions appear explicitly under image data. They describe the image itself rather than patient demographics, the requested projection or a radiologist's findings.",
+    "difficulty": "Application"
+  },
+  {
+    "lecture": 2,
+    "page": 21,
+    "stem": "A radiologist documents a lung opacity in a report. Which category in the lecture contains this finding?",
+    "options": [
+      "Diagnostic data",
+      "Technical data",
+      "Patient data",
+      "Examination data"
+    ],
+    "quote": "Diagnostic data: Findings documented by the radiologist, such as fractures, lung opacities, or joint abnormalities.",
+    "explanation": "The diagnostic-data category includes findings documented by the radiologist, with lung opacities given as an example. Exposure settings and patient identifiers belong to different categories on this slide.",
+    "difficulty": "Application"
+  },
+  {
+    "lecture": 2,
+    "page": 29,
+    "stem": "Which pair of word-processing features is explicitly listed as supporting report preparation?",
+    "options": [
+      "Spell checking and standardized report templates",
+      "Window width and window level",
+      "Detector calibration and plate erasure",
+      "Exposure timing and beam collimation"
+    ],
+    "quote": "Supports spell checking and standardized report templates.",
+    "explanation": "The advantages slide names spell checking and standardized report templates. These are document-preparation features, whereas the other choices concern image display or radiographic equipment.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 2,
+    "page": 45,
+    "stem": "Which organization is paired with access to health guidance and publications in the research-resource table?",
+    "options": [
+      "World Health Organization",
+      "International Atomic Energy Agency",
+      "Zotero",
+      "Microsoft Excel"
+    ],
+    "quote": "World Health Organization (WHO)\nAccessing health guidance and publications",
+    "explanation": "The table pairs WHO with health guidance and publications. It separately assigns radiation-protection resources to IAEA, reference organization to Zotero and research-data analysis to Excel.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 3,
+    "page": 24,
+    "stem": "How does the lecture compare CR plate exposure latitude with conventional film?",
+    "options": [
+      "CR has wider exposure latitude",
+      "CR has narrower exposure latitude",
+      "CR has no exposure latitude",
+      "CR latitude depends only on film developer temperature"
+    ],
+    "quote": "It has a wide exposure latitude compared with conventional film.",
+    "explanation": "The CR advantages slide explicitly states that exposure latitude is wide compared with conventional film. This is a receptor comparison, rather than a claim that exposure selection no longer matters.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 3,
+    "page": 36,
+    "stem": "Which material is usually used for the photodiodes in indirect-conversion detectors according to the notes?",
+    "options": [
+      "Amorphous silicon",
+      "Amorphous selenium",
+      "Cesium iodide",
+      "Gadolinium oxysulfide"
+    ],
+    "quote": "In indirect-conversion detectors, photodiodes convert light from the scintillator into electrical charge. They are usually made from amorphous silicon.",
+    "explanation": "The source identifies amorphous silicon as the usual photodiode material. It assigns selenium to direct conversion and cesium iodide or gadolinium oxysulfide to scintillators, so those are different detector components.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 3,
+    "page": 41,
+    "stem": "A DR image-quality problem is traced to incorrect detector calibration. Which stated limitation does this illustrate?",
+    "options": [
+      "Detector artefacts and calibration problems can affect image quality",
+      "CR plates require laser readout",
+      "Darkroom safelights control digital detector calibration",
+      "Chemical fixation determines DR pixel values"
+    ],
+    "quote": "Image quality can be affected by detector artefacts and calibration problems.",
+    "explanation": "The DR disadvantages slide explicitly links detector artefacts and calibration problems with image quality. The scenario tests that detector-specific limitation, rather than a film-processing problem.",
+    "difficulty": "Application"
+  },
+  {
+    "lecture": 3,
+    "page": 43,
+    "stem": "Which conventional processing requirement is eliminated in the digital workflow described on the advantages slide?",
+    "options": [
+      "Photographic film and chemical processing",
+      "Patient identification",
+      "Selection of exposure factors",
+      "Radiation protection practices"
+    ],
+    "quote": "There is no need for conventional photographic film or chemical processing.",
+    "explanation": "The slide states that digital processing requires neither conventional photographic film nor chemical processing. Its final paragraph still identifies exposure factors, detector performance and radiation protection as essential.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 4,
+    "page": 24,
+    "stem": "Which material is listed as a possible radiotransparent interspace between grid lead strips?",
+    "options": [
+      "Aluminum",
+      "Tungsten target material",
+      "Lead foil",
+      "Silver bromide emulsion"
+    ],
+    "quote": "interspace radio parent   materials mostly made of organic compound or aluminum",
+    "explanation": "The grid description names organic compound or aluminum as interspace materials. This tests the material between the absorbing lead strips, rather than the previously tested strip material or grid ratio.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 4,
+    "page": 27,
+    "stem": "A department needs an X-ray unit that moves between hospital locations. Which category matches the lecture?",
+    "options": [
+      "Mobile",
+      "Static",
+      "Ceiling-mounted static only",
+      "Floor-mounted static only"
+    ],
+    "quote": "MOBILE :- This can be moved from one place to another within the department or hospital",
+    "explanation": "The mobile category is explicitly described as movable within the department or hospital. The static category is described separately as ceiling- or floor-mounted equipment.",
+    "difficulty": "Application"
+  },
+  {
+    "lecture": 4,
+    "page": 20,
+    "stem": "Which accessory is described as using the thermal effect of current to protect equipment against high current?",
+    "options": [
+      "Relay",
+      "Beam-centering aid",
+      "Collimator",
+      "Image-receptor tray"
+    ],
+    "quote": "RELAY:-This device protect the equipment against high current using the thermal effect of electric current.",
+    "explanation": "The relay entry specifically mentions the thermal effect of electric current. The question asks for the device as described in the supplied equipment notes.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 4,
+    "page": 19,
+    "stem": "Which accessory permits or stops current flow when operated to turn equipment on or off?",
+    "options": [
+      "Switch",
+      "Anti-scatter grid",
+      "Filament",
+      "Beam filter"
+    ],
+    "quote": "SWITCHES:- This device allows the flow of current to the circuit when operated and disallow the flow of current when stopped.",
+    "explanation": "The switches entry describes permitting and stopping current flow to turn equipment on or off. This is a control function, distinct from restricting the radiation field or filtering the beam.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 5,
+    "page": 10,
+    "stem": "Gelatin particles must be removed from circulating processor solutions. Which subsystem is assigned this task in the notes?",
+    "options": [
+      "Circulation or recirculation system",
+      "Film receiving bin",
+      "Cassette-loading sleeves",
+      "Anatomical marker holder"
+    ],
+    "quote": "Circulation / recirculation system:  Continuously pumps and agitates the developer and fixer solution to prevent thermal stratification, filter out gelatin particles, and maintain chemical homogeneity .",
+    "explanation": "The circulation system is explicitly assigned filtration of gelatin particles as well as pumping and agitation. This question focuses on removal of suspended material rather than the already tested maintenance of uniform bath conditions.",
+    "difficulty": "Application"
+  },
+  {
+    "lecture": 5,
+    "page": 22,
+    "stem": "Before measuring optical-density steps, which QA action creates the control-film exposure described in the lecture?",
+    "options": [
+      "Expose a control film using sensitometry",
+      "Measure developer temperature with a thermometer",
+      "Inspect the water filter",
+      "Measure replenisher volume"
+    ],
+    "quote": "Sensitometry and Densitometry:  Expose a control film using a sensitometry, process it , and measure the optical density steps",
+    "explanation": "The source sequence exposes a control film using sensitometry, then processes it and measures optical-density steps. This asks about creating the exposure rather than the densitometer used for the later measurement.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 5,
+    "page": 3,
+    "stem": "Besides dissolving unexposed silver halide, what action is assigned to the automatic processor's fixer tank?",
+    "options": [
+      "Hardening the gelatin emulsion",
+      "Generating the latent image with X-rays",
+      "Heating the cathode filament",
+      "Converting screen light to electrical charge"
+    ],
+    "quote": "Fixer Tank : Dissolves unexposed / underdeveloped silver halide and hardens the gelatin emulsion.",
+    "explanation": "The fixer-tank description explicitly includes hardening the gelatin emulsion. This is an additional stated function, separate from the removal of unexposed silver halide already tested elsewhere.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 5,
+    "page": 11,
+    "stem": "Which components are named as parts of the automatic processor's dryer system?",
+    "options": [
+      "High-velocity blower and heating elements",
+      "Photomultiplier tube and laser scanner",
+      "Cathode and anode",
+      "Developer and fixer replenisher pumps"
+    ],
+    "quote": "Dryer system:  Uses a high – velocity blower, heating elements",
+    "explanation": "The dryer-system description identifies a high-velocity blower and heating elements. These are dryer components rather than detector readout parts, tube electrodes or chemical replenishment equipment.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 6,
+    "page": 16,
+    "stem": "How should film be attached to a hanger at the start of the manual technique described?",
+    "options": [
+      "By its corners on a clean, dry hanger",
+      "By rubbing the wet emulsion onto a rack",
+      "By folding the centre over a rod",
+      "By holding only one unsupported wet edge"
+    ],
+    "quote": "Clip the film by its corners on a clean, dry hanger",
+    "explanation": "The first technique step specifies clipping film by its corners to a clean, dry hanger. This asks about initial attachment, rather than subsequent agitation or air-bell removal.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 6,
+    "page": 17,
+    "stem": "A developer bath is cooler than the stated standard condition. Which effect is described in the lecture?",
+    "options": [
+      "Slower action with underdevelopment",
+      "Faster action with increased fog",
+      "Instant complete fixation",
+      "No change in development"
+    ],
+    "quote": "A cooler bath works slowly and under-develops",
+    "explanation": "The time-and-temperature slide states that a cooler bath works slowly and under-develops. It contrasts this with faster action and possible fog in a warmer bath.",
+    "difficulty": "Application"
+  },
+  {
+    "lecture": 6,
+    "page": 18,
+    "stem": "Which arrangement of stirring equipment is specified for the separate manual processing tanks?",
+    "options": [
+      "Each tank has its own stirring rod",
+      "One rod is shared between all tanks without cleaning",
+      "Only the wash tank has a rod",
+      "Stirring rods are replaced by anatomical markers"
+    ],
+    "quote": "Each tank has its own lid and stirring rod",
+    "explanation": "The tank-arrangement slide specifies a separate lid and stirring rod for each tank. This tests the equipment allocation stated alongside the one-way processing path.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 6,
+    "page": 53,
+    "stem": "Which action is identified as essential for silver conservation before recovery is even needed?",
+    "options": [
+      "Reduce repeat exposures through correct exposure technique",
+      "Increase avoidable repeat examinations",
+      "Discard all used film immediately",
+      "Add more fixer after every exposure regardless of need"
+    ],
+    "quote": "Key point:. Reduce repeats with correct exposure technique is essential for silver conservation",
+    "explanation": "The conservation slide explicitly links correct exposure technique and fewer repeats with silver conservation. This tests prevention of waste, rather than the already tested methods of recovering silver from used fixer.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 7,
+    "page": 27,
+    "stem": "What separates the conductive plates of a capacitor in the lecture's construction description?",
+    "options": [
+      "An insulating dielectric",
+      "A continuous metal bridge",
+      "An X-ray target",
+      "A film emulsion layer"
+    ],
+    "quote": "two conductive plates separated by an insulating material ( a dielectric )",
+    "explanation": "The capacitor definition specifies two conductive plates separated by an insulating dielectric. This asks about construction, rather than the unit of capacitance already covered by an existing question.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 7,
+    "page": 10,
+    "stem": "Which radiation weighting factor is given for photons and electrons in the source slide?",
+    "options": [
+      "1",
+      "2",
+      "5",
+      "20"
+    ],
+    "quote": "photons and electrons have WR =1",
+    "explanation": "The weighting-factor statement assigns a value of 1 to photons and electrons. Other values on the same slide are assigned to other radiation types, so the particle category matters.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 7,
+    "page": 46,
+    "stem": "A nominal 12 V battery reads about 11.5 V while powering the headlights and engine. What explanation is given in the notes?",
+    "options": [
+      "Internal resistance",
+      "Complete absence of current",
+      "Conversion of volts into farads",
+      "Zero resistance throughout the circuit"
+    ],
+    "quote": "which drops slightly below 12 v ( eg 11.5 v ) because of internal resistance.",
+    "explanation": "The loaded-battery example attributes the lower terminal voltage to internal resistance. This tests the explanation for that specific voltage drop, rather than the definition of potential difference.",
+    "difficulty": "Application"
+  },
+  {
+    "lecture": 7,
+    "page": 47,
+    "stem": "In the comparison table, what happens to a source's EMF when current is zero?",
+    "options": [
+      "It remains present as the open-circuit voltage",
+      "It must always become zero",
+      "It changes into electric current",
+      "It is measured in ohms instead of volts"
+    ],
+    "quote": "When current is zero      Present ( equal to open                zero\nCircuit voltage )",
+    "explanation": "The EMF column says that EMF remains present when current is zero, equal to the open-circuit voltage. The question is confined to that source-column statement in the comparison table.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 8,
+    "page": 16,
+    "stem": "Which set contains the four muscles named as the principal contents of the pectoral region?",
+    "options": [
+      "Pectoralis major, pectoralis minor, subclavius and serratus anterior",
+      "Deltoid, teres major, supraspinatus and infraspinatus",
+      "Biceps, brachialis, triceps and anconeus",
+      "Rhomboids, levator scapulae, trapezius and latissimus dorsi"
+    ],
+    "quote": "It contains primarily four muscles: the pectoralis major and minor, subclavius and serratus anterior",
+    "explanation": "The pectoral-region introduction names these four muscles together. This tests regional membership, distinct from earlier questions about individual muscle attachments and actions.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 8,
+    "page": 30,
+    "stem": "How many metacarpals are listed in one hand?",
+    "options": [
+      "5",
+      "8",
+      "12",
+      "14"
+    ],
+    "quote": "It consists of 8 carpal bones, 5 metacarpals and 14 phalanges",
+    "explanation": "The hand description lists five metacarpals. Eight refers to the carpals and fourteen to the phalanges, so those numbers describe different bone groups.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 8,
+    "page": 30,
+    "stem": "Which three muscles make up the thenar group in the hand description?",
+    "options": [
+      "Abductor pollicis brevis, flexor pollicis brevis and opponens pollicis",
+      "Abductor digiti minimi, flexor digiti minimi and opponens digiti minimi",
+      "Dorsal interossei, palmar interossei and lumbricals",
+      "Pectoralis major, pectoralis minor and subclavius"
+    ],
+    "quote": "Thenar group: Form the base of the thumb (abductor pollicis brevis, flexor pollicis brevis, opponens pollicis)",
+    "explanation": "The thenar-group entry names abductor pollicis brevis, flexor pollicis brevis and opponens pollicis. This tests the named constituents rather than the already tested location at the thumb base.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 8,
+    "page": 34,
+    "stem": "Which pair is listed under dorsal spaces of the hand?",
+    "options": [
+      "Dorsal subcutaneous and dorsal subaponeurotic spaces",
+      "Thenar and midpalmar spaces",
+      "Carpal tunnel and cubital fossa",
+      "Axilla and anatomical snuffbox"
+    ],
+    "quote": "Dorsal spaces:\nDorsal Subcutaneous Space\nDorsal Subaponeurotic Space",
+    "explanation": "The dorsal-spaces slide lists dorsal subcutaneous and dorsal subaponeurotic spaces. This asks for the names supplied on that slide rather than the general clinical importance of fascial spaces.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 9,
+    "page": 20,
+    "stem": "For a child, who is identified as providing consent in the special-cases slide?",
+    "options": [
+      "Parent or guardian",
+      "An unrelated waiting-room patient",
+      "The equipment supplier",
+      "Any member of the public"
+    ],
+    "quote": "Children: parent or guardian consents",
+    "explanation": "The special-cases slide identifies a parent or guardian as the person providing consent for children. The question follows that supplied teaching statement without adding legal rules beyond the slide.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 9,
+    "page": 20,
+    "stem": "What documentation step is required across the consent special cases described in the lecture?",
+    "options": [
+      "Document every case",
+      "Record only cases with a normal radiograph",
+      "Rely only on an informal verbal handover",
+      "Avoid documenting the consent process"
+    ],
+    "quote": "Document every case in case of litigation",
+    "explanation": "The slide closes by instructing documentation of every case. This is a record-keeping requirement separate from the question of who provides consent.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 9,
+    "page": 38,
+    "stem": "Which two follow-up actions are listed for occupational dose monitoring?",
+    "options": [
+      "Review dosimeter readings regularly and report any overexposure",
+      "Store readings without review and ignore excess readings",
+      "Replace monitoring with image reject analysis alone",
+      "Review only the patient's exposure settings"
+    ],
+    "quote": "Review dosimeter readings regularly\nReport any overexposure",
+    "explanation": "The monitoring slide explicitly pairs regular review of dosimeter readings with reporting overexposure. This tests the monitoring actions rather than the name of the monitoring device.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 9,
+    "page": 41,
+    "stem": "Which equipment should be kept ready according to the emergency-response slide?",
+    "options": [
+      "Oxygen and suction",
+      "Only the film hopper and cassette hatch",
+      "Only the densitometer and sensitometer",
+      "Only the developer and fixer tanks"
+    ],
+    "quote": "Keep oxygen and suction ready",
+    "explanation": "The emergency-response slide specifically requires oxygen and suction to be ready. This question concerns equipment readiness rather than the separate response to a contrast reaction already tested in the bank.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 5,
+    "stem": "For the PA thumb position described, what angle should the palmar aspect of the hand make with the film?",
+    "options": [
+      "15 degrees",
+      "30 degrees",
+      "45 degrees",
+      "90 degrees"
+    ],
+    "quote": "Rotate hand medially until palmar aspect is 15 degree to film",
+    "explanation": "The PA thumb instructions call for medial hand rotation until the palmar aspect is 15 degrees to the film. This angle differs from the oblique-hand rotation described later in the deck.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 8,
+    "stem": "How much external rotation from PA is described for the lateral hand position?",
+    "options": [
+      "90 degrees",
+      "15 degrees",
+      "30 degrees",
+      "45 degrees"
+    ],
+    "quote": "From the PA position, the hand is externally rotated 90 degrees",
+    "explanation": "The lateral-hand section specifies 90 degrees of external rotation from PA. This tests the movement into lateral, rather than its already tested styloid alignment or foreign-body indication.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 8,
+    "stem": "Where is the ball-catcher projection centred in the supplied notes?",
+    "options": [
+      "Midway between the hands at the fifth metacarpophalangeal-joint level",
+      "Over the third metacarpal of one hand only",
+      "Over the radial styloid of one wrist only",
+      "At the lateral epicondyle of the humerus"
+    ],
+    "quote": "CP: A point midway between the hands at the level of the FIFTH metacarpophalangeal joint.",
+    "explanation": "The ball-catcher section centres between the hands at the level of the fifth metacarpophalangeal joints. This is a bilateral centring instruction, separate from the rotation used to create the position.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 12,
+    "stem": "Which profile check is explicitly required for the axial carpal-tunnel projection?",
+    "options": [
+      "The carpal region should be in profile",
+      "The humeral head should be in profile",
+      "The elbow epicondyles should be outside the field",
+      "The metatarsal heads should be superimposed"
+    ],
+    "quote": "Ensure that the carpal region is in profile",
+    "explanation": "The axial carpal-tunnel instructions explicitly require the carpal region to be in profile. The question tests this positioning check rather than the midcarpal centring point already covered.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 10,
+    "page": 18,
+    "stem": "During the inferosuperior arm position, how are the patient and head initially placed?",
+    "options": [
+      "Supine with the head turned away from the affected side",
+      "Prone with the head turned towards the affected side",
+      "Seated with the head resting on the affected shoulder",
+      "Standing with the chin over the affected arm"
+    ],
+    "quote": "Patient lie supine on the couch and turn head away from the affected side.",
+    "explanation": "The inferosuperior section begins with a supine patient and the head turned away from the affected side. The question uses that clear initial-position instruction, rather than the separate lateral-arm section above it.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 2,
+    "stem": "For dorsiplantar toes, what support is described to immobilize the examined foot?",
+    "options": [
+      "The knee of the opposite leg",
+      "A weight suspended from the toes",
+      "The patient's elbow",
+      "An unsupported heel hanging off the couch"
+    ],
+    "quote": "Support the side under examination with knee of the other leg to immobilize foot",
+    "explanation": "The dorsiplantar toe instructions describe using the other knee to support and immobilize the examined side. This tests the stated support method rather than foot-surface contact.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 3,
+    "stem": "Which film focal distance is listed for the dorsiplantar toe technique on this slide?",
+    "options": [
+      "100 cm",
+      "50 cm",
+      "150 cm",
+      "200 cm"
+    ],
+    "quote": "Film Focal Distance(FFD): 100cm",
+    "explanation": "The dorsiplantar toe technique lists an FFD of 100 cm. This is a recall question about the supplied lecture value, rather than a general prescription for every imaging system.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 7,
+    "stem": "For the AP ankle setup, how are the legs initially arranged in the notes?",
+    "options": [
+      "Legs extended with the unaffected leg abducted",
+      "Both knees fully flexed with feet crossed",
+      "Prone with the unaffected leg over the examined ankle",
+      "Standing with both knees touching the cassette"
+    ],
+    "quote": "Patient seat on the X-ray couch with legs extended and unaffected leg abducted.",
+    "explanation": "The AP ankle section starts with the patient seated, legs extended and unaffected leg abducted. This tests initial leg arrangement rather than malleolar alignment or ankle centring.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 10,
+    "stem": "What degree of knee flexion is described when placing the affected knee for the AP knee projection?",
+    "options": [
+      "Slight flexion",
+      "Full flexion until the heel touches the buttock",
+      "A mandatory 90-degree bend",
+      "No flexion under any circumstances"
+    ],
+    "quote": "Place the affected knee on the film and flex the joint slightly",
+    "explanation": "The AP knee instructions call for slight joint flexion. This is a positioning detail distinct from the already tested patellar alignment and centring point.",
+    "difficulty": "Recall"
+  },
+  {
+    "lecture": 11,
+    "page": 11,
+    "stem": "Which centring point is stated for the lateral knee projection in the supplied lecture?",
+    "options": [
+      "Middle of the superior border of the medial tibial condyle",
+      "2.5 cm below the patellar apex",
+      "Midline skin crease behind the knee",
+      "Midway between the ankle malleoli"
+    ],
+    "quote": "CP: Middle of the superior border of the medial tibia condyle",
+    "explanation": "The lateral-knee section gives the middle of the superior border of the medial tibial condyle as its centring point. The other options belong to separate projections in the same deck.",
+    "difficulty": "Recall"
+  }
+]

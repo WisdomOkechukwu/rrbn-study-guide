@@ -16,7 +16,7 @@ const { searchLectures } = loadTS('../app/search.ts');
 const { topics,topicForSlide,topicQuestions } = loadTS('../app/topics.ts');
 test('all questions have unique IDs, four distinct options, and valid source slides',()=>{
  assert.equal(new Set(questions.map(q=>q.id)).size,questions.length);
- assert.equal(lectures.length,10);assert.equal(lectures.reduce((n,l)=>n+l.slides.length,0),418);
+ assert.equal(lectures.length,12);assert.equal(lectures.reduce((n,l)=>n+l.slides.length,0),447);
  for(const q of questions){assert.equal(q.options.length,4,q.id);assert.equal(new Set(q.options).size,4,q.id);assert.ok(q.answer>=0&&q.answer<4,q.id);assert.ok(lectures[q.lecture].slides[q.page-1]?.text,q.id);assert.ok(q.explanation.length>70,q.id);}
  for(const l of lectures){assert.ok(questions.some(q=>q.lecture===l.id));assert.ok(fs.existsSync(path.resolve(__dirname,'../public'+l.file)));for(const s of l.slides)for(const image of s.images)assert.ok(fs.existsSync(path.resolve(__dirname,'../public'+image)));}
 });
@@ -45,7 +45,7 @@ test('Zustand records answers, preserves bookmarks, and finishes sessions only o
 test('all restyled decks preserve original text, equations, diagrams and package content',()=>{
  const {execFileSync}=require('node:child_process');
  const result=JSON.parse(execFileSync('python3',[path.resolve(__dirname,'verify_powerpoints.py')],{encoding:'utf8'}));
- assert.equal(result.decks,10);assert.equal(result.slides,418);assert.equal(result.mathRuns,48);assert.ok(result.mediaParts>50);assert.ok(result.unchangedParts>500);
+ assert.equal(result.decks,12);assert.equal(result.slides,447);assert.equal(result.mathRuns,48);assert.ok(result.mediaParts>50);assert.ok(result.unchangedParts>500);
 });
 
 test('reviewed arithmetic answers are independently recalculated',()=>{
@@ -71,7 +71,7 @@ test('reviewed arithmetic answers are independently recalculated',()=>{
  });
 
  test('new comprehension checks have exact slide excerpts and balanced deck coverage',()=>{
- const added=questions.slice(500);assert.equal(added.length,30);
+ const added=questions.slice(500,530);assert.equal(added.length,30);
  for(let i=0;i<10;i++)assert.equal(added.filter(q=>q.lecture===i).length,3);
  for(const q of added){
    const source=lectures[q.lecture].slides[q.page-1].text;
@@ -79,3 +79,50 @@ test('reviewed arithmetic answers are independently recalculated',()=>{
    assert.ok(source.includes(q.sourceExcerpt),q.id);assert.ok(q.explanation.includes(q.sourceExcerpt),q.id);
  }
  });
+
+test('technique subjects have source-grounded questions for every teaching slide and searchable content',()=>{
+ assert.equal(questions.length,640);
+ for(const [id,code,count] of [[10,'MXT 209',36],[11,'MXT 301',24]]){
+  const lecture=lectures[id];assert.equal(lecture.code,code);
+  const pool=questions.slice(530,590).filter(q=>q.lecture===id);assert.equal(pool.length,count);
+  for(const q of pool){
+   const source=lecture.slides[q.page-1].text;
+   assert.equal(q.sourceOrigin,'provided-powerpoint',q.id);assert.equal(q.sourceEvidence,source,q.id);
+   assert.ok(q.sourceExcerpt&&source.includes(q.sourceExcerpt),q.id);
+   assert.ok(q.explanation.length>70,q.id);
+  }
+  for(const slide of lecture.slides.slice(1))assert.ok(pool.some(q=>q.page===slide.page),`${code} slide ${slide.page}`);
+  const matches=searchLectures(id===10?'lateral elbow positioning':'patella positioning',id);
+  assert.ok(matches.length);assert.ok(matches.every(r=>r.lecture===id));
+  assert.ok(fs.existsSync(path.resolve(__dirname,'../public/lectures/redesigned',path.basename(lecture.file))));
+ }
+});
+
+
+test('fifty additional questions have unique stems and unrepeated verbatim source evidence',()=>{
+ const added=questions.slice(590);assert.equal(added.length,50);
+ const normalize=text=>text.toLowerCase().replace(/[^a-z0-9]/g,'');
+ assert.equal(new Set(questions.map(q=>normalize(q.stem))).size,questions.length);
+ for(let lecture=0;lecture<12;lecture++)assert.equal(added.filter(q=>q.lecture===lecture).length,lecture<10?4:5);
+ const evidence=new Set();
+ for(const q of added){
+   const source=lectures[q.lecture].slides[q.page-1].text;
+   assert.equal(q.sourceOrigin,'provided-powerpoint',q.id);assert.equal(q.sourceEvidence,source,q.id);
+   assert.ok(q.sourceExcerpt&&source.includes(q.sourceExcerpt),q.id);
+   const key=`${q.lecture}:${q.page}:${normalize(q.sourceExcerpt)}`;
+   assert.ok(!evidence.has(key),q.id);evidence.add(key);
+   assert.ok(!questions.slice(0,590).some(old=>old.lecture===q.lecture&&old.page===q.page&&normalize(old.sourceExcerpt||'')===normalize(q.sourceExcerpt)),q.id);
+ }
+});
+
+test('study shuffles preserve each item once and avoid immediate boundary repeats',()=>{
+ const {shuffle}=loadTS('../app/study-order.ts');
+ const original=['a','b','c','d','e'];
+ for(let round=0;round<100;round++){
+  const order=shuffle(original,'a');assert.equal(order.length,original.length);
+  assert.deepEqual([...order].sort(),original);assert.notEqual(order[0],'a');
+  assert.deepEqual(original,['a','b','c','d','e']);
+ }
+ assert.deepEqual(shuffle([]),[]);assert.deepEqual(shuffle(['only'],'only'),['only']);
+ assert.deepEqual(shuffle(['a','b'],'a'),['b','a']);
+});

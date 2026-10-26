@@ -519,6 +519,37 @@ for item in json.loads(pathlib.Path('scripts/additional_questions.json').read_te
               'explanation': f"The supplied PowerPoint states: “{item['quote']}” This supports the answer: {item['options'][0]}. Revisit slide {item['page']} to check the surrounding notes.",
               'difficulty': 'Recall', 'sourceExcerpt': item['quote']})
 
+# Technique I and II questions are authored only from the newly supplied decks.
+for item in json.loads(pathlib.Path('scripts/technique_questions.json').read_text()):
+ source = lectures[item['lecture']]['slides'][item['page']-1]['text']
+ assert item['quote'] in source, item['stem']
+ options = item['options'].copy()
+ random.Random(len(bank)+19).shuffle(options)
+ bank.append({'id': f'q{len(bank)+1:03}', 'lecture': item['lecture'], 'page': item['page'],
+              'stem': item['stem'], 'options': options, 'answer': options.index(item['options'][0]),
+              'explanation': item['explanation'], 'difficulty': item['difficulty'], 'sourceExcerpt': item['quote']})
+
+# Additional lecturer-authored items: distinct source facts and applications.
+for item in json.loads(pathlib.Path('scripts/expansion_questions.json').read_text()):
+ source = lectures[item['lecture']]['slides'][item['page']-1]['text']
+ assert item['quote'] in source, item['stem']
+ options = item['options'].copy()
+ random.Random(len(bank)+19).shuffle(options)
+ bank.append({'id': f'q{len(bank)+1:03}', 'lecture': item['lecture'], 'page': item['page'],
+              'stem': item['stem'], 'options': options, 'answer': options.index(item['options'][0]),
+              'explanation': item['explanation'], 'difficulty': item['difficulty'], 'sourceExcerpt': item['quote']})
+
+# Reject duplicate wording or re-used evidence passages for this expansion before writing.
+normalize = lambda text: ''.join(c for c in text.casefold() if c.isalnum())
+assert len({normalize(q['stem']) for q in bank}) == len(bank), 'Duplicate question stem'
+new_evidence = set()
+for q in bank[590:]:
+ key = (q['lecture'], q['page'], normalize(q['sourceExcerpt']))
+ assert key not in new_evidence, f"Repeated new learning objective: {q['id']}"
+ assert not any(old['lecture'] == q['lecture'] and old['page'] == q['page'] and
+                normalize(old.get('sourceExcerpt', '')) == key[2] for old in bank[:590]), f"Re-used source excerpt: {q['id']}"
+ new_evidence.add(key)
+
 # New items are authored exclusively from the supplied lecture slides.
 for q in bank[300:]:
  q['sourceOrigin']='provided-powerpoint'
