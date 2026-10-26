@@ -389,6 +389,8 @@ button, a, input, select { -webkit-tap-highlight-color: transparent; }
 .info-modal .field-label { margin-top: 24px; }
 .image-credits { font-size: 11px; color: var(--ink-6f8fb6, #6f8fb6); }
 .image-credits summary { cursor: pointer; }
+.image-credit-attribution { margin: 0 0 10px; font-size: 10px; }
+.image-credits .image-credit-attribution a { display: inline; padding: 0; }
 .image-credits a { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 8px 0; color: var(--blue); }
 .reader-backdrop { position: fixed; inset: 0; z-index: 110; padding: 15px; background: var(--surface-f0f5fb, #f0f5fb); }
 .reader { display: flex; flex-direction: column; height: 100%; overflow: hidden; border: 1px solid var(--line-d6e4f6, #d6e4f6); border-radius: 8px; background: var(--surface-f4f8fd, #f4f8fd); }
